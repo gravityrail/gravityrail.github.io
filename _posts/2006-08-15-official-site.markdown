@@ -15,9 +15,9 @@ categories:
 tags: []
 comments: []
 ---
-This temporary site will soon be taken offline - for the latest from South Watsonia, please visit <a href="http:&#47;&#47;nationofwatsonia.com&#47;south">http:&#47;&#47;nationofwatsonia.com&#47;south<&#47;a>
+This temporary site will soon be taken offline - for the latest from South Watsonia, please visit <a href="http://nationofwatsonia.com/south">http://nationofwatsonia.com/south</a>
 
-To check out the photo gallery, you can visit <a href="http:&#47;&#47;nationofwatsonia.com&#47;gallery">http:&#47;&#47;nationofwatsonia.com&#47;gallery<&#47;a>
+To check out the photo gallery, you can visit <a href="http://nationofwatsonia.com/gallery">http://nationofwatsonia.com/gallery</a>
 Cheers,
 
 Dan

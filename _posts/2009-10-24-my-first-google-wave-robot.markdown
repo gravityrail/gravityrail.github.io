@@ -64,13 +64,13 @@ comments:
     MjAwOS0xMC0yNiAwODozNjo1NyAtMDcwMA==
   date_gmt: !binary |-
     MjAwOS0xMC0yNiAxNTozNjo1NyAtMDcwMA==
-  content: i guess u may talk about ur development in <a href="http:&#47;&#47;googlewavecommunity.com&#47;forum&#47;viewforum.php?f=5"
-    rel="nofollow">google wave developer's den<&#47;a>
+  content: i guess u may talk about ur development in <a href="http://googlewavecommunity.com/forum/viewforum.php?f=5"
+    rel="nofollow">google wave developer's den</a>
 ---
 So last night, powered by half a bottle of cheap plonk, I wrote and deployed my first Google Wave Robot. It's not perfect yet, but it kinda works. All it does is replace emoticons with pictures. Right now, they're pictures of my girlfriend.
 
-To try it out, you'll need a <a href="http:&#47;&#47;wave.google.com&#47;">Google Wave<&#47;a> account. Currently they're invite-only, alas.
+To try it out, you'll need a <a href="http://wave.google.com/">Google Wave</a> account. Currently they're invite-only, alas.
 
-Simply add "wavesmiley@appspot.com" to any conversation where you want the smileys to be converted. Any "blips" you edit will have emoticons replaced, in "near real time". Currently only :-) :-( ;-) and :-D are supported. :-&#47; coming soon.
+Simply add "wavesmiley@appspot.com" to any conversation where you want the smileys to be converted. Any "blips" you edit will have emoticons replaced, in "near real time". Currently only :-) :-( ;-) and :-D are supported. :-/ coming soon.
 
-Awesome! <a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;wink.png"><img src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;wink.png" alt="wink" title="wink" class="alignnone size-full wp-image-368" &#47;><&#47;a>
+Awesome! <a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/wink.png"><img src="http://www.danwalmsley.com/wp-content/uploads/2009/10/wink.png" alt="wink" title="wink" class="alignnone size-full wp-image-368" /></a>

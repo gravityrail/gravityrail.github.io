@@ -25,4 +25,4 @@ comments:
     MjAwOS0xMC0yMyAwOTowNToyOSAtMDcwMA==
   content: har har
 ---
-<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;alarmist_banner_fail.jpg"><img src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;alarmist_banner_fail.jpg" alt="alarmist_banner_fail" title="alarmist_banner_fail" class="aligncenter size-full wp-image-366" &#47;><&#47;a>
+<a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/alarmist_banner_fail.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2009/10/alarmist_banner_fail.jpg" alt="alarmist_banner_fail" title="alarmist_banner_fail" class="aligncenter size-full wp-image-366" /></a>

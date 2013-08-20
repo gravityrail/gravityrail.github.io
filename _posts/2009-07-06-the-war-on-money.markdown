@@ -93,18 +93,18 @@ comments:
     that forces industries to adapt to a new world in which the external costs of
     production (disease, poverty, long-term environmental degradation) are finally
     integrated into the broader economic models that we use. \r\n\r\nAnd, from my
-    (admittedly naive) perspective, this legislation <b>will not happen<&#47;b> while
+    (admittedly naive) perspective, this legislation <b>will not happen</b> while
     the polluting industries have a disproportionate voice in our capital, and other
     capitals around the world."
 ---
-Watching the <a href="http:&#47;&#47;www.ormond.unimelb.edu.au&#47;announcements&#47;ann3.shtml">commencement speech<&#47;a> of the new Master of Ormond College (a local private high school), I was struck by how the defining challenge of our generation will be the overthrow of vested interests, in the interest of saving the planet.
+Watching the <a href="http://www.ormond.unimelb.edu.au/announcements/ann3.shtml">commencement speech</a> of the new Master of Ormond College (a local private high school), I was struck by how the defining challenge of our generation will be the overthrow of vested interests, in the interest of saving the planet.
 
 Two things have become increasingly apparent to me over recent days:
 
 <ol>
-  <li>Government organisational structures are the last hold-outs in broader society against an entrepreneurial ecosystem that is able to rapidly change in response to new challenges and attitudes. The business and community sectors are far more in sync with what people want than those in elected office, and yet it is governments who are able to have the greatest impact on the defining challenge of our times: reversing humanity's negative impact on the environment.<&#47;li>
-  <li>A key force in defining government attitudes is the ability of those with money to lobby governments to maintain the status quo.<&#47;li>
-  <li>Ergo, there are two things we can do to shift government priorities. Restructure government itself, or reduce the value of money to almost zero. Or both.<&#47;li>
-<&#47;ol>
+  <li>Government organisational structures are the last hold-outs in broader society against an entrepreneurial ecosystem that is able to rapidly change in response to new challenges and attitudes. The business and community sectors are far more in sync with what people want than those in elected office, and yet it is governments who are able to have the greatest impact on the defining challenge of our times: reversing humanity's negative impact on the environment.</li>
+  <li>A key force in defining government attitudes is the ability of those with money to lobby governments to maintain the status quo.</li>
+  <li>Ergo, there are two things we can do to shift government priorities. Restructure government itself, or reduce the value of money to almost zero. Or both.</li>
+</ol>
 
 Stay tuned.

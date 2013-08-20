@@ -17,7 +17,7 @@ comments: []
 ---
 Okay dear readers, get ready for this blog to get Imperially Abstract on your a$$, because Content is King! I have officially been selected as a mentor for the American Film Institute's Digital Content Lab, which means being part of the best prototype digital entertainment projects the US of A has to offer. This, I'm sure I don't need to tell you, is a Good Thing :-)
 
-Many thanks here to <a href="http:&#47;&#47;xmedialab.com">XMediaLab<&#47;a>, without whom this couldn't possibly have happened - they brought me to LA in the first place.
+Many thanks here to <a href="http://xmedialab.com">XMediaLab</a>, without whom this couldn't possibly have happened - they brought me to LA in the first place.
 
 Last week I met the team, hung out, drove around (there is not other viable mode of transport in the Land of Endless Boulevards), jacked in, hooked up, logged on, downloaded, brain dumped, injested, verified, transcoded and streamed.
 

@@ -36,7 +36,7 @@ comments:
   date_gmt: !binary |-
     MjAwOS0wNy0yNiAxMTowMDo1MSAtMDcwMA==
   content: Have you tried the product-video phone, well I tried and I can see my loveones
-    that was far away w&#47;o the hassle of opening the computer? And its real time,
+    that was far away w/o the hassle of opening the computer? And its real time,
     I am paying my landline anyway why not take this opportunity to used the technology.
 ---
 I sent Francis a letter. It was the least I could do.
@@ -63,5 +63,5 @@ I feel sorry for them.
 
 All the best,
 Dan
-<&#47;blockquote>
+</blockquote>
 

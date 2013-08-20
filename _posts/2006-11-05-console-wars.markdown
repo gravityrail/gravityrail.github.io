@@ -26,4 +26,4 @@ comments:
     bring a friend to your Wii opening night?  Neither he nor I will have a console
     but I could bring a massive projector?"
 ---
-Last week's appearance on Breakfast Show Live focused on the race to be the King of Consoles. Check it out: <a href="&#47;breakfast-show-live&#47;console-wars&#47;">Console Wars<&#47;a>.
+Last week's appearance on Breakfast Show Live focused on the race to be the King of Consoles. Check it out: <a href="/breakfast-show-live/console-wars/">Console Wars</a>.

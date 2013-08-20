@@ -16,7 +16,7 @@ tags: []
 comments: []
 ---
 Sometimes it helps to look to the past in order to put the present in context. With that in mind, here's a song I wrote in 2000, just before the US and Australian elections.
-<h2>War is Over<&#47;h2>
+<h2>War is Over</h2>
 Words and Music by Dan Walmsley
 
 It's the year 2000
@@ -29,7 +29,7 @@ Showed us the ways of evil men
 But now we've learned the lessons of history
 We'll never have to learn them again
 
-<strong>Peace upon the Earth<&#47;strong>
+<strong>Peace upon the Earth</strong>
 
 Many wars were caused
 By leaders going off their tree
@@ -44,7 +44,7 @@ I'm sure they'll back the fuck away
 <strong>Because war is over
 Peace from now on
 Technology will help us move away from fossil fuels
-And the Middle Eastern tension will be gone<&#47;strong>
+And the Middle Eastern tension will be gone</strong>
 
 War benefits just two groups
 In modern societies
@@ -56,7 +56,7 @@ All we have to do is say
 People closely linked to those two groups
 Cannot run the USA
 
-<strong>Peace upon the earth<&#47;strong>
+<strong>Peace upon the earth</strong>
 
 Now that war is over
 We can turn our thoughts to peace
@@ -71,9 +71,9 @@ Will be voted out at last
 <strong>Because war is over,
 Peace has come at last,
 Kyoto will be signed, society we be refined,
-And violence will be looked upon as crass<&#47;strong>
+And violence will be looked upon as crass</strong>
 
 <strong>Yeah war is over,
 Peace forever more,
 We've hurt so much and learned so much in the 20th century,
-I can't wait to see what the 21st one has in store<&#47;strong>
+I can't wait to see what the 21st one has in store</strong>

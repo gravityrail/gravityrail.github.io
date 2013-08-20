@@ -17,4 +17,4 @@ comments: []
 ---
 Probably the most optimistic thing ever.
 
-<object width="425" height="350"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;D2CgMKMnxU0"><&#47;param><embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;D2CgMKMnxU0" type="application&#47;x-shockwave-flash" width="425" height="350"><&#47;embed><&#47;object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/D2CgMKMnxU0"></param><embed src="http://www.youtube.com/v/D2CgMKMnxU0" type="application/x-shockwave-flash" width="425" height="350"></embed></object>

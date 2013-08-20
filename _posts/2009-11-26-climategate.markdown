@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-Reprinted below is a response to a <a href="http:&#47;&#47;online.wsj.com&#47;article&#47;SB10001424052748703499404574558070997168360.html#articleTabs%3Darticle">"climategate" editorial<&#47;a> published in the Wall Street Journal by Kimberly A. Strassel.
+Reprinted below is a response to a <a href="http://online.wsj.com/article/SB10001424052748703499404574558070997168360.html#articleTabs%3Darticle">"climategate" editorial</a> published in the Wall Street Journal by Kimberly A. Strassel.
 
 In the article Strassel quotes Rep. Jim Inhofe's claims that "Cap and Trade is dead".
 
@@ -25,7 +25,7 @@ Reader thoughts welcome, though I do recommend you read the original article for
 
 Response continues...
 
-<hr &#47;>It's a real shame to see legislation on a globally important issue such as climate change treated with the same kind of partisan rhetoric as anything else.
+<hr />It's a real shame to see legislation on a globally important issue such as climate change treated with the same kind of partisan rhetoric as anything else.
 
 Despite your accusations that the leaked emails are "damaging", not one scrap of evidence has been unveiled that indicates that the published data is wrong, that the models are incorrect, or indeed that the planet isn't warming and that this warming is caused by humans.
 

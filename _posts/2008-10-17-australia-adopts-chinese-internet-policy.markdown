@@ -40,7 +40,7 @@ comments:
   content: This is soo stupid. The Australian Government is so hypocritical. They
     critize the Chinese censorship but adopt the same policy and says its nothing.
 ---
-I was stunned and baffled today to read that not only is Australia implementing a national porn filter, but that there is <a href="http:&#47;&#47;arstechnica.com&#47;news.ars&#47;post&#47;20081016-net-filters-required-for-all-australians-no-opt-out.html">no way to completely opt-out of the system<&#47;a>.
+I was stunned and baffled today to read that not only is Australia implementing a national porn filter, but that there is <a href="http://arstechnica.com/news.ars/post/20081016-net-filters-required-for-all-australians-no-opt-out.html">no way to completely opt-out of the system</a>.
 
 Even if you switch off the "inappropriate for children" part, there remains in place an "inappropriate for anyone in Australia" part, the rules for which will presumably remain secret and under the control of someone who "knows better".
 

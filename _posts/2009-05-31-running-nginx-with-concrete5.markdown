@@ -43,7 +43,7 @@ comments:
     MjAxMC0wNS0xOCAxNDo1NTo1NiAtMDcwMA==
   date_gmt: !binary |-
     MjAxMC0wNS0xOCAyMTo1NTo1NiAtMDcwMA==
-  content: ! "It works for me with \r\nfastcgi_param  SCRIPT_FILENAME  &#47;var&#47;www&#47;example.com&#47;concrete5$script;"
+  content: ! "It works for me with \r\nfastcgi_param  SCRIPT_FILENAME  /var/www/example.com/concrete5$script;"
 - id: 41403
   author: andreas
   author_email: drns@foo.org
@@ -66,11 +66,11 @@ comments:
 ---
 I've been sitting here all day bashing my head against one simple problem - getting Concrete5 working behind Nginx.
 
-<a href="http:&#47;&#47;concrete5.org">Concrete5<&#47;a> is a beautiful, simple php-based CMS - a loud answer to the complexity of Joomla and Drupal, but of course missing some of the power too. It's perfect for web sites that aren't managed by total geeks.
+<a href="http://concrete5.org">Concrete5</a> is a beautiful, simple php-based CMS - a loud answer to the complexity of Joomla and Drupal, but of course missing some of the power too. It's perfect for web sites that aren't managed by total geeks.
 
 Nginx is the world's fastest and most efficient web server. Hands down, no competition, no argument.
 
-The problem I had integrating the two stems from nginx+php-fastcgi not correctly passing through the PATH_INFO variable so you can have URLs like "http:&#47;&#47;example.com&#47;index.php&#47;path&#47;to&#47;file".
+The problem I had integrating the two stems from nginx+php-fastcgi not correctly passing through the PATH_INFO variable so you can have URLs like "http://example.com/index.php/path/to/file".
 
 The solution was to slightly alter the usual php-fastcgi parameter processing. Below is my complete config for my concrete5 site. This worked on Debian Lenny with nginx 0.7.59.
 
@@ -83,8 +83,8 @@ server {
         server_name     www.example.com;
         autoindex on;
 
-	location &#47; {
-	       root &#47;var&#47;www&#47;example.com&#47;concrete5&#47;;
+	location / {
+	       root /var/www/example.com/concrete5/;
                 index index.php;
 
 		if (!-f $request_filename){
@@ -94,24 +94,24 @@ server {
                     set $rule_0 2$rule_0;
                }
                if ($rule_0 = "21"){
-                    rewrite ^&#47;(.*)$ &#47;index.php&#47;$1 last;
+                    rewrite ^/(.*)$ /index.php/$1 last;
                }
 	}
 
-        location ~ \.php($|&#47;) {
+        location ~ \.php($|/) {
            set  $script     $uri;
             set  $path_info  "";
 
-            if ($uri ~ "^(.+\.php)(&#47;.+)") {
+            if ($uri ~ "^(.+\.php)(/.+)") {
               set  $script     $1;
               set  $path_info  $2;
             }
           fastcgi_pass   127.0.0.1:9000;
           fastcgi_index  index.php;
-          fastcgi_param  SCRIPT_FILENAME  &#47;var&#47;www&#47;example.com&#47;concrete5$fastcgi_script_name;
-	  fastcgi_param URI $uri; 
+          fastcgi_param  SCRIPT_FILENAME  /var/www/example.com/concrete5$fastcgi_script_name;
+	  fastcgi_param URI $uri;
 	  fastcgi_param PATH_INFO $path_info;
-          include        &#47;etc&#47;nginx&#47;fastcgi.conf;
+          include        /etc/nginx/fastcgi.conf;
         }
 }
-<&#47;pre>
+</pre>

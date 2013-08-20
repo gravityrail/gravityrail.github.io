@@ -20,10 +20,10 @@ tags:
 - chloehall
 comments: []
 ---
-There's something I've been working on recently as part of <a href="http:&#47;&#47;www.agentblank.com">Agent Blank<&#47;a> that I'm really, really proud of, and now that we've got a few episodes under our belt I'm ready to share it with the world. 
+There's something I've been working on recently as part of <a href="http://www.agentblank.com">Agent Blank</a> that I'm really, really proud of, and now that we've got a few episodes under our belt I'm ready to share it with the world.
 
 It's called "Chloe Hall: Show on the Road" and it's a web series shot entirely by the band while on the road, and edited by our little team of miscreants here in Melbourne, Johnny Blank and Benjamin Murphy.
 
-I hope you really enjoy it. The player is embedded below (I hope this works!). You can view the whole series at <a href="http:&#47;&#47;www.chloehall.com.au&#47;show-on-the-road">Chloe's web site<&#47;a>.
+I hope you really enjoy it. The player is embedded below (I hope this works!). You can view the whole series at <a href="http://www.chloehall.com.au/show-on-the-road">Chloe's web site</a>.
 
-<embed src="http:&#47;&#47;blip.tv&#47;play&#47;g85kAZfWdA" type="application&#47;x-shockwave-flash" width="700" height="340" allowscriptaccess="always" allowfullscreen="true"><&#47;embed>
+<embed src="http://blip.tv/play/g85kAZfWdA" type="application/x-shockwave-flash" width="700" height="340" allowscriptaccess="always" allowfullscreen="true"></embed>

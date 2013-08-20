@@ -25,12 +25,12 @@ comments:
   content: ! "hillarious, Mickey the cat!\r\n\r\nI say let em, Disney shouldn't still
     have the copyright anyway"
 ---
-A great deal of hullabaloo and huffery-puffery has been generated between the WTO (i.e. the USA) and China over China's failure to crack down on the production of counterfeit goods. 
+A great deal of hullabaloo and huffery-puffery has been generated between the WTO (i.e. the USA) and China over China's failure to crack down on the production of counterfeit goods.
 
-Until now, I never paid much notice. Who cares if China feeds the poor by selling fake designer handbags and copies of Windows XP? 
+Until now, I never paid much notice. Who cares if China feeds the poor by selling fake designer handbags and copies of Windows XP?
 
-But <a href="http:&#47;&#47;www.japanprobe.com&#47;?p=1678">this is just outrageous<&#47;a>. 
-<a class="imagelink" href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;chinese-magic-kingdom.jpg" title="The Magical Kingsdom"><img id="image89" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;chinese-magic-kingdom.thumbnail.jpg" alt="The Magical Kingsdom" &#47;><&#47;a><a class="imagelink" href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;fake-donald-beijing.jpg" title="Dunald Dock"><img id="image90" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;fake-donald-beijing.thumbnail.jpg" alt="Dunald Dock" &#47;><&#47;a><a class="imagelink" href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;fake-donald-duck.jpg" title="Dunald Dock 2"><img id="image91" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;fake-donald-duck.thumbnail.jpg" alt="Dunald Dock 2" &#47;><&#47;a>
+But <a href="http://www.japanprobe.com/?p=1678">this is just outrageous</a>.
+<a class="imagelink" href="http://www.danwalmsley.com/wp-content/uploads/2007/05/chinese-magic-kingdom.jpg" title="The Magical Kingsdom"><img id="image89" src="http://www.danwalmsley.com/wp-content/uploads/2007/05/chinese-magic-kingdom.thumbnail.jpg" alt="The Magical Kingsdom" /></a><a class="imagelink" href="http://www.danwalmsley.com/wp-content/uploads/2007/05/fake-donald-beijing.jpg" title="Dunald Dock"><img id="image90" src="http://www.danwalmsley.com/wp-content/uploads/2007/05/fake-donald-beijing.thumbnail.jpg" alt="Dunald Dock" /></a><a class="imagelink" href="http://www.danwalmsley.com/wp-content/uploads/2007/05/fake-donald-duck.jpg" title="Dunald Dock 2"><img id="image91" src="http://www.danwalmsley.com/wp-content/uploads/2007/05/fake-donald-duck.thumbnail.jpg" alt="Dunald Dock 2" /></a>
 
 It's a counterfeit Disneyland. Their slogan? "Because Disneyland is too far". I'm not making this up.
 

@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-Bizarre ads from the era of that brought you cellophane, the ball-point pen and bomb shelters. Just <a href="http:&#47;&#47;adsoftheworld.com&#47;blog&#47;chris&#47;2007&#47;may&#47;14&#47;the_good_old_days">go check it out<&#47;a>. Oh, the guilty pleasure!
+Bizarre ads from the era of that brought you cellophane, the ball-point pen and bomb shelters. Just <a href="http://adsoftheworld.com/blog/chris/2007/may/14/the_good_old_days">go check it out</a>. Oh, the guilty pleasure!

@@ -39,9 +39,9 @@ comments:
 ---
 I just authored this on a plane, while sitting in an exit row, in honour of Exit Rows everywhere.
 
-I'm 6'6" &#47; 200cm. You get the idea.
+I'm 6'6" / 200cm. You get the idea.
 
-<strong>Happiness is an Exit Row<&#47;strong>
+<strong>Happiness is an Exit Row</strong>
 
 Happiness is an Exit Row
 With knees not shifting to and fro
@@ -52,7 +52,7 @@ I do so love you Exit Row
 Happiness is an Exit Row
 With room  to stage a puppet show
 While dressed as Edgar Allen Poe
-With <span style="text-decoration: line-through;">daughter<&#47;span> <span style="text-decoration: line-through;">cousin<&#47;span> wife in tow
+With <span style="text-decoration: line-through;">daughter</span> <span style="text-decoration: line-through;">cousin</span> wife in tow
 Oh! How I love my Exit Row
 
 Happiness is an Exit Row
@@ -61,4 +61,4 @@ The  handle pulled, the door I'll blow
 Released your belt and out you go
 I'd kill to have my Exit Row
 
-Oh, how I <strong>love<&#47;strong> my Exit Row!
+Oh, how I <strong>love</strong> my Exit Row!

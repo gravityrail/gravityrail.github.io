@@ -35,8 +35,8 @@ comments:
   content: ! "That should be \"success\" in inverted commas. They tested it on a few
     dozen people. \r\n\r\nNot exactly a scalability triumph."
 ---
-Last week on Melbourne's 3RRR, Georgia Webster, Andrew Fish, Keren Flavell and myself discussed Windows 7, TinyXP, iPhone security, defamation, video games, the seeming success of the Australian 'net filtering trial and my experiences at the Open Video Conference. 
+Last week on Melbourne's 3RRR, Georgia Webster, Andrew Fish, Keren Flavell and myself discussed Windows 7, TinyXP, iPhone security, defamation, video games, the seeming success of the Australian 'net filtering trial and my experiences at the Open Video Conference.
 
 It was a really fun experience and reminded me how much I miss radio. There's something very liberating about such a simple live medium, and you don't have to worry about whether you've got food on your shirt. Radio is kind of a nerd's dream, because it's closer to "pure thought" than all the live visual media.
 
-<a href="http:&#47;&#47;rrrfm.libsyn.com&#47;index.php?post_id=509371#">You can download the MP3 here<&#47;a>.
+<a href="http://rrrfm.libsyn.com/index.php?post_id=509371#">You can download the MP3 here</a>.

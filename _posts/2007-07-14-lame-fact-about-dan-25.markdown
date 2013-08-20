@@ -24,7 +24,7 @@ comments:
     MjAwNy0xMC0yNiAwMzo1MDoyOSAtMDcwMA==
   content: HAHAHA! I just found this! Thanks for returning the favour :)
 ---
-I get excited every time someone writes about me. 
+I get excited every time someone writes about me.
 
-I met Sarah Jansen at the downstairs bar during <a href="http:&#47;&#47;www.brizimprovfest.com&#47;">Brisbane Improv Festival<&#47;a>. She was quite lovely and, it turns out, an arts writer. And she <a href="http:&#47;&#47;www.sarahjansen.com&#47;2007&#47;06&#47;brizimprovfest_interviews_impro_musos.html">wrote about me<&#47;a>. Thanks Sarah!
+I met Sarah Jansen at the downstairs bar during <a href="http://www.brizimprovfest.com/">Brisbane Improv Festival</a>. She was quite lovely and, it turns out, an arts writer. And she <a href="http://www.sarahjansen.com/2007/06/brizimprovfest_interviews_impro_musos.html">wrote about me</a>. Thanks Sarah!
 

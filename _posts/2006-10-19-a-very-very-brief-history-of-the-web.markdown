@@ -42,6 +42,6 @@ comments:
     MjAwNi0xMC0yNCAxMDo1MzoxMCAtMDcwMA==
   content: Cats that look like Hitler = gold.
 ---
-For the last few months, I've had a regular TV spot on Channel 31's <a href="http:&#47;&#47;www.thebreakfastshow.net.au&#47;">Breakfast Show Live<&#47;a> as the Geek of the Week (though it's actually fortnightly).
+For the last few months, I've had a regular TV spot on Channel 31's <a href="http://www.thebreakfastshow.net.au/">Breakfast Show Live</a> as the Geek of the Week (though it's actually fortnightly).
 
-This morning, my topic was the History of the Web. I've posted the transcript online for dissection and ridicule. <a href="http:&#47;&#47;www.danwalmsley.com&#47;breakfast-show-live&#47;a-history-of-the-web&#47;">Enjoy<&#47;a>!
+This morning, my topic was the History of the Web. I've posted the transcript online for dissection and ridicule. <a href="http://www.danwalmsley.com/breakfast-show-live/a-history-of-the-web/">Enjoy</a>!

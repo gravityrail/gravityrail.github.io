@@ -18,7 +18,7 @@ categories:
 tags: []
 comments: []
 ---
-Today at the APEC summit, President Obama announced that top world leaders <a href="http:&#47;&#47;www.nytimes.com&#47;2009&#47;11&#47;15&#47;world&#47;asia&#47;15prexy.html?ref=global-home">would not form a binding, global agreement<&#47;a> on CO2 emissions reduction at the Copenhagen Summit this December.
+Today at the APEC summit, President Obama announced that top world leaders <a href="http://www.nytimes.com/2009/11/15/world/asia/15prexy.html?ref=global-home">would not form a binding, global agreement</a> on CO2 emissions reduction at the Copenhagen Summit this December.
 
 They didn't give any firm dates, beyond saying that such an agreement is not likely before the second half of 2010, which basically means 2011.
 

@@ -21,7 +21,7 @@ tags:
 - review
 comments: []
 ---
-I'm celebrating today as one of my shows, "<a href="http:&#47;&#47;www.danwalmsley.com&#47;2009&#47;07&#47;04&#47;the-hotel&#47;">The Hotel<&#47;a>", got <a href="http:&#47;&#47;edinburghfestival.list.co.uk&#47;article&#47;19664-the-hotel&#47;">5 stars in The List<&#47;a>.
+I'm celebrating today as one of my shows, "<a href="http://www.danwalmsley.com/2009/07/04/the-hotel/">The Hotel</a>", got <a href="http://edinburghfestival.list.co.uk/article/19664-the-hotel/">5 stars in The List</a>.
 
 Still waiting for The Scotsman. Fingers crossed...
 

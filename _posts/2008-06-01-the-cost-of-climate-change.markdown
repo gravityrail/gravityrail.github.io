@@ -48,7 +48,7 @@ comments:
     bottom, but they'll certainly move waaaay down. Perhaps far enough that they won't
     be able to fund their lavish lifestyles with the dividends from companies whose
     profit is derived from creating an unsustainable burden on the environment.\r\n\r\nYes,
-    after the CO2&#47;global warming crisis there will be another crisis. And yes,
+    after the CO2/global warming crisis there will be another crisis. And yes,
     it will largely be driven by our unsustainably large population. But that's hardly
     a rational argument for not solving the current problem.\r\n\r\nThere is no single
     fix that will solve all these problems in one fell swoop. \r\n\r\nWhat, exactly,
@@ -92,7 +92,7 @@ comments:
     (and almost instantly) worth a whole lot less.\r\n\r\nMachines that produce something
     nobody wants are only good for scrap. The owners of those machines (usually via
     shares) are then by extension worth much less than before. It's unavoidable.\r\n\r\nDefinition
-    of shares: http:&#47;&#47;www.answers.com&#47;topic&#47;share\r\n\r\nThe reason
+    of shares: http://www.answers.com/topic/share\r\n\r\nThe reason
     why very wealthy people diversify their portfolios is indeed this whole problem
     of suddenly being worth nothing. The more well-considered definitions of diversification
     include stocks which \"hedge\" - one stock is sure to go up as another goes down,
@@ -110,7 +110,7 @@ I was reading the front page of "The Australian" today, and apparently scientist
 
 So-called "free market capitalists" are decrying any moves to regulate anything as being damaging to the economy, cutting jobs. The free market will sort it out, they say.
 
-I see one enormous problem with everyone's thinking on this. The very reason why the capitalist system has been so successful: Change creates opportunity. 
+I see one enormous problem with everyone's thinking on this. The very reason why the capitalist system has been so successful: Change creates opportunity.
 
 That's the reason why you can't model the impacts of this change: The outcomes of all these opportunities will be the product of the collective inventiveness of private industry to accomodate them, and nobody knows what radical means will be invented to do this, but invented they shall be.
 
@@ -122,7 +122,7 @@ To summarise: If the government regulates to reverse the damage to our environme
 
 And sure, you need to keep the shock small enough that everybody doesn't starve. But then, if it's too small we'll all starve as well - that much is certain.
 
-To digress momentarily: In engineering, you always make things 3 times stronger than you need them to be, because there's a chance things will get worse than you think. 
+To digress momentarily: In engineering, you always make things 3 times stronger than you need them to be, because there's a chance things will get worse than you think.
 
 Which is why it infuriates me so much that governments the world over are only legislating to implement the merest fraction of the required changes to stabilise our environment.
 
@@ -130,4 +130,4 @@ I suspect the reason for all this resistance and hyperbole is one simple fact: W
 
 If you became rich from the Century of Oil, then I think it's safe to say that the good times are over, one way or another. The only remaining question is whether we let them take us down with them.
 
-<&#47;rant> 
+</rant>

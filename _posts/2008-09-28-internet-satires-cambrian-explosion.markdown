@@ -37,8 +37,8 @@ comments:
     MjAwOC0xMi0yMSAxNzoyODozNSAtMDgwMA==
   content: ! '[...] Internet Satire&acirc;&euro;&trade;s Cambrian Explosion [...]'
 ---
-It used to be about re-cutting new trailers from old movies (see <a href="http:&#47;&#47;www.youtube.com&#47;watch?v=Qf-Gn0bXPCc">Something Blue<&#47;a> for the ultimate). Now we're getting completely original trailers for movies that never existed at all.
+It used to be about re-cutting new trailers from old movies (see <a href="http://www.youtube.com/watch?v=Qf-Gn0bXPCc">Something Blue</a> for the ultimate). Now we're getting completely original trailers for movies that never existed at all.
 
-This is a really, really impressive video. Matt Damon was right: Sarah Palin's life really <strong>is<&#47;strong> a bad Disney movie.
+This is a really, really impressive video. Matt Damon was right: Sarah Palin's life really <strong>is</strong> a bad Disney movie.
 
-<object type="application&#47;x-shockwave-flash" data="http:&#47;&#47;www.collegehumor.com&#47;moogaloop&#47;moogaloop.swf?clip_id=1831461&fullscreen=1" width="640" height="360" ><param name="allowfullscreen" value="true" &#47;><param name="AllowScriptAccess" value="true" &#47;><param name="movie" quality="best" value="http:&#47;&#47;www.collegehumor.com&#47;moogaloop&#47;moogaloop.swf?clip_id=1831461&fullscreen=1" &#47;><&#47;object><div style="padding:5px 0; text-align:center; width:640px;">See more <a href="http:&#47;&#47;www.collegehumor.com&#47;videos">funny videos<&#47;a> and <a href="http:&#47;&#47;www.collegehumor.com&#47;pictures">funny pictures<&#47;a> at <a href="http:&#47;&#47;www.collegehumor.com&#47;">CollegeHumor<&#47;a>.<&#47;div>
+<object type="application/x-shockwave-flash" data="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1831461&fullscreen=1" width="640" height="360" ><param name="allowfullscreen" value="true" /><param name="AllowScriptAccess" value="true" /><param name="movie" quality="best" value="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1831461&fullscreen=1" /></object><div style="padding:5px 0; text-align:center; width:640px;">See more <a href="http://www.collegehumor.com/videos">funny videos</a> and <a href="http://www.collegehumor.com/pictures">funny pictures</a> at <a href="http://www.collegehumor.com/">CollegeHumor</a>.</div>

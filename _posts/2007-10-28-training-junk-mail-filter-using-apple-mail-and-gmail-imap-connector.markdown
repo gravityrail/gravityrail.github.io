@@ -30,7 +30,7 @@ Like most people, I get literally thousands of spam messages a month. I never se
 
 This is all well and good if you've got a Gmail account, but what if you want Google-quality filtering for your business or other mail accounts?
 
-Well, thanks to Gmail IMAP support, we now have a <b>massive and incredibly accurate data set<&#47;b> for training Apple Mail's junk filter. Gmail IMAP lets you browse folders other than your inbox. So once you've added it to your Apple Mail account list, simply browse to the Spam folder, select all, then mark those messages As Junk.
+Well, thanks to Gmail IMAP support, we now have a <b>massive and incredibly accurate data set</b> for training Apple Mail's junk filter. Gmail IMAP lets you browse folders other than your inbox. So once you've added it to your Apple Mail account list, simply browse to the Spam folder, select all, then mark those messages As Junk.
 
 This simple act will train Mail's bayesian spam filtering system on everything in your GMail spam folder, no doubt instantly improving its performance somewhat. In my case, the spam folder usually has 3000-4000 messages in it, which is fairly hefty and it would certainly take a lot of clicking to get that kind of data by hand.
 

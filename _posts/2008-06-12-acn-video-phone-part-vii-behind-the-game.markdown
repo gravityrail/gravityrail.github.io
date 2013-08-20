@@ -29,7 +29,7 @@ comments:
     were able to resolve the dropped call issues. It was due to my Internet and the
     Modem update. It seems that Broadband Internet is better for Videophone then the
     DSL Internet provided by ACN.\r\n\r\nYesterday ACN announced that their IRIS 3000
-    Videophone will be released in July 2008. Preliminary info is available at http:&#47;&#47;www.getvideophone.com&#47;index.php?option=com_content&amp;task=view&amp;id=84&amp;Itemid=131\r\n\r\nIt
+    Videophone will be released in July 2008. Preliminary info is available at http://www.getvideophone.com/index.php?option=com_content&amp;task=view&amp;id=84&amp;Itemid=131\r\n\r\nIt
     is still unclear if the IRIS 3000 will be able to call videophones from other
     providers. The big difference with this model is a bigger 7\" screen and Videomail
     capabilities. More details to follow in July."
@@ -52,7 +52,7 @@ comments:
     than the Meegos mob (3hgroup). 3hgroup tried to anonymously discredit me or sway
     the argument using very ham-handed tactics like posting under multiple identities
     (but the same IP address - duh!), whereas ACN obviously know quite a bit about
-    marketing and negotiation&#47;game theory.\r\n\r\nI'm probably out of my depth.
+    marketing and negotiation/game theory.\r\n\r\nI'm probably out of my depth.
     We'll see."
 - id: 13135
   author: matsonian
@@ -80,8 +80,8 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wOS0xMyAxMzo1MToyNiAtMDcwMA==
   content: ! "Hey Dan. \r\n\r\nInteresting that you would respond in that way to Ravi
-    and have to agree with matsonian about the manner&#47;tone in which you required
-    acknowledgement of&#47;for yourself in a prescribed manner and yet could not return
+    and have to agree with matsonian about the manner/tone in which you required
+    acknowledgement of/for yourself in a prescribed manner and yet could not return
     the favour.\r\n\r\nReeking with sarcasm and cynicism, why is it so hard to allow
     Ravi his freedom to be an entrepreneur (obviously) for his business?\r\n\r\nAnd
     there is always a prescribed manner in which one does things in their work regardless
@@ -113,7 +113,7 @@ comments:
     them to see the person they are talking to.\r\n\r\nMatsonian have you tried calling
     a IRIS 3000 videophone from Skype? I can provide you with my Videophone number
     if you want to try.\r\n\r\nI do not have the specs for the IRIS 3000. I do have
-    the user manual http:&#47;&#47;www.myacncanada.ca&#47;documents&#47;iris3000_userguide_en.pdf"
+    the user manual http://www.myacncanada.ca/documents/iris3000_userguide_en.pdf"
 - id: 14038
   author: Todd Thompson
   author_email: todd@seewhoyoucall.com
@@ -401,7 +401,7 @@ comments:
   date_gmt: !binary |-
     MjAwOS0wNi0wOCAwNjoyODo0NCAtMDcwMA==
   content: ! "I found a site that sells them!!!\r\nand its around $30 a month. thats
-    not bad at all.\r\n\r\n\r\nhttps:&#47;&#47;shop.myacn.com&#47;storefront&#47;acn-us&#47;acn-us-all-devices&#47;cACN_US-cACN_US_ALL_DEVICES-p1.html?SMODE=1&amp;repId=01860178"
+    not bad at all.\r\n\r\n\r\nhttps://shop.myacn.com/storefront/acn-us/acn-us-all-devices/cACN_US-cACN_US_ALL_DEVICES-p1.html?SMODE=1&amp;repId=01860178"
 - id: 30064
   author: Trea
   author_email: tabj04@gmail.com
@@ -467,7 +467,7 @@ comments:
     i still have un-rectified problems,  if your an acn customer i have even had acn
     techs suggest other companies broadband connections in order to be able to cope
     with the amout of bandwidth that the iris 3000 requires,\r\n\r\n- The IRIS 3000
-    requires a minimum of 256kb&#47;s upload, even putting it down to 128kb&#47;s
+    requires a minimum of 256kb/s upload, even putting it down to 128kb/s
     upload on the phone,doesnt make a difference on a 256k upload connection, the
     video image is generally pixilated and the speech is delayed and unclear, it drops
     out randomly,\r\n\r\ni also had similar issues on a 24mb download 1mb upload connection
@@ -498,16 +498,16 @@ comments:
     to my work landline.\r\n\r\nWhen I'm out and about I'm usually on the laptop and
     that has a mic. My WinMo has skype however that only works via speakerphone (headset
     works, however I never have it with me).\r\n\r\nPoint is skype is awesome if you
-    have the correct equipment, a computer (mic &#47; speakers) and fast internet.
+    have the correct equipment, a computer (mic / speakers) and fast internet.
     If there was a device I could buy that only plugs into a Ethernet connection that
     didn't cost $300, that would be great.\r\n\r\nI haven't played with the ACN video
     phone yet (I'm a rep, inactive, I'm a customer (mobile)) however people I know
     who are reps have no complaints. My guess is they have decent internet connections.
     I actually ended up here after I did a Google search for SIP settings.\r\nBasically
     if you can get these you can use any VOIP soft client. At which point I still
-    don't think the $30 &#47; month is good value considering calls to mobiles are
+    don't think the $30 / month is good value considering calls to mobiles are
     per minute and not included, plus the $300 for that actual device... I have the
-    $129 unlimited mobile plan (got to pay for 13&#47;1300&#47;1800 calls though)
+    $129 unlimited mobile plan (got to pay for 13/1300/1800 calls though)
     that includes 2GB data, so paying an extra $30 per month is a bit stupid (my situation
     only).\r\n\r\nMy experience with ACN customer service has always been great, however
     I think that is mostly attributed to the fact that I know more about what I want
@@ -518,9 +518,9 @@ comments:
     rather than later Google Voice will come to Australia and I can get on that as
     all I need is a single number for people to call that then calls any of my actual
     phones. That would be awesome :)\r\n\r\n@Pixmyster: the only skitchy part of the
-    acn mobile&#47;3g broadband is the the skitchiness of the Optus network... If
+    acn mobile/3g broadband is the the skitchiness of the Optus network... If
     you wont to avoid ACN make sure you avoid Optus and all associated re-sellers
-    and that leaves you with 2 options, Telstra &amp; Vodafone&#47;Three. Vodafones
+    and that leaves you with 2 options, Telstra &amp; Vodafone/Three. Vodafones
     network is also patchy so that leaves you with Telstra, which gets you an awesome
     network you have to pay through the nose for at which point I'll stick with Optus.
     Optus works where I need it to work and its a good price :)"
@@ -548,7 +548,7 @@ comments:
     MjAwOS0xMS0wOSAyMzoyODo0MSAtMDgwMA==
   content: ! "Hi Wes,\n\nYes, I realise that \"pyramid selling\" and \"network or
     relationship marketing\" are different from a legal perspective, but you actually
-    haven't defined how they're <strong>different<&#47;strong>. What are the differences
+    haven't defined how they're <strong>different</strong>. What are the differences
     that makes one legal and the other illegal? \n\nAnd in terms of getting your initial
     outlay back, congratulations. I've started four actual real companies in the last
     year and got my initial outlay back on all of them within a couple of months -
@@ -556,8 +556,8 @@ comments:
     your own company. The advantage to me is that I am allowed to market my own product
     through channels that aren't direct contacts, i.e. billboards, Google ads, etc.
     \ ACN will not let you do that, as far as I'm aware.\n\nRegarding Pyramid vs MLM,
-    various sites run by MLM fans can only come up with \"<a href=\"http:&#47;&#47;www.profitclinic.com&#47;MLM&#47;boobytraps&#47;pyramid_1.html\"
-    rel=\"nofollow\">motive and attitude<&#47;a>\" as a distinction - hardly a functional
+    various sites run by MLM fans can only come up with \"<a href=\"http://www.profitclinic.com/MLM/boobytraps/pyramid_1.html\"
+    rel=\"nofollow\">motive and attitude</a>\" as a distinction - hardly a functional
     difference, let alone a \"huge\" one, and one that is far more dependent on the
     personalities involved than the system itself.\n\nSo yes, please do define the
     difference between pyramid selling and network marketing. Put our minds to rest!\n\nDan"
@@ -619,10 +619,10 @@ comments:
     MjAwOS0xMi0wNiAyMDoyNjozMCAtMDgwMA==
   date_gmt: !binary |-
     MjAwOS0xMi0wNyAwMzoyNjozMCAtMDgwMA==
-  content: ! "Seriously, if ACN are a wholly legitimate company, why would they <i>need<&#47;i>
+  content: ! "Seriously, if ACN are a wholly legitimate company, why would they <i>need</i>
     a number of former attorney generals? That makes them sound even more dodgy than
     they did before.\r\n\r\nI never said what they're doing is illegal. I said it's
-    immoral. There's a difference. An immoral company is one that <strong>should<&#47;strong>
+    immoral. There's a difference. An immoral company is one that <strong>should</strong>
     be out of business, but isn't because they hired a bunch of former attorneys general
     to protect them."
 - id: 32109
@@ -783,14 +783,14 @@ In the comments of my previous post, Ravi Nayar writes:
 
 The IRIS 2000 Videophone supports analog phone equipment. You can plug your current home phone into the IRIS 2000. This allows you to have extensions throughout your home to work.
 
-The IRIS 2000 Videophone are made in South Korea.<&#47;blockquote>
+The IRIS 2000 Videophone are made in South Korea.</blockquote>
 
-So effectively the IRIS 2000 video phone is a standard VoIP phone with standard H.263 (i.e. previous generation) video, and not the revolutionary piece of equipment touted by ACN. 
+So effectively the IRIS 2000 video phone is a standard VoIP phone with standard H.263 (i.e. previous generation) video, and not the revolutionary piece of equipment touted by ACN.
 
-What's not clear from Ravi's comment is whether the IRIS 2000 supports calling other video phones that use the same protocols. Such capabilities would expose ACN to direct competition, but at least then the ACN would be slightly useful. 
+What's not clear from Ravi's comment is whether the IRIS 2000 supports calling other video phones that use the same protocols. Such capabilities would expose ACN to direct competition, but at least then the ACN would be slightly useful.
 
 Finally, Ravi says that the lack of long distance charges are what makes the ACN video phone "special". But it also happens to be what makes Skype-Out "special", PennyTel "special", Vonage "special", etc etc.
 
-You can find a reasonably complete list of VoIP providers reviewed at <a href="http:&#47;&#47;www.voipreview.org&#47;review.all.aspx">voipreview.org<&#47;a>.
+You can find a reasonably complete list of VoIP providers reviewed at <a href="http://www.voipreview.org/review.all.aspx">voipreview.org</a>.
 
 Note that ACN is not exactly near the top, and only ranks 3 stars despite obvious attempts by ACN marketers to skew the results.

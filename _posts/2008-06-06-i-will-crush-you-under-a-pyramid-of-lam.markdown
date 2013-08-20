@@ -96,7 +96,7 @@ comments:
     after placing a normal \"for sale\" classified ad in a local newspaper. Presumably
     other advertisers were contacted too.\r\n\r\nFrom what I've read, such cold-calling
     is not allowed (I'm not even certain if number-farming like this is legal?) but
-    could not see any such limitation in the Australian agreement at:\r\nhttps:&#47;&#47;myacn2.acninc.com&#47;OnLineRepAgreement&#47;jsp&#47;AU&#47;AULegal.jsp\r\n\r\nHas
+    could not see any such limitation in the Australian agreement at:\r\nhttps://myacn2.acninc.com/OnLineRepAgreement/jsp/AU/AULegal.jsp\r\n\r\nHas
     the agreement changed or did I miss the important bit as I skimmed through?"
 - id: 29704
   author: BEM
@@ -149,7 +149,7 @@ comments:
     MjAwOS0xMS0wMiAxNzoyMDowOCAtMDgwMA==
   date_gmt: !binary |-
     MjAwOS0xMS0wMyAwMDoyMDowOCAtMDgwMA==
-  content: ! "Replied to the most recent comment here: \r\n\r\nhttp:&#47;&#47;www.danwalmsley.com&#47;2009&#47;11&#47;02&#47;acn-serves-up-a-piping-hot-nonsenseburger&#47;"
+  content: ! "Replied to the most recent comment here: \r\n\r\nhttp://www.danwalmsley.com/2009/11/02/acn-serves-up-a-piping-hot-nonsenseburger/"
 - id: 35952
   author: Missing
   author_email: bringonenergy@gmail.com
@@ -161,10 +161,10 @@ comments:
   content: ! "Missing:  \r\nThe Videophone does two things:  Make it easier for non
     techies to setup and use.\r\nIs less expensive than a landline:  Is it more expensive
     than Skype?  Yes.  Is it more expensive than Webcam?  Yes.  Is it easier to use?
-    As of (9&#47;1&#47;2010) yes it is.\r\n\r\nHowever, THIS IS NOT THE ONLY PRODUCT
+    As of (9/1/2010) yes it is.\r\n\r\nHowever, THIS IS NOT THE ONLY PRODUCT
     THAT ACN HAS!\r\n\r\nACN also has cell phones which cost less than the carriers
     offer (phones are less, provider plans are identical).  ACN offers Satellite TV
-    services Direct TV and Dish Network for less than on the open market by $5-10&#47;mo
+    services Direct TV and Dish Network for less than on the open market by $5-10/mo
     (depending on the plan).  ACN offers ADT Home Security, for the same monthly service,
     but installation is free.  (Some ADT contractors charge $350!)\r\nACN offers Landline
     for less than the local provider, by almost $10 (depending on plan features).\r\n\r\nMore
@@ -189,7 +189,7 @@ Some context: I am interested in VoIP video-conferencing at the moment because (
 
 The first thing I asked was "how does the technology work, what protocols does it use?". I was shown a brochure whose only mention of technology was accompanied by the word "proprietary", which immediately rang alarm bells.
 
-The entire history of the PSTN has been a fight against proprietary communications networks. They are the enemy of connectivity and utility. They are a technological leech, a barrier to communication creating problems where none should exist. 
+The entire history of the PSTN has been a fight against proprietary communications networks. They are the enemy of connectivity and utility. They are a technological leech, a barrier to communication creating problems where none should exist.
 
 By the way, we do have open standards for video conferencing. They're called SIP and H.264, or H.323, or whatever. They work well enough. My friends and I can buy different SIP-phones and still talk to each other. By contrast, proprietary protocols are the bugle-call of the Cavalrey of Lock-In Hell.
 
@@ -197,45 +197,45 @@ I asked him to tell me what these proprietary protocols were, and he had no idea
 
 So I proceeded to tell him that I wasn't interested, and he said "let me show you this DVD, it might explain the technology". Right.
 
-The DVD showed a lot of people driving fancy cars, and living in enormous homes filmed through vaseline-covered lenses, populated by actors who run the gamut of ethnic backgrounds and age groups. No dice. 
+The DVD showed a lot of people driving fancy cars, and living in enormous homes filmed through vaseline-covered lenses, populated by actors who run the gamut of ethnic backgrounds and age groups. No dice.
 
 The owner (or some other senior guy) comes on.
 
 "ACN will become the biggest company in the world."
 
-<em>Alarm bells.<&#47;em>
+<em>Alarm bells.</em>
 
 Then, Donald Trump comes on. Donald Trump! Now there's a man whose image conjures up respect. For the death penalty. For white-collar crime. When the revolution comes.
 
-Trump opined: "ACN offers a great opportunity for you to start your own business with none of the risk and costs associated with starting a normal business.". 
+Trump opined: "ACN offers a great opportunity for you to start your own business with none of the risk and costs associated with starting a normal business.".
 
-<em>Louder alarm bells.<&#47;em>
+<em>Louder alarm bells.</em>
 
 He went on: "In the coming years, the video phone market could become bigger than the property market."
 
-<em>Alarm bells so loud they alter the orbits of nearby satellites.<&#47;em>
+<em>Alarm bells so loud they alter the orbits of nearby satellites.</em>
 
 I clicked the next menu item. Ooh! A bit about the phone!
 
-It's just a video phone. You can only talk to other people using the same video phone. You can make normal phone calls with it too. Nice, but kinda useless and not exactly revolutionary. 
+It's just a video phone. You can only talk to other people using the same video phone. You can make normal phone calls with it too. Nice, but kinda useless and not exactly revolutionary.
 
 The video stops and I still know nothing.
 
 My first question: "What makes you think people are going to pay $30 a month for a video phone service when they can get the same thing for free with their PC and a webcam?"
 
-"Sure", says the kid, "Telstra make money don't they? We charge the same way they do.". Uh, yes, and Telstra has a government-granted monopoly. This is not exactly comparing apples to apples. 
+"Sure", says the kid, "Telstra make money don't they? We charge the same way they do.". Uh, yes, and Telstra has a government-granted monopoly. This is not exactly comparing apples to apples.
 
 I go on for a while about how proprietary consumer-level VoIP is a stupid idea, and then it hits me: he's not asking me to use their tech; he's asking me to be a reseller. And not just any reseller - a multi-level marketing reseller.
 
-That's right, folks. ACN is a pyramid scheme. Note that I said <em>scheme<&#47;em>, not scam. They <em>are<&#47;em> legal (they barely escaped prosecution for violating the Trade Practises Act of 1974), but they're also extremely deceptive and when you run the numbers it's simply not possible for the vast majority of participants to make money. I didn't have a calculator in front of me at the time but I told this kid that I reckoned only the top 30% make any money, and that the top 5% make 95% of the money.
+That's right, folks. ACN is a pyramid scheme. Note that I said <em>scheme</em>, not scam. They <em>are</em> legal (they barely escaped prosecution for violating the Trade Practises Act of 1974), but they're also extremely deceptive and when you run the numbers it's simply not possible for the vast majority of participants to make money. I didn't have a calculator in front of me at the time but I told this kid that I reckoned only the top 30% make any money, and that the top 5% make 95% of the money.
 
-Turns out my guesstimate wasn't far off. And I wasn't even including the vast array of hidden fees that you can find listed <a href="http:&#47;&#47;arbyte.us&#47;blog_archive&#47;2005&#47;04&#47;ACN_Pyramid_Scam.html">elsewhere<&#47;a>. 
+Turns out my guesstimate wasn't far off. And I wasn't even including the vast array of hidden fees that you can find listed <a href="http://arbyte.us/blog_archive/2005/04/ACN_Pyramid_Scam.html">elsewhere</a>.
 
 So I tackle this with Francis, and he seems a little perturbed but presses on. It turns out they also sell mobile and fixed line telecommunications products.
 
 Ok, so they sell:
 
-(a) A product nobody wants (proprietary videophones that don't talk SIP), and 
+(a) A product nobody wants (proprietary videophones that don't talk SIP), and
 (b) A product so commoditised that there's practically no margin in it (mobile and fixed line phone plans)
 
 But the common link between these two products? They're both new enough that normal people don't understand the market dynamics yet. They think they're getting in "ahead of the curve", when in fact they're taking a sharp turn off a cliff.
@@ -244,11 +244,11 @@ I could go on, but I won't. Suffice it to say: They won't be getting my $500 sig
 
 And, hopefully now that I've written this, they won't have any more customers or representatives in Australia. Fingers crossed.
 
-<strong>Useful links:<&#47;strong>
+<strong>Useful links:</strong>
 <ul>
-	<li><a href="http:&#47;&#47;arbyte.us&#47;blog_archive&#47;2005&#47;04&#47;ACN_Pyramid_Scam.html">Two<&#47;a> <a href="http:&#47;&#47;arbyte.us&#47;blog_archive&#47;2005&#47;11&#47;A_Little_ACN_Mail.html">posts<&#47;a> about their US program from 2005 by someone who went to a seminar.<&#47;li>
-	<li><a href="http:&#47;&#47;www.crimes-of-persuasion.com&#47;Crimes&#47;Delivered&#47;ACN&#47;ACN%20MLM.htm">An analysis of the economics<&#47;a> of ACN's brand of Multi-Level Marketing<&#47;li>
-	<li>ACN's <a href="http:&#47;&#47;www.acnintegrity.com&#47;nopyramidscheme.html">own rebuttal<&#47;a> to claims they're a pyramid scheme<&#47;li>
-<&#47;ul>
+	<li><a href="http://arbyte.us/blog_archive/2005/04/ACN_Pyramid_Scam.html">Two</a> <a href="http://arbyte.us/blog_archive/2005/11/A_Little_ACN_Mail.html">posts</a> about their US program from 2005 by someone who went to a seminar.</li>
+	<li><a href="http://www.crimes-of-persuasion.com/Crimes/Delivered/ACN/ACN%20MLM.htm">An analysis of the economics</a> of ACN's brand of Multi-Level Marketing</li>
+	<li>ACN's <a href="http://www.acnintegrity.com/nopyramidscheme.html">own rebuttal</a> to claims they're a pyramid scheme</li>
+</ul>
 
 

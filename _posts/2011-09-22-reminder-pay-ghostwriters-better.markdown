@@ -20,4 +20,4 @@ comments: []
 ---
 I bet @markdavison deletes these in a hurry.
 
-<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;ghostwriter_fail.png"><img class="aligncenter size-full wp-image-550" title="ghostwriter_fail" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;ghostwriter_fail.png" alt="" width="534" height="805" &#47;><&#47;a>
+<a href="http://www.danwalmsley.com/wp-content/uploads/2011/08/ghostwriter_fail.png"><img class="aligncenter size-full wp-image-550" title="ghostwriter_fail" src="http://www.danwalmsley.com/wp-content/uploads/2011/08/ghostwriter_fail.png" alt="" width="534" height="805" /></a>

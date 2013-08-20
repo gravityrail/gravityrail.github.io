@@ -17,9 +17,9 @@ comments: []
 ---
 Hi there,
 
-Well, here we are in the thick of Comedy Fest, and I think it's time I drew your attention to the phattest, hottest, maddest show there is - Triple Trouble. Stand-up, music and impro mashed together into one delectable soup of comedy goodness. 
+Well, here we are in the thick of Comedy Fest, and I think it's time I drew your attention to the phattest, hottest, maddest show there is - Triple Trouble. Stand-up, music and impro mashed together into one delectable soup of comedy goodness.
 
-Head on over to the <a href="http:&#47;&#47;danwalmsley.com&#47;triple-trouble">Triple Trouble page<&#47;a> to find out more. It's a different line-up every night, so you're guaranteed to be entertained no matter how many times you come down.
+Head on over to the <a href="http://danwalmsley.com/triple-trouble">Triple Trouble page</a> to find out more. It's a different line-up every night, so you're guaranteed to be entertained no matter how many times you come down.
 
 Super!
 

@@ -42,18 +42,18 @@ comments:
     it than the cleaner-and-nicer mercurial.
 ---
 Based on notes from a recent BarCamp, here's my one-minute introduction to Git, a distributed revision control system (a system for managing collaborative changes to files, usually used for software development). This is probably only useful to someone who's already a programmer and already trying to use git, as a kind of cheat-sheet.
-<h2>git notes<&#47;h2>
+<h2>git notes</h2>
 Links:
 <ul>
-	<li><a href="http:&#47;&#47;xrl.us&#47;bfjzz6"><strong>Git Notes<&#47;strong><&#47;a><&#47;li>
-	<li><a href="http:&#47;&#47;xrl.us&#47;bfjzzt "><strong>Alec's Git Bookmarks<&#47;strong><&#47;a><&#47;li>
-<&#47;ul>
+	<li><a href="http://xrl.us/bfjzz6"><strong>Git Notes</strong></a></li>
+	<li><a href="http://xrl.us/bfjzzt "><strong>Alec's Git Bookmarks</strong></a></li>
+</ul>
 Step 1: Create a directory with files in it. Done? Good. Let's proceed. "cd" into the directory and...
 
 <code>
-$ git init <- initialise repo<&#47;code>
+$ git init <- initialise repo</code>
 
-<code>$ git status <- tells you which files are &#47; are-not in version control
+<code>$ git status <- tells you which files are / are-not in version control
 
 $ git add   ... <- add files to repo, do it for each "meaningful change"
 
@@ -73,10 +73,10 @@ $ git checkout feature1 <- switch to branch "feature1"
 
 $ gitk --all <- horrific-looking but useful GUI
 
-<&#47;code>
+</code>
 
 <code>$ git merge feature1 <- merge changes on feature1 into current branch(example assumes you're on a different branch)
-<&#47;code>
+</code>
 
 If you get a merge conflict, it will look like this:
 
@@ -84,6 +84,6 @@ If you get a merge conflict, it will look like this:
 Auto-merged file1
 CONFLICT (content): Merge conflict in file1
 Automatic merge failed; fix conflicts and then commit the result.
-<&#47;code>
+</code>
 
 Hope this helps someone else as much as it helped me...

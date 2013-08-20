@@ -15,20 +15,20 @@ categories:
 tags: []
 comments: []
 ---
-<p>Tomorrow night is a landmark in television, for that is when Planet Nerd Episode 3 goes to air. After a rollercoaster week which saw us become the #1 comedian on YouTube (take <b>THAT<&#47;b> kitten-that-almost-says-hello!), we return with our biggest show yet!<&#47;p>
+<p>Tomorrow night is a landmark in television, for that is when Planet Nerd Episode 3 goes to air. After a rollercoaster week which saw us become the #1 comedian on YouTube (take <b>THAT</b> kitten-that-almost-says-hello!), we return with our biggest show yet!</p>
 
 <ul>
-<li>Dan Walmsley reports pseudo-live from Steve Jobs' keynote speech at Apple's Worldwide Developer Conference<&#47;li>
-<li>Paul Verhoeven and Ben McKenzie investigate the brainy world of Zombies<&#47;li> 
-<li>Simon Barber brings us the Weekly Whedon<&#47;li>
-<li>Musical parody heaven from Anyone for Tennis<&#47;li>
-<li>And so much more!<&#47;li>
-<&#47;ul>
+<li>Dan Walmsley reports pseudo-live from Steve Jobs' keynote speech at Apple's Worldwide Developer Conference</li>
+<li>Paul Verhoeven and Ben McKenzie investigate the brainy world of Zombies</li>
+<li>Simon Barber brings us the Weekly Whedon</li>
+<li>Musical parody heaven from Anyone for Tennis</li>
+<li>And so much more!</li>
+</ul>
 
-<p>As usual, you can catch us at 10pm on Channel 31 Melbourne. If you miss that, we're on again at 1am Saturday night<&#47;p>
+<p>As usual, you can catch us at 10pm on Channel 31 Melbourne. If you miss that, we're on again at 1am Saturday night</p>
 
-L8rz,<br &#47;>
-Dan Walmsley<br &#47;>
+L8rz,<br />
+Dan Walmsley<br />
 Host and Patsy-in-Chief, Planet Nerd
 
-<p>P.S. You can subscribe to the Planet Nerd mailing list and catch YouTube versions of parts of the show at <a href="http:&#47;&#47;planetnerd.tv">http:&#47;&#47;planetnerd.tv<&#47;a>.<&#47;p>
+<p>P.S. You can subscribe to the Planet Nerd mailing list and catch YouTube versions of parts of the show at <a href="http://planetnerd.tv">http://planetnerd.tv</a>.</p>

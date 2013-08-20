@@ -30,23 +30,23 @@ comments:
     supports analog phone equipment. You can plug your current home phone into the
     IRIS 2000. This allows you to have extensions throughout your home to work.\r\n\r\nThe
     IRIS 2000 Videophone are made in South Korea.\r\n\r\nThe specs for the IRIS 2000
-    Videophone are available at http:&#47;&#47;www.getvideophone.com&#47;index.php?option=com_content&amp;task=view&amp;id=46&amp;Itemid=99"
+    Videophone are available at http://www.getvideophone.com/index.php?option=com_content&amp;task=view&amp;id=46&amp;Itemid=99"
 ---
-I finally found <a href="http:&#47;&#47;www.getvideophone.com&#47;index.php?option=com_content&task=view&id=46&Itemid=99">the specifications<&#47;a> for the Iris 2000 video phone that ACN is trumpeting as the Next Big Thing (tm).
+I finally found <a href="http://www.getvideophone.com/index.php?option=com_content&task=view&id=46&Itemid=99">the specifications</a> for the Iris 2000 video phone that ACN is trumpeting as the Next Big Thing (tm).
 
 It turns out - it does use SIP! Halleluyah. And H.263, and all the other IETF-recommended standards.
 
 The same standards supported by:
-- <a href="http:&#47;&#47;www.neobits.com&#47;leadtek_bvp_8762_sip_videophone_p9875.html">Leadtek<&#47;a>
-- <a href="http:&#47;&#47;www.grandstream.com&#47;gxv3000.html">Grandstream<&#47;a> ($299, which has far better protocol support including H.264)
-- <a href="http:&#47;&#47;www.neobits.com&#47;d-link_dvc-2000_broadband_desktop_videophone_p9873.html">D-Link<&#47;a>
-- <a href="http:&#47;&#47;www.alibaba.com&#47;showroom&#47;Video_Phone.html">Many, many more<&#47;a>
+- <a href="http://www.neobits.com/leadtek_bvp_8762_sip_videophone_p9875.html">Leadtek</a>
+- <a href="http://www.grandstream.com/gxv3000.html">Grandstream</a> ($299, which has far better protocol support including H.264)
+- <a href="http://www.neobits.com/d-link_dvc-2000_broadband_desktop_videophone_p9873.html">D-Link</a>
+- <a href="http://www.alibaba.com/showroom/Video_Phone.html">Many, many more</a>
 
 And so on.
 
 The difference?
 
-ACN's video phone is barely mentioned anywhere on the web, despite it essentially offering the same features as those other phones. Google "SIP video phone" and you'll be taken to <a href="http:&#47;&#47;www.voip-info.org&#47;wiki&#47;view&#47;SIP+Video+Phones">voip-info.org<&#47;a>, whose video phone directly lists all the major players.
+ACN's video phone is barely mentioned anywhere on the web, despite it essentially offering the same features as those other phones. Google "SIP video phone" and you'll be taken to <a href="http://www.voip-info.org/wiki/view/SIP+Video+Phones">voip-info.org</a>, whose video phone directly lists all the major players.
 
 ACN isn't there.
 

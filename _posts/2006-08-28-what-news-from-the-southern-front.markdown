@@ -16,4 +16,4 @@ categories:
 tags: []
 comments: []
 ---
-I've had an article published in <a href="http:&#47;&#47;www2.thegroggysquirrel.com&#47;issues&#47;34&#47;article&#47;A+Seemingly-Impossible+Feat">The Groggy Squirrel<&#47;a>, recalling the events last week's monumental 36-hour gig, "Mark Watson's Seemingly-Impossible 36-Hour Circuit of the World".
+I've had an article published in <a href="http://www2.thegroggysquirrel.com/issues/34/article/A+Seemingly-Impossible+Feat">The Groggy Squirrel</a>, recalling the events last week's monumental 36-hour gig, "Mark Watson's Seemingly-Impossible 36-Hour Circuit of the World".

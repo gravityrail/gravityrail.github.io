@@ -19,4 +19,4 @@ So, two nights ago I participated in the Manhattan Monologue Slam. It's a compet
 
 So, without further ado: 30 seconds of Concentrated Dan.
 
-<object width="425" height="350"> <param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;TrWShle6UAQ"> <&#47;param> <embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;TrWShle6UAQ" type="application&#47;x-shockwave-flash" width="425" height="350"> <&#47;embed> <&#47;object>
+<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/TrWShle6UAQ"> </param> <embed src="http://www.youtube.com/v/TrWShle6UAQ" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>

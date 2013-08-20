@@ -34,7 +34,7 @@ comments:
     quite an interesting concept.  \r\nIn some ways I agree that for the purposes
     of delivering moral lessons stories should not be constrained by factual occurrences,
     however I'd also say that the purpose of the news paper isn't really to deliver
-    that sort of lesson (except maybe through editorials and&#47;or talk pages) but
+    that sort of lesson (except maybe through editorials and/or talk pages) but
     more to simply notify people of things that have occurred and let people draw
     their own conclusions.\r\n\r\nThe fact that journalists believe they have to teach
     a lesson out of their stories is mostly something to satisfy their own ego, letting
@@ -82,9 +82,9 @@ comments:
 ---
 This is a piece I performed for the Northcote Storyteller's Club today. It's been an odd day, preceded by an even odder night - but that's another story.
 
-I hope you enjoy it, whoever you are. The first part is a long and rambling semi-justification for the story that follows. It's based on the recent <a href="http:&#47;&#47;www.nytimes.com&#47;2009&#47;01&#47;18&#47;nyregion&#47;18plane.html?ref=nyregion">crash-landing of US Airways flight 1549 into the icy Hudson&Acirc;&nbsp;River<&#47;a> in New York City.
+I hope you enjoy it, whoever you are. The first part is a long and rambling semi-justification for the story that follows. It's based on the recent <a href="http://www.nytimes.com/2009/01/18/nyregion/18plane.html?ref=nyregion">crash-landing of US Airways flight 1549 into the icy Hudson&Acirc;&nbsp;River</a> in New York City.
 
-<h2>Northcote Storytellers Gig 2009-01-18<&#47;h2>
+<h2>Northcote Storytellers Gig 2009-01-18</h2>
 
 I'm an avid consumer of the news. I consume the news in the same way some people smoke cigarettes. If I have a moment of boredom, I take a long slow drag on international politics and forget about my own troubles for a while. And that pretty much tells you how relevant the informational component of modern news is to our own lives.
 
@@ -104,7 +104,7 @@ And so it was pretty much at that point that the Bible started becoming increasi
 
 So what I want to start today's news down the road, to retell it in a style that gives it a little room to breathe and grow and come to life. And, since most of the news we hear is so far away and disconnected from our own lives anyway, I reckon this makes the news more accurate and useful.
 
-<h2>The Hungry Dragon<&#47;h2>
+<h2>The Hungry Dragon</h2>
 
 There once was a hungry dragon. He ate and ate and ate. He ate the earth to fill his belly, and he ate the air to fill his lungs, but no matter what he ate, the dragon was still hungry.
 

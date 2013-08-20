@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<object width="425" height="344"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;lnCnRuoYMxE&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"><&#47;param><param name="allowFullScreen" value="true"><&#47;param><embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;lnCnRuoYMxE&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1" type="application&#47;x-shockwave-flash" allowfullscreen="true" width="425" height="344"><&#47;embed><&#47;object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lnCnRuoYMxE&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/lnCnRuoYMxE&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>

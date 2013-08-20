@@ -37,7 +37,7 @@ comments:
   content: ! '[...] celebrating today as one of my shows, &#8220;The Hotel&#8220;,
     got 5 stars in The [...]'
 ---
-[caption id="attachment_263" align="alignleft" width="238" caption="The Hotel, Poster"]<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;07&#47;ad292_print_comedy.jpg"><img class="size-medium wp-image-263" title="The_Hotel_Poster" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;07&#47;ad292_print_comedy-238x300.jpg" alt="The Hotel, Poster" width="238" height="300" &#47;><&#47;a>[&#47;caption] 
+[caption id="attachment_263" align="alignleft" width="238" caption="The Hotel, Poster"]<a href="http://www.danwalmsley.com/wp-content/uploads/2009/07/ad292_print_comedy.jpg"><img class="size-medium wp-image-263" title="The_Hotel_Poster" src="http://www.danwalmsley.com/wp-content/uploads/2009/07/ad292_print_comedy-238x300.jpg" alt="The Hotel, Poster" width="238" height="300" /></a>[/caption]
 
 The Hotel could be the most interesting and inexplicable show that I've ever been involved in - quite a feat considering the current record-holder in that regard was a 36-hour show in which a fictional two-state country was invented and then one state seceded from the republic because Mark Watson wouldn't pop up the road and buy a webcam. Meanwhile somebody flew across the world and we sang more than a few rousing songs.
 
@@ -51,6 +51,6 @@ Come and check it out: 5th to the 31st of August (but not the 17th) at "Assembly
 
 Links:
 <ul>
-	<li><a href="http:&#47;&#47;www.assemblyfestival.com&#47;webpages&#47;whatson_moreinfobooknow.php?id=3:64&">Assembly Rooms Show Booking Page<&#47;a><&#47;li>
-<&#47;ul>
+	<li><a href="http://www.assemblyfestival.com/webpages/whatson_moreinfobooknow.php?id=3:64&">Assembly Rooms Show Booking Page</a></li>
+</ul>
 

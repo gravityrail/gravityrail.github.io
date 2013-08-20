@@ -21,6 +21,6 @@ This is one of the funniest comments to a boring story ever.
 I just watched the governor of California on television, busting into a medieval orgy and slicing through half-naked men with a giant sword during AMC's presentation of "Conan the Barbarian". On the same channel, "Terminator 3" (a pretty underrated movie, IMHO) just started up, where the governor of California rips a toilet bowl off the floor and bashes it into the head of an evil female robot.
 
 I don't care what you think of this man's politics, he is AWESOME.
-<&#47;blockquote>
+</blockquote>
 
 I laughed for... well, a few minutes to be honest.

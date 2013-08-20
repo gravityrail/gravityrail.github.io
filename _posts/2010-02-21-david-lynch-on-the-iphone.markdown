@@ -16,4 +16,4 @@ tags:
 - davidlynch iphone
 comments: []
 ---
-<object width="384" height="313"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;wKiIroiCvZ0&hl=en_US&fs=1"><&#47;param><param name="allowFullScreen" value="true"><&#47;param><param name="allowscriptaccess" value="always"><&#47;param><embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;wKiIroiCvZ0&hl=en_US&fs=1" type="application&#47;x-shockwave-flash" width="384" height="313" allowscriptaccess="always" allowfullscreen="true"><&#47;embed><&#47;object>
+<object width="384" height="313"><param name="movie" value="http://www.youtube.com/v/wKiIroiCvZ0&hl=en_US&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wKiIroiCvZ0&hl=en_US&fs=1" type="application/x-shockwave-flash" width="384" height="313" allowscriptaccess="always" allowfullscreen="true"></embed></object>

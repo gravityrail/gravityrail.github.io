@@ -26,7 +26,7 @@ comments:
     MjAwOS0wNC0wOCAxMjo0MTozNiAtMDcwMA==
   date_gmt: !binary |-
     MjAwOS0wNC0wOCAxOTo0MTozNiAtMDcwMA==
-  content: ! "Marvelous ! I just read about GAE&#47;J and searched for someone who
+  content: ! "Marvelous ! I just read about GAE/J and searched for someone who
     tried wicket and here you are. Thanks.\r\nI think wicket is perfect for that platform.\r\nReally
     good news.\r\nthanks"
 - id: 24510
@@ -59,15 +59,15 @@ comments:
     whith wicket having loading the html resources.\r\n\r\nDid you change anything
     appart from the mentioned overrided methods?\r\n\r\ncheers\r\n\r\n\r\n\r\nLogs:
     \r\n\r\nApr 17, 2009 12:45:03 AM org.apache.wicket.util.resource.locator.ResourceStreamLocator
-    locateByResourceFinder\r\nFINE: Attempting to locate resource 'org&#47;gaetest&#47;pages&#47;HomePage.html'
+    locateByResourceFinder\r\nFINE: Attempting to locate resource 'org/gaetest/pages/HomePage.html'
     on path [folders = [], webapppaths: []]\r\nApr 17, 2009 12:45:03 AM org.apache.wicket.util.resource.locator.ResourceStreamLocator
-    getResourceStream\r\nFINE: Attempting to locate resource 'org&#47;gaetest&#47;pages&#47;HomePage.html'
+    getResourceStream\r\nFINE: Attempting to locate resource 'org/gaetest/pages/HomePage.html'
     using classloader com.google.appengine.tools.development.IsolatedAppClassLoader@31ff23\r\nApr
     17, 2009 12:45:03 AM org.apache.wicket.util.resource.locator.ResourceStreamLocator
-    getResourceStream\r\nFINE: Attempting to locate resource 'org&#47;gaetest&#47;pages&#47;HomePage.html'
+    getResourceStream\r\nFINE: Attempting to locate resource 'org/gaetest/pages/HomePage.html'
     using classloader com.google.appengine.tools.development.IsolatedAppClassLoader@31ff23\r\nApr
     17, 2009 12:45:03 AM org.apache.wicket.util.resource.locator.ResourceStreamLocator
-    getResourceStream\r\nFINE: Attempting to locate resource 'org&#47;gaetest&#47;pages&#47;HomePage.html'
+    getResourceStream\r\nFINE: Attempting to locate resource 'org/gaetest/pages/HomePage.html'
     using classloader com.google.appengine.tools.development.IsolatedAppClassLoader@31ff23\r\n\r\n\r\n\r\nSEVERE:
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\nApr
     17, 2009 12:45:03 AM org.apache.wicket.RequestCycle logRuntimeException\r\nSEVERE:
@@ -211,8 +211,8 @@ Holy smokes, that was easy. I've got a basic Wicket app running on Google App En
 3 small traps for the unwary. First of all, you need to enable sessions in your appengine config file.
 
 <pre lang="xml">
-    <sessions-enabled>true<&#47;sessions-enabled>
-<&#47;pre>
+    <sessions-enabled>true</sessions-enabled>
+</pre>
 
 Secondly, add the following line into your WebApplication's init() method:
 
@@ -220,22 +220,22 @@ Secondly, add the following line into your WebApplication's init() method:
 	@Override
 	protected void init() {
 		super.init();
-		
-		&#47;&#47;remove thread monitoring from resource watcher
+
+		//remove thread monitoring from resource watcher
 		this.getResourceSettings().setResourcePollFrequency(null);
 	}
-<&#47;pre>
+</pre>
 
 Thirdly, override the newSessionStore() method to return HttpSessionStore, because the default second level session store uses java.io.File, which Google App Engine doesn't allow:
 
 <pre lang="java">
 	@Override
 	protected ISessionStore newSessionStore()
-	{	
+	{
 		return new HttpSessionStore(this);
-&#47;&#47;		return new SecondLevelCacheSessionStore(this, new InMemoryPageStore());
+//		return new SecondLevelCacheSessionStore(this, new InMemoryPageStore());
 	}
-<&#47;pre> 
+</pre>
 
 That's because Google App Engine doesn't want you spawning threads. Obvious enough.
 
@@ -243,4 +243,4 @@ So that's it! You're in a Wicket-land of infinite scalability...
 
 (I'm sure there's more to it but I was excited...)
 
-See my stupid test here: http:&#47;&#47;transitplatform.appspot.com&#47;
+See my stupid test here: http://transitplatform.appspot.com/

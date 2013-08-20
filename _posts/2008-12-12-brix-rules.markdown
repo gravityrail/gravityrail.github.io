@@ -16,7 +16,7 @@ tags:
 - brix wicket apache jackrabbit
 comments: []
 ---
-Ok, so I've been playing with <a href="http:&#47;&#47;code.google.com&#47;p&#47;brix-cms&#47;">Brix<&#47;a>, a CMS toolkit from the creators of <a href="http:&#47;&#47;wicket.apache.org">Apache Wicket<&#47;a> that uses <a href="http:&#47;&#47;jackrabbit.apache.org">Apache Jackrabbit<&#47;a> as its content repository.
+Ok, so I've been playing with <a href="http://code.google.com/p/brix-cms/">Brix</a>, a CMS toolkit from the creators of <a href="http://wicket.apache.org">Apache Wicket</a> that uses <a href="http://jackrabbit.apache.org">Apache Jackrabbit</a> as its content repository.
 
 And it rules.
 

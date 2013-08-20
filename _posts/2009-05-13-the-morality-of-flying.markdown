@@ -46,7 +46,7 @@ Caveat: We're one bottle of wine into a two-bottle evening.
 
 I was chatting to a really wonderful friend-of-a-friend tonight. She runs a really cool-sounding consultancy that does corporate psychology mixed with reducing a company's environmental footprint. Searching for the ultimate win-win of happy people, happy planet I guess.
 
-I mentioned my upcoming trip to the US, and subsequent trip to the UK. Some of what I'm doing is talking about uses of technology to advance environmental and social causes, particularly carbon neutrality (or my preferred initiative, carbon&#47;consumption benefit). And she immediately shot back with: "I take it you're flying there? Why not do it remotely via the Internet?". 
+I mentioned my upcoming trip to the US, and subsequent trip to the UK. Some of what I'm doing is talking about uses of technology to advance environmental and social causes, particularly carbon neutrality (or my preferred initiative, carbon/consumption benefit). And she immediately shot back with: "I take it you're flying there? Why not do it remotely via the Internet?".
 
 I have no reasonable response to that. To be honest, I _like_ travelling. I really, really do. Immersion in another culture, meeting new people, creating new opportunities and generally just breaking the old routine. It's fun, it's cool, I like it.
 

@@ -92,7 +92,7 @@ comments:
     as the organic processes of organs, tissues, or cells) phenomenas (observable
     reactions known through the senses rather than by thought or intuition), or physical
     manifestations (made evident by showing or displaying) or physical reactions,
-    that we see or feel as symptoms, and they are external and&#47;or internal or
+    that we see or feel as symptoms, and they are external and/or internal or
     visible signs or warnings given to us, by our creator to help us survive, help
     us increase our potential, our knowledge and our health.\r\nAll life on Earth
     has these cause and effect reactions called physiological phenomenas. All living
@@ -170,7 +170,7 @@ comments:
   date_gmt: !binary |-
     MjAwOS0wMS0yNSAxMDoxNToxOCAtMDgwMA==
   content: ! '[...] - bookmarked by 5 members originally found by eji on 2008-12-26  My
-    slightly crap comparison between ACN and Scientology  http:&#47;&#47;www.danwalmsley.com&#47;2008&#47;08&#47;23&#47;my-slightly-crap-comparison-between-acn-and-scientology&#47;
+    slightly crap comparison between ACN and Scientology  http://www.danwalmsley.com/2008/08/23/my-slightly-crap-comparison-between-acn-and-scientology/
     - [...]'
 - id: 32652
   author: LeShawn
@@ -181,7 +181,7 @@ comments:
   date_gmt: !binary |-
     MjAxMC0wMS0wNiAyMDowMjozNiAtMDgwMA==
   content: ! "Well this has been an interesting past few days - since New Year's Eve
-    - 2009&#47;2010. I met this chap who said he was in the \"telecom industry\" and
+    - 2009/2010. I met this chap who said he was in the \"telecom industry\" and
     since I've built a software program for that industry (which I have yet to complete
     and subsequently market), I thought perhaps I should meet up with him. \r\n\r\nSo
     met the guy on a Saturday at a local Starbucks. A female \"associate\" of his
@@ -210,7 +210,7 @@ comments:
     it and failed miserably. Beyond that, and much more importantly, I was asked to
     \"believe more strongly.\" And as a result of this, ended up alienating family
     and friends. \r\n\r\nThe reasoning goes a bit like this:\r\n\"You should really
-    believe in this product&#47;program 100% and if someone in your life doesn't support
+    believe in this product/program 100% and if someone in your life doesn't support
     you, they are just losers who don't want you to be successful.\"\r\n\r\nIt therefore
     becomes not only a religion, but a cult. This causes a person's mind to create
     an artificial division between \"us\" and \"them.\" The \"winners\" and the \"losers.\"
@@ -244,7 +244,7 @@ comments:
     for both eventualities. \"I don't expect to get into a crash, but IF I do, I'm
     preparing for the small chance by 1) buying a safer car 2) using my seat belt
     3) etc.\" By doing this, you reduce the impact of unforeseen events.\r\n\r\nWhile
-    ACN is not as dangerous or destructive to an individual or his&#47;her family
+    ACN is not as dangerous or destructive to an individual or his/her family
     as Scientology, there is definitely a certain amount of overlap. By their very
     design - recruit family &amp; friends and divorcing oneself from non-believers
     - a schism is created.\r\n\r\nTo anyone who is seriously considering \"joining\"
@@ -289,14 +289,14 @@ comments:
   content: here in Dallas we have Millenium3 education. i know a few people who are
     doing it and all they tell me is "if i told you how it has worked for me, you
     wouldn't get the same result" that's the same thing scientologists' will tell
-    you. scientology has so many secrets because it has so much b&#47;s that only
+    you. scientology has so many secrets because it has so much b/s that only
     the desperate would want to believe. millenium3, from what has been posted by
     ex-members, is a very expensive hard-sell and you are expected to see improvements
     or there is something wrong with YOU. again like scientology.
 ---
-Reader <strong>Matsonian<&#47;strong> writes:
+Reader <strong>Matsonian</strong> writes:
 <blockquote>Wow dan. I was very interested in your post, until you attacked Ravi about how he responded to you. Oops&acirc;&euro;&brvbar; look I did it to. Compliment you on your post&acirc;&euro;&brvbar; wow, I must be trying to manipulate the argument. And then to throw Scientology into it? A bit intelectually off center, don&acirc;&euro;&trade;t you think?
-I am interested in knowing if the Iris 3000 supports other protocals. In fact I found this forum because I was looking ot see if there was any way for me to use Skype video to call a video phone, and not just another Skype user. Any information would be helpful&acirc;&euro;&brvbar; thanks! (and lay off attacking others, just provide information, it gives you greater credibility&acirc;&euro;&brvbar; just look at our presidential race for guidance)<&#47;blockquote>
+I am interested in knowing if the Iris 3000 supports other protocals. In fact I found this forum because I was looking ot see if there was any way for me to use Skype video to call a video phone, and not just another Skype user. Any information would be helpful&acirc;&euro;&brvbar; thanks! (and lay off attacking others, just provide information, it gives you greater credibility&acirc;&euro;&brvbar; just look at our presidential race for guidance)</blockquote>
 My response below:
 <blockquote>Hi Matsonian,
 
@@ -319,4 +319,4 @@ I could go on, but I'm late for ice skating.
 Thanks for reading my site! I'm sorry that my harsh response invalidated for you what was otherwise a fairly reasonable argument.
 
 Cheers,
-Dan<&#47;blockquote>
+Dan</blockquote>

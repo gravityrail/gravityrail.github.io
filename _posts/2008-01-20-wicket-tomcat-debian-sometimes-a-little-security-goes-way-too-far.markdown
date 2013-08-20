@@ -54,21 +54,21 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wMS0yMiAxODo1MTo0MSAtMDgwMA==
   content: ! 'There are some known security policies issues with Tomcat. Have you
-    checked out the wiki article on the same: http:&#47;&#47;cwiki.apache.org&#47;WICKET&#47;java-security-permissions.html
+    checked out the wiki article on the same: http://cwiki.apache.org/WICKET/java-security-permissions.html
     ?'
 ---
-Was up until 3am last night banging my head against another frustrating go-nowhere issue deploying Wicket on Debian Etch's default Tomcat5.5. 
+Was up until 3am last night banging my head against another frustrating go-nowhere issue deploying Wicket on Debian Etch's default Tomcat5.5.
 
-Apparently the latest version (5.5.20-2etch1) has additional security <strike>headaches<&#47;strike> features which prevent wicket from functioning properly out-of-the-box:
+Apparently the latest version (5.5.20-2etch1) has additional security <strike>headaches</strike> features which prevent wicket from functioning properly out-of-the-box:
 <ul>
-	<li>First of all, there's still an (as-yet-unsolved) mystery around why I couldn't get Wicket to start up as a filter. Just the mysterious "ERROR: filterStart" which makes me want to feed Tomcat to angry lions. Worked around it by using Wicket in Servlet mode instead.<&#47;li>
+	<li>First of all, there's still an (as-yet-unsolved) mystery around why I couldn't get Wicket to start up as a filter. Just the mysterious "ERROR: filterStart" which makes me want to feed Tomcat to angry lions. Worked around it by using Wicket in Servlet mode instead.</li>
 
-	<li>Tomcat's juli.jar can't access WEB-INF&#47;classes&#47;logging.properties. Fixed (in sledgehammer-like way) by adding "permission java.security.AllPermission;" to &#47;etc&#47;tomcat5.5&#47;policy.d&#47;03catalina.policy, in the Juli section.<&#47;li>
-	<li>Tomcat security prevents webapps from accessing all sorts of features and methods by default, including wicket.properties, methods inside shipped jars, etc. Not being a Tomcat expert, and trusting the innate security of the server and millions of lines of third party code (i.e. I'm an idiot) I again just popped a java.security.AllPermission; in appropriate spots in &#47;etc&#47;tomcat5.5&#47;policy.d&#47;04webapps.policy. Let the flames commence!<&#47;li>
+	<li>Tomcat's juli.jar can't access WEB-INF/classes/logging.properties. Fixed (in sledgehammer-like way) by adding "permission java.security.AllPermission;" to /etc/tomcat5.5/policy.d/03catalina.policy, in the Juli section.</li>
+	<li>Tomcat security prevents webapps from accessing all sorts of features and methods by default, including wicket.properties, methods inside shipped jars, etc. Not being a Tomcat expert, and trusting the innate security of the server and millions of lines of third party code (i.e. I'm an idiot) I again just popped a java.security.AllPermission; in appropriate spots in /etc/tomcat5.5/policy.d/04webapps.policy. Let the flames commence!</li>
 
-<&#47;ul>
+</ul>
 
-If Tomcat was a little more helpful in its error messages, this would never have been so painful. Jetty has always run my Wicket apps without complaint (though I've never tried the official Debian Jetty packages - maybe they're <strike>crippleware<&#47;strike> secure too?).
+If Tomcat was a little more helpful in its error messages, this would never have been so painful. Jetty has always run my Wicket apps without complaint (though I've never tried the official Debian Jetty packages - maybe they're <strike>crippleware</strike> secure too?).
 
 The only reason I use Tomcat at all is the remote management and deployment features, which are well-supported by Cargo. Now that these issues are out of the way (mostly) I can take another few steps towards my dream of a seamless, fire-and-forget, auto-deploying, smoke-tested, pluggable and modular web app deployment system.
 

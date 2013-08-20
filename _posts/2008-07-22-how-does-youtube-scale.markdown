@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-Nothing's more painful that a <a href="http:&#47;&#47;kylecordes.com&#47;2007&#47;07&#47;12&#47;youtube-scalability&#47;">million tiny hacks<&#47;a>.
+Nothing's more painful that a <a href="http://kylecordes.com/2007/07/12/youtube-scalability/">million tiny hacks</a>.

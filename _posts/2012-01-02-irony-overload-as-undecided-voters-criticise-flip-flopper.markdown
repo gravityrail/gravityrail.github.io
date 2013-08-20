@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-Check out the buried lead in <a href="http:&#47;&#47;www.reuters.com&#47;article&#47;2012&#47;01&#47;02&#47;us-usa-campaign-idUSTRE7BT14220120102">this article from Reuters<&#47;a>:
+Check out the buried lead in <a href="http://www.reuters.com/article/2012/01/02/us-usa-campaign-idUSTRE7BT14220120102">this article from Reuters</a>:
 <blockquote>"Romney just has to prove that he's conservative enough for me," said Eleanor Stump, a 70-year-old Tea Party member from Sheldon, Iowa. "I don't like the way he's flip-flopped."
 
-Stump said she initially supported Herman Cain, who dropped out of the race after charges of an extramarital affair, then went to Perry, then back to Cain and then to Gingrich. "I've gone back and forth so many times," she said.<&#47;blockquote>
+Stump said she initially supported Herman Cain, who dropped out of the race after charges of an extramarital affair, then went to Perry, then back to Cain and then to Gingrich. "I've gone back and forth so many times," she said.</blockquote>

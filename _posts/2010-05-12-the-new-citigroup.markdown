@@ -96,21 +96,21 @@ comments:
     MjAxMC0wNS0xNCAxMTozMzozNiAtMDcwMA==
   content: can i subscribe to comments on this blog? It makes it hard to have a conversation.
 ---
-As part of its ongoing PR-ification of the financial crisis, Citigroup has posted the hilariously tautological "<a href="http:&#47;&#47;new.citi.com&#47;2010&#47;02&#47;a-safer-approach-to-risk.shtml">A Safer Approach to Risk<&#47;a>".
+As part of its ongoing PR-ification of the financial crisis, Citigroup has posted the hilariously tautological "<a href="http://new.citi.com/2010/02/a-safer-approach-to-risk.shtml">A Safer Approach to Risk</a>".
 
 Here's a quote from the article:
 <blockquote>
 For our society to function efficiently, capital needs to flow. But the attendant risk must be better managed. That's why we've strengthened our commitment to responsible finance.
-<&#47;blockquote>
+</blockquote>
 
 And here's another notable quote from recent history:
 
 <blockquote>
 "as long as the music is playing, you&acirc;&euro;&trade;ve got to get up and dance. We&acirc;&euro;&trade;re still dancing."
     -Citi Chief on Buyouts: &acirc;&euro;&tilde;We&acirc;&euro;&trade;re Still Dancing&acirc;&euro;&trade;, DealBook, July 2007
-<&#47;blockquote>
+</blockquote>
 
-Exactly how much of that culture has actually changed? You can revamp how you do business, but it's not just Citi that's broken. It's the entire culture and machinery of top-tier capitalism. They may be chagrined, but that is only temporary. 
+Exactly how much of that culture has actually changed? You can revamp how you do business, but it's not just Citi that's broken. It's the entire culture and machinery of top-tier capitalism. They may be chagrined, but that is only temporary.
 
 Profit through obfuscation. Profit through leveraging the power that money provides. Profit through PR.
 

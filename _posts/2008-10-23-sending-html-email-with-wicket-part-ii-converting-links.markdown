@@ -59,14 +59,14 @@ comments:
     WicketTester constructor, override newWebRequest:\r\n\r\n@Override\r\nprotected
     WebRequest newWebRequest(HttpServletRequest servletRequest)\r\n{\r\n\treturn new
     ServletWebRequest(servletRequest)\r\n\t{\r\n\t\t@Override\r\n\t\tpublic String
-    getRelativePathPrefixToContextRoot()\r\n\t\t{\r\n\t\t\treturn \"http:&#47;&#47;\"
-    + getHttpServletRequest().getServerName() + \"&#47;\";\r\n\t\t}\r\n\t\t\r\n\t\t@Override\r\n\t\tpublic
-    String getRelativePathPrefixToWicketHandler()\r\n\t\t{\r\n\t\t\treturn \"http:&#47;&#47;\"
-    + getHttpServletRequest().getServerName() + \"&#47;\";\r\n\t\t}\r\n\t};\r\n}\r\n\r\nThis
+    getRelativePathPrefixToContextRoot()\r\n\t\t{\r\n\t\t\treturn \"http://\"
+    + getHttpServletRequest().getServerName() + \"/\";\r\n\t\t}\r\n\t\t\r\n\t\t@Override\r\n\t\tpublic
+    String getRelativePathPrefixToWicketHandler()\r\n\t\t{\r\n\t\t\treturn \"http://\"
+    + getHttpServletRequest().getServerName() + \"/\";\r\n\t\t}\r\n\t};\r\n}\r\n\r\nThis
     will make wicket convert both static  tag src attributes and hrefs of wicket components
     (like Link, BookmarkablePageLink...) to absolute urls."
 ---
-In my previous post, I showed how you can use <a href="http:&#47;&#47;wicket.apache.org">Wicket<&#47;a>'s HTML rendering engine to render HTML emails by faking a request&#47;response cycle.
+In my previous post, I showed how you can use <a href="http://wicket.apache.org">Wicket</a>'s HTML rendering engine to render HTML emails by faking a request/response cycle.
 
 In this post, I'll show you how to use an IVisitor to change image and anchor URLs to be absolute instead of relative. This is absolutely essential in order to make your HTML email work - otherwise all your images can't be found, and your links point to your own mail server.
 
@@ -85,7 +85,7 @@ The code for the IVisitor is below:
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
 
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public Object component(Component component) {
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &#47;&#47;if this component is of the specified class, update the URL attribute to be absolute instead of relative
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //if this component is of the specified class, update the URL attribute to be absolute instead of relative
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; if(componentClass.isInstance(component)) {
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; component.add(new AbstractTransformerBehavior() {
 
@@ -101,12 +101,12 @@ The code for the IVisitor is below:
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int start = m.start(1);
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int end = m.end(1);
 
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &#47;&#47;convert relative to absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //convert relative to absolute URL
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String absolutePath = RequestUtils.toAbsolutePath(requestPath, attributeValue);
 
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn("Got absolute path '"+absolutePath+"' from relative path '"+attributeValue+"'");
 
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &#47;&#47;construct a new string with the absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //construct a new string with the absolute URL
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String strOutput = String.valueOf(output);
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String finalOutput = strOutput.substring(0, start)+absolutePath+strOutput.substring(end);
 
@@ -120,7 +120,7 @@ The code for the IVisitor is below:
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return IVisitor.CONTINUE_TRAVERSAL;
 &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }<&#47;pre>
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }</pre>
 Then we override the onBeforeRender() routine to traverse the component hierarchy and add this behaviour to the appropriate elements. Note that I haven't shown how you get the current absolute request URL, as in my system this is proprietary. There's plenty of example code floating around on how to do that, anyway.
 <pre>
 	protected void onBeforeRender() {
@@ -133,6 +133,6 @@ Then we override the onBeforeRender() routine to traverse the component hierarch
 
 		visitChildren(Image.class, imageVisitor);
 		visitChildren(Link.class, anchorVisitor);
-	}<&#47;pre>
+	}</pre>
 So there you have it! All the bits and pieces to create HTML email with Wicket. There's one more catch though: You have to generate these emails in the same process as the Wicket Application. Calling Application.get() outside of the main process results in an error. In my system, I get around this by generating the HTML email source every time the user saves my Newsletter bean, which means that when it's finally sent (in the background), it just sends the pre-generated HTML. Easy!
-<pre><&#47;pre>
+<pre></pre>

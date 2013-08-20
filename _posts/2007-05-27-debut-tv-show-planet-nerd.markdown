@@ -43,7 +43,7 @@ comments:
   date_gmt: !binary |-
     MjAxMC0wMy0wNSAwMzozMjoyOSAtMDgwMA==
   content: ! '[...] right. Everyone&#8217;s favourite mega-powerful wargaming club
-    is now on television &#8230; http:&#47;&#47;www.danwalmsley.com&#47;2007&#47;05&#47;27&#47;debut-tv-show-planet-nerd&#47;
+    is now on television &#8230; http://www.danwalmsley.com/2007/05/27/debut-tv-show-planet-nerd/
     Okay, so it&#8217;s called "Planet Nerd" but can you REALLY be that surprised?
     The [...]'
 - id: 34213
@@ -54,7 +54,7 @@ comments:
     MjAxMC0wMy0xOSAwMjo0NjoxNSAtMDcwMA==
   date_gmt: !binary |-
     MjAxMC0wMy0xOSAwOTo0NjoxNSAtMDcwMA==
-  content: ! '[...] http:&#47;&#47;www.danwalmsley.com&#47;2007&#47;05&#47;27&#47;debut-tv-show-planet-nerd&#47;
+  content: ! '[...] http://www.danwalmsley.com/2007/05/27/debut-tv-show-planet-nerd/
     Okay, so it&#8217;s called "Planet Nerd" but can you REALLY be that surprised?
     The segment is about six minutes in after one about the iPhone and is focussing
     on Arcanacon, but watch carefully for the presence of "The King"! Uh-huh &#8230;
@@ -67,16 +67,16 @@ comments:
     MjAxMC0wMy0xOSAxNTozOTowMSAtMDcwMA==
   date_gmt: !binary |-
     MjAxMC0wMy0xOSAyMjozOTowMSAtMDcwMA==
-  content: ! '[...] http:&#47;&#47;www.danwalmsley.com&#47; [...]'
+  content: ! '[...] http://www.danwalmsley.com/ [...]'
 ---
 For the Broadband-endowed among us, we present to you: The Pilot for Planet Nerd!
 
-Shh - don't tell anyone. 
+Shh - don't tell anyone.
 
-<script type="text&#47;javascript" src="https:&#47;&#47;media.dreamhost.com&#47;ufo.js"><&#47;script>
-<p id="FinalPilotMed_480x384.flv"><a href="http:&#47;&#47;www.macromedia.com&#47;go&#47;getflashplayer">Get the Flash Player<&#47;a> to see this player.<&#47;p>
-<script type="text&#47;javascript">
- var FO = { movie:"https:&#47;&#47;media.dreamhost.com&#47;mediaplayer.swf",width:"480",height:"384",majorversion:"7",build:"0",bgcolor:"#FFFFFF",
-            flashvars:"file=http:&#47;&#47;www.planetnerd.tv&#47;videos&#47;FinalPilotMed_480x384.flv&showdigits=true&autostart=false" };
+<script type="text/javascript" src="https://media.dreamhost.com/ufo.js"></script>
+<p id="FinalPilotMed_480x384.flv"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</p>
+<script type="text/javascript">
+ var FO = { movie:"https://media.dreamhost.com/mediaplayer.swf",width:"480",height:"384",majorversion:"7",build:"0",bgcolor:"#FFFFFF",
+            flashvars:"file=http://www.planetnerd.tv/videos/FinalPilotMed_480x384.flv&showdigits=true&autostart=false" };
 UFO.create(FO,"FinalPilotMed_480x384.flv");
-<&#47;script>
+</script>

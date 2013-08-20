@@ -16,4 +16,4 @@ tags:
 - honor tautology xkcd
 comments: []
 ---
-<a href="http:&#47;&#47;xkcd.com&#47;703&#47;"><img alt="" src="http:&#47;&#47;imgs.xkcd.com&#47;comics&#47;honor_societies.png" title="XKCD: Honor Societies" class="alignnone" width="740" height="251" &#47;><&#47;a>
+<a href="http://xkcd.com/703/"><img alt="" src="http://imgs.xkcd.com/comics/honor_societies.png" title="XKCD: Honor Societies" class="alignnone" width="740" height="251" /></a>

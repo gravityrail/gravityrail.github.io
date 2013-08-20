@@ -32,7 +32,7 @@ comments:
     filters that let us continue to see things that are of true lasting value to us,
     even through the haze of momentary distractions."
 ---
-Seth Godin claims the Internet is "<a href="http:&#47;&#47;sethgodin.typepad.com&#47;seths_blog&#47;2009&#47;11&#47;fabulous.html">raising the bar for fabulous<&#47;a>" globally. I tend to agree. The increased competition to stand out in a global online community should produce "higher highs" of creativity.
+Seth Godin claims the Internet is "<a href="http://sethgodin.typepad.com/seths_blog/2009/11/fabulous.html">raising the bar for fabulous</a>" globally. I tend to agree. The increased competition to stand out in a global online community should produce "higher highs" of creativity.
 
 There's a conundrum here, though. Is this phenomenon purely due to the network enabling us to find more things that are "cool", or are more &amp; better fabulous things actually being produced as a result of this competition? Or some combination of the two?
 

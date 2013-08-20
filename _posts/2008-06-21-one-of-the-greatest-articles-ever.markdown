@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-I love punctuation; I love history; I love <a href="http:&#47;&#47;www.slate.com&#47;id&#47;2194087&#47;?from=rss">The History of the SemiColon<&#47;a>.
+I love punctuation; I love history; I love <a href="http://www.slate.com/id/2194087/?from=rss">The History of the SemiColon</a>.

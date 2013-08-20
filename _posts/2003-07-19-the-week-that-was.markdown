@@ -24,6 +24,6 @@ comments:
     MjAwMy0wNy0yMiAwNjoxMjoyNSAtMDcwMA==
   content: ho hum
 ---
-Alright - second blog posting! It's only taken a week... but so much has happened! <br &#47;>
-<br &#47;>
+Alright - second blog posting! It's only taken a week... but so much has happened! <br />
+<br />
 However, I've censored it! Go me!

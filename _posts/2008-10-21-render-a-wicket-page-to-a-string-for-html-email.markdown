@@ -43,7 +43,7 @@ comments:
   date_gmt: !binary |-
     MjAwOC0xMS0wNCAxNzowOTo0OCAtMDgwMA==
   content: ! "We are also using Wicket in combination with Spring. Wouldn't it be
-    easier to use Spring + Velocity to generate HTML Emails? \r\n\r\nhttp:&#47;&#47;www.theserverside.com&#47;tt&#47;blogs&#47;showblog.tss?id=SpringVelocityEmail\r\n\r\nAlthough
+    easier to use Spring + Velocity to generate HTML Emails? \r\n\r\nhttp://www.theserverside.com/tt/blogs/showblog.tss?id=SpringVelocityEmail\r\n\r\nAlthough
     I would prefer a solution that is more tied to Wicket, the Spring solution seems
     to be easier to grab and thus more maintainable IMHO.\r\n\r\nI never tried it
     any of the above, but will have to in the next couple of months."
@@ -103,8 +103,8 @@ comments:
   date_gmt: !binary |-
     MjAxMC0wNC0wNyAyMTozMToyNCAtMDcwMA==
   content: ! "I have some BookmarkablePageLink in the page I want to render. They
-    are rendering just a part of the url, for instance\r\n\r\nwww.miapp.com&#47;asd&#47;asd&#47;asd\r\n\r\nit
-    renders only\r\n\r\n&#47;asd&#47;asd&#47;asd\r\n\r\nwhich its wrong because users
+    are rendering just a part of the url, for instance\r\n\r\nwww.miapp.com/asd/asd/asd\r\n\r\nit
+    renders only\r\n\r\n/asd/asd/asd\r\n\r\nwhich its wrong because users
     read it in their email program. How can I instruct BookmarkablePageLink to render
     the whole url?\r\n\r\nthanks in advance"
 - id: 35092
@@ -174,23 +174,23 @@ comments:
     MjAxMi0wNS0yMyAxODowNTo1MiAtMDcwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0yNCAwMTowNTo1MiAtMDcwMA==
-  content: ! '[...] we used the code referenced&#47;listed in this StackOverflow question
+  content: ! '[...] we used the code referenced/listed in this StackOverflow question
     and this (currently broken but maybe fixed later) link but that code no longer
     works as a lot of those classes don&#8217;t exist in [...]'
 ---
-Something that's very desirable to do in <a href="http:&#47;&#47;wicket.apache.org">Apache Wicket<&#47;a> is create HTML emails using Wicket's brilliant component-oriented markup.
+Something that's very desirable to do in <a href="http://wicket.apache.org">Apache Wicket</a> is create HTML emails using Wicket's brilliant component-oriented markup.
 
 I've been working on this problem on and off for ages -- it's tricky because of teh way that markup rendering is so deeply tied to the requestcycle, which in turn is deeply dependent on the httpservletrequest -- with good reason, too. That's where Wicket gets its autoconfiguring magic from!
 
-So in order to use Wicket to create HTML emails, we need to fake the request&#47;response cycle. I wrote this convenient method that renders a bookmarkable page (pageclass + pageparameters) to a string:
+So in order to use Wicket to create HTML emails, we need to fake the request/response cycle. I wrote this convenient method that renders a bookmarkable page (pageclass + pageparameters) to a string:
 <pre>protected String renderPage(Class<? extends Page> pageClass, PageParameters pageParameters) {
 
-		&#47;&#47;get the servlet context
+		//get the servlet context
 		WebApplication application = (WebApplication) WebApplication.get();
 
 		ServletContext context = application.getServletContext();
 
-		&#47;&#47;fake a request&#47;response cycle
+		//fake a request/response cycle
 		MockHttpSession servletSession = new MockHttpSession(context);
 		servletSession.setTemporary(true);
 
@@ -199,7 +199,7 @@ So in order to use Wicket to create HTML emails, we need to fake the request&#47
 		MockHttpServletResponse servletResponse = new MockHttpServletResponse(
 				servletRequest);
 
-		&#47;&#47;initialize request and response
+		//initialize request and response
 		servletRequest.initialize();
 		servletResponse.initialize();
 
@@ -229,5 +229,5 @@ So in order to use Wicket to create HTML emails, we need to fake the request&#47
 		}
 
 		return webResponse.toString();
-	}<&#47;pre>
+	}</pre>
 One other thing that's desirable to do is change all relative links in the email to absolute URLs -- something that Wicket makes super-easy, if you know how. That will be the subject of my next post.

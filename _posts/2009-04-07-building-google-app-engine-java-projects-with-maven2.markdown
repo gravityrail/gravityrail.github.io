@@ -77,7 +77,7 @@ comments:
     MjAwOS0wNC0xMSAyMjo0NzoxNiAtMDcwMA==
   content: ! "I have just created a simple HelloWorld application using maven 2 which
     can be deployed to Google App Engine with simple command \"mvn install\"\r\nAnyone
-    who is interested can download it from\r\n\r\nhttp:&#47;&#47;winkjava.110mb.com&#47;gaehelloworld&#47;helloworld.zip\r\n\r\nHappy
+    who is interested can download it from\r\n\r\nhttp://winkjava.110mb.com/gaehelloworld/helloworld.zip\r\n\r\nHappy
     hacking!"
 - id: 30608
   author: Sam Brodkin
@@ -89,21 +89,21 @@ comments:
     MjAwOS0wOS0wOCAxNToyNDowOCAtMDcwMA==
   content: ! "Here is a batch file for windows to do the gae artifact local maven
     repo installing:\r\n\r\nset LIB=d:\\downloads\\appengine-java-sdk-1.2.0\\lib\r\nset
-    VERS=1.2.0\r\n\r\ncall mvn install:install-file -Dfile=%LIB%&#47;appengine-tools-api.jar
+    VERS=1.2.0\r\n\r\ncall mvn install:install-file -Dfile=%LIB%/appengine-tools-api.jar
     -DgroupId=com.google -DartifactId=appengine-tools -Dversion=%VERS% -Dpackaging=jar
-    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;appengine-local-runtime-shared.jar
+    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/appengine-local-runtime-shared.jar
     -DgroupId=com.google -DartifactId=appengine-tools -Dversion=%VERS% -Dpackaging=jar
-    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-el_1.0_spec-1.0.1.jar
+    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-el_1.0_spec-1.0.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-el_1.0_spec -Dversion=1.0.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-jsp_2.1_spec-1.0.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-jsp_2.1_spec-1.0.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jsp_2.1_spec -Dversion=1.0.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-servlet_2.5_spec-1.2.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-servlet_2.5_spec-1.2.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-servlet_2.5_spec -Dversion=1.2
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;geronimo-jpa_3.0_spec-1.1.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/geronimo-jpa_3.0_spec-1.1.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jpa_3.0_spec -Dversion=1.1.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;geronimo-jta_1.1_spec-1.1.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/geronimo-jta_1.1_spec-1.1.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jta_1.1_spec -Dversion=1.1.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;datanucleus-appengine-1.0.0.final.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/datanucleus-appengine-1.0.0.final.jar
     -DgroupId=org.datanucleus -DartifactId=datanucleus-appengine -Dversion=1.0.0.final
     -Dpackaging=jar -DgeneratePom=true"
 - id: 30609
@@ -116,23 +116,23 @@ comments:
     MjAwOS0wOS0wOCAxNToyNTozNiAtMDcwMA==
   content: ! "Here is a batch file for windows to do the gae artifact local maven
     repo installing:\r\n<pre>\r\nset LIB=d:\\downloads\\appengine-java-sdk-1.2.0\\lib\r\nset
-    VERS=1.2.0\r\n\r\ncall mvn install:install-file -Dfile=%LIB%&#47;appengine-tools-api.jar
+    VERS=1.2.0\r\n\r\ncall mvn install:install-file -Dfile=%LIB%/appengine-tools-api.jar
     -DgroupId=com.google -DartifactId=appengine-tools -Dversion=%VERS% -Dpackaging=jar
-    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;appengine-local-runtime-shared.jar
+    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/appengine-local-runtime-shared.jar
     -DgroupId=com.google -DartifactId=appengine-tools -Dversion=%VERS% -Dpackaging=jar
-    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-el_1.0_spec-1.0.1.jar
+    -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-el_1.0_spec-1.0.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-el_1.0_spec -Dversion=1.0.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-jsp_2.1_spec-1.0.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-jsp_2.1_spec-1.0.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jsp_2.1_spec -Dversion=1.0.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;shared&#47;geronimo-servlet_2.5_spec-1.2.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/shared/geronimo-servlet_2.5_spec-1.2.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-servlet_2.5_spec -Dversion=1.2
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;geronimo-jpa_3.0_spec-1.1.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/geronimo-jpa_3.0_spec-1.1.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jpa_3.0_spec -Dversion=1.1.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;geronimo-jta_1.1_spec-1.1.1.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/geronimo-jta_1.1_spec-1.1.1.jar
     -DgroupId=org.apache.geronimo.specs -DartifactId=geronimo-jta_1.1_spec -Dversion=1.1.1
-    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%&#47;user&#47;orm&#47;datanucleus-appengine-1.0.0.final.jar
+    -Dpackaging=jar -DgeneratePom=true\r\ncall mvn install:install-file -Dfile=%LIB%/user/orm/datanucleus-appengine-1.0.0.final.jar
     -DgroupId=org.datanucleus -DartifactId=datanucleus-appengine -Dversion=1.0.0.final
-    -Dpackaging=jar -DgeneratePom=true\r\n\r\n\r\n<&#47;pre>"
+    -Dpackaging=jar -DgeneratePom=true\r\n\r\n\r\n</pre>"
 - id: 32683
   author: Sudhir
   author_email: sn@yahoo.com
@@ -141,7 +141,7 @@ comments:
     MjAxMC0wMS0wOCAwOTowNzowMiAtMDgwMA==
   date_gmt: !binary |-
     MjAxMC0wMS0wOCAxNjowNzowMiAtMDgwMA==
-  content: ! "Vote here if you are looking for maven support in GAE\r\nhttp:&#47;&#47;code.google.com&#47;p&#47;googleappengine&#47;issues&#47;detail?id=1296"
+  content: ! "Vote here if you are looking for maven support in GAE\r\nhttp://code.google.com/p/googleappengine/issues/detail?id=1296"
 - id: 54885
   author: Google App Engine &#8211; Building a Microsite - The Net Whisperer
   author_email: ''
@@ -152,16 +152,16 @@ comments:
     MjAxMi0wMy0xNSAyMTo0Nzo0OCAtMDcwMA==
   content: ! '[...] Building GAE Java Projects with Maven [...]'
 ---
-Ok, so I had a whole bunch of work to do today and I've just thrown it out the window: Google has unleashed <a href="http:&#47;&#47;www.techcrunch.com&#47;2009&#47;04&#47;07&#47;live-from-google-campfire-09&#47;">Java support for Google App Engine<&#47;a>.
+Ok, so I had a whole bunch of work to do today and I've just thrown it out the window: Google has unleashed <a href="http://www.techcrunch.com/2009/04/07/live-from-google-campfire-09/">Java support for Google App Engine</a>.
 
-This is <strong>huge<&#47;strong> news. The implementation is solid (it does its best, within the restrictions of Google's architecture, to support standards and avoid architectural lock-in).
+This is <strong>huge</strong> news. The implementation is solid (it does its best, within the restrictions of Google's architecture, to support standards and avoid architectural lock-in).
 
 Let's cut to the chase: I spent this afternoon working out how to build App Engine Java projects with Maven 2 instead of Ant.
 
 I do this for several reasons, the main one being that the CMS I'm building uses Maven as a build system and I love it. A secondary reason is that Maven easily gives me the power to target OSGI, App Engine, and plain ol' Java Servlets with the one project.
 
 So here we go. First, here's a script to install some of Google's more obscure libraries into your local Maven repository:
-<pre lang="bash">#!&#47;bin&#47;sh
+<pre lang="bash">#!/bin/sh
 
 #install Google App Engine dependencies into local maven repository
 
@@ -169,348 +169,348 @@ So here we go. First, here's a script to install some of Google's more obscure l
 
 export CURR=`pwd`
 export SDK=`pwd`
-export LIB="${SDK}&#47;lib"
+export LIB="${SDK}/lib"
 export VERS="1.2.0"
 
 cd $LIB
 
-mvn install:install-file -Dfile=${LIB}&#47;appengine-tools-api.jar \
+mvn install:install-file -Dfile=${LIB}/appengine-tools-api.jar \
   -DgroupId=com.google \
   -DartifactId=appengine-tools \
   -Dversion=${VERS} \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;shared&#47;appengine-local-runtime-shared.jar \
+mvn install:install-file -Dfile=${LIB}/shared/appengine-local-runtime-shared.jar \
   -DgroupId=com.google \
   -DartifactId=appengine-tools \
   -Dversion=${VERS} \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;shared&#47;geronimo-el_1.0_spec-1.0.1.jar \
+mvn install:install-file -Dfile=${LIB}/shared/geronimo-el_1.0_spec-1.0.1.jar \
   -DgroupId=org.apache.geronimo.specs \
   -DartifactId=geronimo-el_1.0_spec \
   -Dversion=1.0.1 \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;shared&#47;geronimo-jsp_2.1_spec-1.0.1.jar \
+mvn install:install-file -Dfile=${LIB}/shared/geronimo-jsp_2.1_spec-1.0.1.jar \
   -DgroupId=org.apache.geronimo.specs \
   -DartifactId=geronimo-jsp_2.1_spec \
   -Dversion=1.0.1 \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;shared&#47;geronimo-servlet_2.5_spec-1.2.jar \
+mvn install:install-file -Dfile=${LIB}/shared/geronimo-servlet_2.5_spec-1.2.jar \
   -DgroupId=org.apache.geronimo.specs \
   -DartifactId=geronimo-servlet_2.5_spec \
   -Dversion=1.2 \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;user&#47;orm&#47;geronimo-jpa_3.0_spec-1.1.1.jar \
+mvn install:install-file -Dfile=${LIB}/user/orm/geronimo-jpa_3.0_spec-1.1.1.jar \
   -DgroupId=org.apache.geronimo.specs \
   -DartifactId=geronimo-jpa_3.0_spec \
   -Dversion=1.1.1 \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;user&#47;orm&#47;geronimo-jta_1.1_spec-1.1.1.jar \
+mvn install:install-file -Dfile=${LIB}/user/orm/geronimo-jta_1.1_spec-1.1.1.jar \
   -DgroupId=org.apache.geronimo.specs \
   -DartifactId=geronimo-jta_1.1_spec \
   -Dversion=1.1.1 \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-mvn install:install-file -Dfile=${LIB}&#47;user&#47;orm&#47;datanucleus-appengine-1.0.0.final.jar \
+mvn install:install-file -Dfile=${LIB}/user/orm/datanucleus-appengine-1.0.0.final.jar \
   -DgroupId=org.datanucleus \
   -DartifactId=datanucleus-appengine \
   -Dversion=1.0.0.final \
   -Dpackaging=jar \
   -DgeneratePom=true
 
-cd $CURR<&#47;pre>
+cd $CURR</pre>
 Next, let's modify the ant build.xml file in the root of our project slightly to take account of Maven's default project layout:
 <pre lang="xml">
 <project name="JDO Examples" default="datanucleusenhance">
-	<property name="sdk.dir" location="&#47;Users&#47;dan&#47;Documents&#47;Development&#47;appengine&#47;appengine-java-sdk-1.2.0&#47;" &#47;>
+	<property name="sdk.dir" location="/Users/dan/Documents/Development/appengine/appengine-java-sdk-1.2.0/" />
 
-	<import file="${sdk.dir}&#47;config&#47;user&#47;ant-macros.xml" &#47;>
+	<import file="${sdk.dir}/config/user/ant-macros.xml" />
 
 	<path id="project.classpath">
-		<pathelement path="war&#47;WEB-INF&#47;classes" &#47;>
-		<fileset dir="war&#47;WEB-INF&#47;lib">
-			<include name="**&#47;*.jar" &#47;>
-		<&#47;fileset>
-		<fileset dir="${sdk.dir}&#47;lib">
-			<include name="shared&#47;**&#47;*.jar" &#47;>
-		<&#47;fileset>
-	<&#47;path>
+		<pathelement path="war/WEB-INF/classes" />
+		<fileset dir="war/WEB-INF/lib">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${sdk.dir}/lib">
+			<include name="shared/**/*.jar" />
+		</fileset>
+	</path>
 
 	<target name="copyjars"
       description="Copies the App Engine JARs to the WAR.">
-		<mkdir dir="war&#47;WEB-INF&#47;lib" &#47;>
+		<mkdir dir="war/WEB-INF/lib" />
 		<copy
-        todir="war&#47;WEB-INF&#47;lib"
+        todir="war/WEB-INF/lib"
         flatten="true">
-			<fileset dir="${sdk.dir}&#47;lib&#47;user">
-				<include name="**&#47;*.jar" &#47;>
-			<&#47;fileset>
-		<&#47;copy>
-	<&#47;target>
+			<fileset dir="${sdk.dir}/lib/user">
+				<include name="**/*.jar" />
+			</fileset>
+		</copy>
+	</target>
 
 	<target name="compile" depends="copyjars"
       description="Compiles Java source and copies other source files to the WAR.">
-		<mkdir dir="war&#47;WEB-INF&#47;classes" &#47;>
-		<copy todir="war&#47;WEB-INF&#47;classes">
-			<fileset dir="src&#47;main&#47;resources">
-				<exclude name="**&#47;*.java" &#47;>
-			<&#47;fileset>
-		<&#47;copy>
+		<mkdir dir="war/WEB-INF/classes" />
+		<copy todir="war/WEB-INF/classes">
+			<fileset dir="src/main/resources">
+				<exclude name="**/*.java" />
+			</fileset>
+		</copy>
 		<javac
-        srcdir="src&#47;main&#47;java"
-        destdir="war&#47;WEB-INF&#47;classes"
+        srcdir="src/main/java"
+        destdir="war/WEB-INF/classes"
         classpathref="project.classpath"
-        debug="on" &#47;>
+        debug="on" />
 		<!-- copy webapp files -->
-		<copy todir="war&#47;">
-			<fileset dir="src&#47;main&#47;webapp">
+		<copy todir="war/">
+			<fileset dir="src/main/webapp">
 
-			<&#47;fileset>
-		<&#47;copy>
-	<&#47;target>
+			</fileset>
+		</copy>
+	</target>
 
 	<target name="datanucleusenhance" depends="compile"
       description="Performs JDO enhancement on compiled data classes.">
-		<enhance_war war="war" &#47;>
-	<&#47;target>
+		<enhance_war war="war" />
+	</target>
 
 	<target name="runserver" depends="datanucleusenhance"
       description="Starts the development server.">
-		<dev_appserver war="war" &#47;>
-	<&#47;target>
+		<dev_appserver war="war" />
+	</target>
 
 	<target name="update" depends="datanucleusenhance"
       description="Uploads the application to App Engine.">
-		<appcfg action="update" war="war" &#47;>
-	<&#47;target>
+		<appcfg action="update" war="war" />
+	</target>
 
 	<target name="update_indexes" depends="datanucleusenhance"
       description="Uploads just the datastore index configuration to App Engine.">
-		<appcfg action="update_indexes" war="war" &#47;>
-	<&#47;target>
+		<appcfg action="update_indexes" war="war" />
+	</target>
 
 	<target name="rollback" depends="datanucleusenhance"
       description="Rolls back an interrupted application update.">
-		<appcfg action="rollback" war="war" &#47;>
-	<&#47;target>
+		<appcfg action="rollback" war="war" />
+	</target>
 
 	<target name="request_logs"
       description="Downloads log data from App Engine for the application.">
 		<appcfg action="request_logs" war="war">
 			<options>
-				<arg value="--num_days=5"&#47;>
-			<&#47;options>
+				<arg value="--num_days=5"/>
+			</options>
 			<args>
-				<arg value="logs.txt"&#47;>
-			<&#47;args>
-		<&#47;appcfg>
-	<&#47;target>
+				<arg value="logs.txt"/>
+			</args>
+		</appcfg>
+	</target>
 
-<&#47;project>
+</project>
 
-<&#47;pre>
+</pre>
 Finally, we put in our pom.xml file that calls ant for tasks like deployment (doesn't quite work yet):
 <pre lang="xml">
-<project xmlns="http:&#47;&#47;maven.apache.org&#47;POM&#47;4.0.0" xmlns:xsi="http:&#47;&#47;www.w3.org&#47;2001&#47;XMLSchema-instance"
-	xsi:schemaLocation="http:&#47;&#47;maven.apache.org&#47;POM&#47;4.0.0 http:&#47;&#47;maven.apache.org&#47;maven-v4_0_0.xsd">
-	<modelVersion>4.0.0<&#47;modelVersion>
-	<groupId>com.transitplatform<&#47;groupId>
-	<artifactId>TransitAppEngine<&#47;artifactId>
-	<packaging>war<&#47;packaging>
-	<name>Transit App Engine<&#47;name>
-	<version>1.0-SNAPSHOT<&#47;version>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.transitplatform</groupId>
+	<artifactId>TransitAppEngine</artifactId>
+	<packaging>war</packaging>
+	<name>Transit App Engine</name>
+	<version>1.0-SNAPSHOT</version>
 	<build>
-		<outputDirectory>war&#47;WEB-INF&#47;classes<&#47;outputDirectory>
+		<outputDirectory>war/WEB-INF/classes</outputDirectory>
 		<resources>
 			<resource>
-				<directory>src&#47;main&#47;resources<&#47;directory>
-			<&#47;resource>
+				<directory>src/main/resources</directory>
+			</resource>
 			<resource>
-				<directory>src&#47;main&#47;java<&#47;directory>
+				<directory>src/main/java</directory>
 				<includes>
-					<include>**<&#47;include>
-				<&#47;includes>
+					<include>**</include>
+				</includes>
 				<excludes>
-					<exclude>**&#47;*.java<&#47;exclude>
-				<&#47;excludes>
-			<&#47;resource>
-		<&#47;resources>
+					<exclude>**/*.java</exclude>
+				</excludes>
+			</resource>
+		</resources>
 		<plugins>
 			<plugin>
-				<artifactId>maven-compiler-plugin<&#47;artifactId>
+				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<source>1.6<&#47;source>
-					<target>1.6<&#47;target>
-				<&#47;configuration>
-			<&#47;plugin>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
 			<plugin>
-				<artifactId>maven-antrun-plugin<&#47;artifactId>
+				<artifactId>maven-antrun-plugin</artifactId>
 				<executions>
 					<execution>
-						<id>1<&#47;id>
+						<id>1</id>
 						<!-- pass maven runtime classpath to ant -->
-						<phase>compile<&#47;phase>
+						<phase>compile</phase>
 						<configuration>
 							<tasks>
 								<!--
 									<property name="runtime-classpath"
-									refid="maven.runtime.classpath" &#47;>
+									refid="maven.runtime.classpath" />
 								-->
-								<ant target="compile" inheritRefs="true" &#47;>
-							<&#47;tasks>
-						<&#47;configuration>
+								<ant target="compile" inheritRefs="true" />
+							</tasks>
+						</configuration>
 						<goals>
-							<goal>run<&#47;goal>
-						<&#47;goals>
-					<&#47;execution>
+							<goal>run</goal>
+						</goals>
+					</execution>
 					<execution>
-						<id>2<&#47;id>
+						<id>2</id>
 						<!-- pass maven runtime classpath to ant -->
-						<phase>deploy<&#47;phase>
+						<phase>deploy</phase>
 						<configuration>
 							<tasks>
 								<!--
 									<property name="runtime-classpath"
-									refid="maven.runtime.classpath" &#47;>
+									refid="maven.runtime.classpath" />
 								-->
-								<ant target="update" inheritRefs="true" &#47;>
-							<&#47;tasks>
-						<&#47;configuration>
+								<ant target="update" inheritRefs="true" />
+							</tasks>
+						</configuration>
 						<goals>
-							<goal>run<&#47;goal>
-						<&#47;goals>
-					<&#47;execution>
-				<&#47;executions>
-			<&#47;plugin>
-		<&#47;plugins>
+							<goal>run</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
 
-	<&#47;build>
+	</build>
 
 
 	<dependencies>
 		<dependency>
-			<groupId>org.apache.wicket<&#47;groupId>
-			<artifactId>wicket<&#47;artifactId>
-			<version>1.4-rc2<&#47;version>
-		<&#47;dependency>
+			<groupId>org.apache.wicket</groupId>
+			<artifactId>wicket</artifactId>
+			<version>1.4-rc2</version>
+		</dependency>
 		<dependency>
-			<groupId>org.apache.geronimo.specs<&#47;groupId>
-			<artifactId>geronimo-jsp_2.1_spec<&#47;artifactId>
-			<version>1.0.1<&#47;version>
-		<&#47;dependency>
+			<groupId>org.apache.geronimo.specs</groupId>
+			<artifactId>geronimo-jsp_2.1_spec</artifactId>
+			<version>1.0.1</version>
+		</dependency>
 		<dependency>
-			<groupId>org.apache.geronimo.specs<&#47;groupId>
-			<artifactId>geronimo-jpa_3.0_spec<&#47;artifactId>
-			<version>1.1.1<&#47;version>
-		<&#47;dependency>
+			<groupId>org.apache.geronimo.specs</groupId>
+			<artifactId>geronimo-jpa_3.0_spec</artifactId>
+			<version>1.1.1</version>
+		</dependency>
 		<dependency>
-			<groupId>org.apache.geronimo.specs<&#47;groupId>
-			<artifactId>geronimo-jpa_3.0_spec<&#47;artifactId>
-			<version>1.1.1<&#47;version>
-		<&#47;dependency>
+			<groupId>org.apache.geronimo.specs</groupId>
+			<artifactId>geronimo-jpa_3.0_spec</artifactId>
+			<version>1.1.1</version>
+		</dependency>
 		<dependency>
-			<groupId>ant<&#47;groupId>
-			<artifactId>ant<&#47;artifactId>
-			<version>1.6.5<&#47;version>
-		<&#47;dependency>
+			<groupId>ant</groupId>
+			<artifactId>ant</artifactId>
+			<version>1.6.5</version>
+		</dependency>
 		<dependency>
-			<groupId>ant<&#47;groupId>
-			<artifactId>ant-launcher<&#47;artifactId>
-			<version>1.6.5<&#47;version>
-		<&#47;dependency>
+			<groupId>ant</groupId>
+			<artifactId>ant-launcher</artifactId>
+			<version>1.6.5</version>
+		</dependency>
 		<dependency>
-			<groupId>commons-logging<&#47;groupId>
-			<artifactId>commons-logging<&#47;artifactId>
-			<version>1.1.1<&#47;version>
-		<&#47;dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+			<version>1.1.1</version>
+		</dependency>
 		<dependency>
-			<groupId>commons-el<&#47;groupId>
-			<artifactId>commons-el<&#47;artifactId>
-			<version>1.0<&#47;version>
-		<&#47;dependency>
+			<groupId>commons-el</groupId>
+			<artifactId>commons-el</artifactId>
+			<version>1.0</version>
+		</dependency>
 		<dependency>
-			<groupId>org.datanucleus<&#47;groupId>
-			<artifactId>datanucleus-core<&#47;artifactId>
-			<version>1.1.0<&#47;version>
+			<groupId>org.datanucleus</groupId>
+			<artifactId>datanucleus-core</artifactId>
+			<version>1.1.0</version>
 			<exclusions>
 				<exclusion>
-					<groupId>javax.transaction<&#47;groupId>
-					<artifactId>transaction-api<&#47;artifactId>
-				<&#47;exclusion>
-			<&#47;exclusions>
-		<&#47;dependency>
+					<groupId>javax.transaction</groupId>
+					<artifactId>transaction-api</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
 		<dependency>
-			<groupId>org.datanucleus<&#47;groupId>
-			<artifactId>datanucleus-jpa<&#47;artifactId>
-			<version>1.1.0<&#47;version>
-		<&#47;dependency>
+			<groupId>org.datanucleus</groupId>
+			<artifactId>datanucleus-jpa</artifactId>
+			<version>1.1.0</version>
+		</dependency>
 		<dependency>
-			<groupId>org.datanucleus<&#47;groupId>
-			<artifactId>datanucleus-appengine<&#47;artifactId>
-			<version>1.0.0.final<&#47;version>
-		<&#47;dependency>
+			<groupId>org.datanucleus</groupId>
+			<artifactId>datanucleus-appengine</artifactId>
+			<version>1.0.0.final</version>
+		</dependency>
 		<dependency>
-			<groupId>tomcat<&#47;groupId>
-			<artifactId>jasper-compiler<&#47;artifactId>
-			<version>5.0.28<&#47;version>
-		<&#47;dependency>
+			<groupId>tomcat</groupId>
+			<artifactId>jasper-compiler</artifactId>
+			<version>5.0.28</version>
+		</dependency>
 		<dependency>
-			<groupId>tomcat<&#47;groupId>
-			<artifactId>jasper-runtime<&#47;artifactId>
-			<version>5.0.28<&#47;version>
-		<&#47;dependency>
+			<groupId>tomcat</groupId>
+			<artifactId>jasper-runtime</artifactId>
+			<version>5.0.28</version>
+		</dependency>
 		<dependency>
-			<groupId>javax.jdo<&#47;groupId>
-			<artifactId>jdo2-api<&#47;artifactId>
-			<version>2.3-SNAPSHOT<&#47;version>
+			<groupId>javax.jdo</groupId>
+			<artifactId>jdo2-api</artifactId>
+			<version>2.3-SNAPSHOT</version>
 			<exclusions>
 				<exclusion>
-					<groupId>javax.transaction<&#47;groupId>
-					<artifactId>transaction-api<&#47;artifactId>
-				<&#47;exclusion>
-			<&#47;exclusions>
-		<&#47;dependency>
+					<groupId>javax.transaction</groupId>
+					<artifactId>transaction-api</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
 		<dependency>
-			<groupId>javax.transaction<&#47;groupId>
-			<artifactId>jta<&#47;artifactId>
-			<version>1.1<&#47;version>
-		<&#47;dependency>
+			<groupId>javax.transaction</groupId>
+			<artifactId>jta</artifactId>
+			<version>1.1</version>
+		</dependency>
 		<dependency>
-			<groupId>org.slf4j<&#47;groupId>
-			<artifactId>jcl104-over-slf4j<&#47;artifactId>
-			<version>1.4.3<&#47;version>
-		<&#47;dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>jcl104-over-slf4j</artifactId>
+			<version>1.4.3</version>
+		</dependency>
 		<dependency>
-			<groupId>org.slf4j<&#47;groupId>
-			<artifactId>slf4j-simple<&#47;artifactId>
-			<version>1.4.3<&#47;version>
-		<&#47;dependency>
-	<&#47;dependencies>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>1.4.3</version>
+		</dependency>
+	</dependencies>
 
 
 	<repositories>
 		<repository>
-			<id>datanucleus<&#47;id>
-			<name>Datanucleus Repository<&#47;name>
-			<url>http:&#47;&#47;www.datanucleus.org&#47;downloads&#47;maven2&#47;<&#47;url>
-		<&#47;repository>
-	<&#47;repositories>
-<&#47;project>
-<&#47;pre>
+			<id>datanucleus</id>
+			<name>Datanucleus Repository</name>
+			<url>http://www.datanucleus.org/downloads/maven2/</url>
+		</repository>
+	</repositories>
+</project>
+</pre>
 Hope you find this useful, and good luck! Also, let me know if you have any corrections, compliments, duffel-bags-full-of-cash, etc.
 
 Download a sample project here:
 
-<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;04&#47;mavenappengine.tgz">mavenappengine<&#47;a>
+<a href="http://www.danwalmsley.com/wp-content/uploads/2009/04/mavenappengine.tgz">mavenappengine</a>

@@ -25,6 +25,6 @@ comments:
   content: I shudder to think how you climb up; after all, the way to a Kong's heart
     is through his stomach...
 ---
-From an <a href="http:&#47;&#47;riotclitshave.livejournal.com&#47;1739481.html">amazing photo blog<&#47;a> I just discovered.
+From an <a href="http://riotclitshave.livejournal.com/1739481.html">amazing photo blog</a> I just discovered.
 
-<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2010&#47;05&#47;tumblr_kx158yk2781qzj6xlo1_500.jpg"><img src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2010&#47;05&#47;tumblr_kx158yk2781qzj6xlo1_500.jpg" alt="" title="tumblr_kx158yk2781qzj6xlo1_500" width="495" height="495" class="aligncenter size-full wp-image-443" &#47;><&#47;a>
+<a href="http://www.danwalmsley.com/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg" alt="" title="tumblr_kx158yk2781qzj6xlo1_500" width="495" height="495" class="aligncenter size-full wp-image-443" /></a>

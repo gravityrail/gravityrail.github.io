@@ -50,8 +50,8 @@ comments:
     MjAxMC0wNS0wNCAxNToyOToxNyAtMDcwMA==
   date_gmt: !binary |-
     MjAxMC0wNS0wNCAyMjoyOToxNyAtMDcwMA==
-  content: ! 'He''s referring to <a href="http:&#47;&#47;secondlife.com&#47;" rel="nofollow">Second
-    Life<&#47;a>, the computer game.
+  content: ! 'He''s referring to <a href="http://secondlife.com/" rel="nofollow">Second
+    Life</a>, the computer game.
 
 
     Well, it''s more a free-ranging virtual world than a computer game. It''s quite
@@ -63,8 +63,8 @@ comments:
 
     Although one cool thing: In Second Life, you can fly. That''s pretty awesome.'
 ---
-My 73-year-old Mum tearfully but forcefully asking <a href="http:&#47;&#47;rushkoff.com&#47;">Douglas Rushkoff<&#47;a> whether Second Life might be a stupid distraction from our real lives. This was during his <a href="http:&#47;&#47;pbsdigitalnation.org">Digital Nation<&#47;a> round-table.
+My 73-year-old Mum tearfully but forcefully asking <a href="http://rushkoff.com/">Douglas Rushkoff</a> whether Second Life might be a stupid distraction from our real lives. This was during his <a href="http://pbsdigitalnation.org">Digital Nation</a> round-table.
 
 Mum is awesome. Here she is hugging a copyright-violating bear.
 
-<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2010&#47;04&#47;mum_and_bear.jpg"><img src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2010&#47;04&#47;mum_and_bear-300x225.jpg" alt="" title="mum_and_bear" width="300" height="225" class="aligncenter size-medium wp-image-430" &#47;><&#47;a>
+<a href="http://www.danwalmsley.com/wp-content/uploads/2010/04/mum_and_bear.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2010/04/mum_and_bear-300x225.jpg" alt="" title="mum_and_bear" width="300" height="225" class="aligncenter size-medium wp-image-430" /></a>

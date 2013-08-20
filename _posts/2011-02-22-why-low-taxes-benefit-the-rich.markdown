@@ -24,7 +24,7 @@ comments:
   date_gmt: !binary |-
     MjAxMS0wMi0yMyAwNjo1OToyNyAtMDgwMA==
   content: ! '[...] This post was mentioned on Twitter by HN Firehose, newsery5. newsery5
-    said: Why low taxes benefit the rich - or do they? - http:&#47;&#47;bit.ly&#47;gBcb8n
+    said: Why low taxes benefit the rich - or do they? - http://bit.ly/gBcb8n
     - [Hacker News FH] [...]'
 - id: 38946
   author: brent
@@ -48,16 +48,16 @@ comments:
 ---
 Living in the US I hear a lot of heated rhetoric about taxes. While I'm not an economist, I do want to weigh in on what I see as a glaring logical flaw in how low taxes are supposed to benefit the little guy.
 
-Taxes paid to the government largely go to "safety net" services like pensions, unemployment benefits, basic health care, food stamps and so on. Such services, in sufficient quantity and quality, enable unemployed or disabled people to retain their dignity and health while they get back on their feet and back to work. (source:&Acirc;&nbsp;<a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;File:Fy2010_spending_by_category.jpg" target="_blank">See pie chart here<&#47;a>).
+Taxes paid to the government largely go to "safety net" services like pensions, unemployment benefits, basic health care, food stamps and so on. Such services, in sufficient quantity and quality, enable unemployed or disabled people to retain their dignity and health while they get back on their feet and back to work. (source:&Acirc;&nbsp;<a href="http://en.wikipedia.org/wiki/File:Fy2010_spending_by_category.jpg" target="_blank">See pie chart here</a>).
 
 Very rich people are much less likely to need such services, and so for them paying taxes goes straight to something they don't use and therefore don't benefit from.
 
 Do tax cuts really benefit the rich?
 <ul>
-	<li><a href="http:&#47;&#47;www.businessinsider.com&#47;15-charts-about-wealth-and-inequality-in-america-2010-4#republican-tax-cuts-have-significantly-increased-the-wealth-gap-9" target="_blank">Huge leaps in inequality coinciding with tax cuts by Reagan and Bush Jr<&#47;a> (note: Reagan also raised taxes, but in 1986 cut them)<&#47;li>
-	<li><a href="http:&#47;&#47;www.businessinsider.com&#47;15-charts-about-wealth-and-inequality-in-america-2010-4#the-last-two-decades-were-greatif-you-were-a-ceo-or-owner-not-if-you-were-anyone-else-5" target="_blank">Most of the benefits of economic growth going to the rich during the 90's "boom"<&#47;a><&#47;li>
-<&#47;ul>
-But the rich in America, and in particular the super-rich, are a dwindling minority (while their total wealth balloons) (source: <a href="http:&#47;&#47;www.businessinsider.com&#47;15-charts-about-wealth-and-inequality-in-america-2010-4#the-gap-between-the-top-1-and-everyone-else-hasnt-been-this-bad-since-the-roaring-twenties-1" target="_blank">15 charts about wealth and poverty at Business Insider<&#47;a>). Therefore in order to keep the system tilted in their favour they must convince a majority of voters to act in the interest of the wealthy elite, often against the poor's own self-interest. They enact such influence on both Democrats and Republicans, but I can definitely detect a preference for Republicans, for whatever reason.
+	<li><a href="http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#republican-tax-cuts-have-significantly-increased-the-wealth-gap-9" target="_blank">Huge leaps in inequality coinciding with tax cuts by Reagan and Bush Jr</a> (note: Reagan also raised taxes, but in 1986 cut them)</li>
+	<li><a href="http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#the-last-two-decades-were-greatif-you-were-a-ceo-or-owner-not-if-you-were-anyone-else-5" target="_blank">Most of the benefits of economic growth going to the rich during the 90's "boom"</a></li>
+</ul>
+But the rich in America, and in particular the super-rich, are a dwindling minority (while their total wealth balloons) (source: <a href="http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#the-gap-between-the-top-1-and-everyone-else-hasnt-been-this-bad-since-the-roaring-twenties-1" target="_blank">15 charts about wealth and poverty at Business Insider</a>). Therefore in order to keep the system tilted in their favour they must convince a majority of voters to act in the interest of the wealthy elite, often against the poor's own self-interest. They enact such influence on both Democrats and Republicans, but I can definitely detect a preference for Republicans, for whatever reason.
 
 This is why we are seeing this daft resurgence of "small government" and "Reaganomics" mantras from the Tea Party, when a more relevant question would be "what is the right size for the government to meet our needs, and what mix of services would it provide?".
 

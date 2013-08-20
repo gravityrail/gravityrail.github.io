@@ -16,4 +16,4 @@ tags:
 - bushfire housing disaster relief australia victoria
 comments: []
 ---
-This is a fantastic idea. If you have a spare room or holiday home in (or near) Victoria, Australia, you can offer support to bushfire victims at <a href="http:&#47;&#47;bushfirehousing.org">http:&#47;&#47;bushfirehousing.org&#47;<&#47;a>.
+This is a fantastic idea. If you have a spare room or holiday home in (or near) Victoria, Australia, you can offer support to bushfire victims at <a href="http://bushfirehousing.org">http://bushfirehousing.org/</a>.

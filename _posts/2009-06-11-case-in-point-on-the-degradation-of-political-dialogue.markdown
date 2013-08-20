@@ -20,6 +20,6 @@ tags:
 - hatespeech
 comments: []
 ---
-While I acknowledge that the Huffington Post attracts a mostly left-wing authorship and readership, I think they hit the mark with a recent article about<a href="http:&#47;&#47;www.huffingtonpost.com&#47;michael-rowe&#47;the-holocaust-museum-shoo_b_214133.html"> hate speech in the media inciting actual violence<&#47;a>.
+While I acknowledge that the Huffington Post attracts a mostly left-wing authorship and readership, I think they hit the mark with a recent article about<a href="http://www.huffingtonpost.com/michael-rowe/the-holocaust-museum-shoo_b_214133.html"> hate speech in the media inciting actual violence</a>.
 
-It seems to gel with my hunch about <a href="http:&#47;&#47;www.danwalmsley.com&#47;2009&#47;06&#47;09&#47;defining-culture-or-reflecting-it&#47;">the real-world effects of outrageous public speech<&#47;a> in the quest for ratings and power.
+It seems to gel with my hunch about <a href="http://www.danwalmsley.com/2009/06/09/defining-culture-or-reflecting-it/">the real-world effects of outrageous public speech</a> in the quest for ratings and power.

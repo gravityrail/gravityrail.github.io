@@ -22,6 +22,6 @@ The core task for the weekend was to create an original online series, and below
 
 Also a huge thanks to our star Oliver Clark, who was just brilliant as Karl. He nailed every scene in one or two takes, which was great because we were under a lot of time pressure.
 
-<embed src="http:&#47;&#47;portablefilmfestival.com&#47;player&#47;flvplayer.swf" width="500" height="320" type="application&#47;x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com&#47;go&#47;getflashplayer" flashvars="file=http:&#47;&#47;portablefilmfestival.com&#47;upload&#47;206.flv&displayheight=320" &#47;>
+<embed src="http://portablefilmfestival.com/player/flvplayer.swf" width="500" height="320" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="file=http://portablefilmfestival.com/upload/206.flv&displayheight=320" />
 
 

@@ -54,13 +54,13 @@ And then came the revelation: Why not create a command-line tool that uses Googl
 
 So, here's the code (it's in Java... sorry)
 <code>
-&#47;**
- * Simple command-line notification command that uses Google Calendar ATOM API to create 
+/**
+ * Simple command-line notification command that uses Google Calendar ATOM API to create
  * a single event 6 minutes in the future with a 5 minute SMS reminder
- * 
+ *
  * @author Daniel Walmsley
  *
- *&#47;
+ */
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -80,17 +80,17 @@ import com.google.gdata.data.extensions.Reminder.Method;
 import com.google.gdata.util.AuthenticationException;
 import com.google.gdata.util.ServiceException;
 
-&#47;**
+/**
  * This is a test template
- *&#47;
+ */
 
 public class GCalNotifier {
 
 	public static void main(String[] args) {
-		
-		&#47;**
-		 * Command line args: 
-		 * 
+
+		/**
+		 * Command line args:
+		 *
 		 * username
 		 * password
 		 * calendar name (e.g. "Notifications")
@@ -99,24 +99,24 @@ public class GCalNotifier {
 		 * event end offset (in minutes)
 		 * title
 		 * description
-		 *&#47;
-		
+		 */
+
 		try {
 
-			&#47;&#47; Create a new Calendar service
+			// Create a new Calendar service
 			CalendarService myService = new CalendarService("GCal Event Notifier");
 			myService.setUserCredentials(args[0], args[1]);
-			
+
 			String calendarName = args[2];
 			Long tzOffset = new Double(Double.parseDouble(args[3])).longValue() * 60 * 60 * 1000;
 			Long startOffset = new Integer(Integer.parseInt(args[4])).longValue() * 60 * 1000;
 			Long endOffset = new Integer(Integer.parseInt(args[5])).longValue() * 60 * 1000;
 			String title = args[6];
 			String description = args[7];
-			
-			&#47;&#47; Get a list of all entries
+
+			// Get a list of all entries
 			URL metafeedUrl = new URL(
-					"http:&#47;&#47;www.google.com&#47;calendar&#47;feeds&#47;default&#47;allcalendars&#47;full");
+					"http://www.google.com/calendar/feeds/default/allcalendars/full");
 			System.out.println("Getting Calendar entries...\n");
 			CalendarFeed resultFeed = myService.getFeed(metafeedUrl,
 					CalendarFeed.class);
@@ -132,7 +132,7 @@ public class GCalNotifier {
 				}
 			}
 			System.out.println("\nTotal Entries: " + entries.size());
-			
+
 		} catch (AuthenticationException e) {
 			e.printStackTrace();
 		} catch (MalformedURLException e) {
@@ -148,52 +148,52 @@ public class GCalNotifier {
 			CalendarEntry entry, String title, String description, Long startOffset, Long endOffset, Long tzOffset) throws IOException,
 			ServiceException {
 
-		String postUrlString = entry.getLink("alternate", "application&#47;atom+xml").getHref();
-		
-		URL postUrl = new URL(postUrlString);&#47;&#47;was: "http:&#47;&#47;www.google.com&#47;calendar&#47;feeds&#47;jo@gmail.com&#47;private&#47;full"
+		String postUrlString = entry.getLink("alternate", "application/atom+xml").getHref();
+
+		URL postUrl = new URL(postUrlString);//was: "http://www.google.com/calendar/feeds/jo@gmail.com/private/full"
 
 		CalendarEventEntry myEntry = new CalendarEventEntry();
 
 		myEntry.setTitle(new PlainTextConstruct(title));
 		myEntry.setContent(new PlainTextConstruct(description));
-		
+
 		Date now = new Date();
-		
+
 		Date startDate = new Date(now.getTime()+startOffset);
 		Date endDate = new Date(now.getTime()+endOffset);
-		
+
 		DateTime startTime = new DateTime(startDate.getTime()+tzOffset);
-		
+
 		DateTime endTime = new DateTime(endDate.getTime()+tzOffset);
-		
+
 		When eventTimes = new When();
 		eventTimes.setStartTime(startTime);
 		eventTimes.setEndTime(endTime);
 		myEntry.addTime(eventTimes);
 
-		&#47;&#47; Send the request and receive the response:
+		// Send the request and receive the response:
 		CalendarEventEntry insertedEntry = myService.insert(postUrl, myEntry);
 		System.err.println("Got response for: "+insertedEntry.getTitle().getPlainText());
 		for(When when : insertedEntry.getTimes()) {
 			System.err.println("When: "+when.getStartTime()+" to "+when.getEndTime());
 		}
-		
-		&#47;&#47;5 minute reminder
+
+		//5 minute reminder
 		Reminder reminder = new Reminder();
 		reminder.setMinutes(5);
 		reminder.setMethod(Method.SMS);
 		insertedEntry.getReminder().add(reminder);
 		insertedEntry.update();
 	}
-}<&#47;code>
+}</code>
 
-Don't forget, you'll need to <a href="http:&#47;&#47;code.google.com&#47;apis&#47;gdata&#47;client-java.html">download the Google Data APIs<&#47;a> and put their JARs in your classpath before this will work!
+Don't forget, you'll need to <a href="http://code.google.com/apis/gdata/client-java.html">download the Google Data APIs</a> and put their JARs in your classpath before this will work!
 
 Personally I use this with Nagios. I always use the same args for the calendar offsets, so I've encapsulated most of my settings (except title and body) in a script.
 <code>
-#!&#47;bin&#47;sh
+#!/bin/sh
 
-export SCRIPTDIR=&#47;opt&#47;calAlert
+export SCRIPTDIR=/opt/calAlert
 export USERNAME=username@gmail.com
 export PW=mySecurePassword
 export CAL=Notifications
@@ -204,13 +204,13 @@ export TITLE=$1
 export BODY=$2
 
 #export CURRDIR=`pwd`
-export CLASSPATH="${SCRIPTDIR}&#47;calAlert.jar"
+export CLASSPATH="${SCRIPTDIR}/calAlert.jar"
 #assumes GData libs are in "libs" subdirectory of SCRIPTDIR
 
-for jarfile in $(ls "${SCRIPTDIR}&#47;lib")
+for jarfile in $(ls "${SCRIPTDIR}/lib")
 do
-    CLASSPATH="${CLASSPATH}:${SCRIPTDIR}&#47;lib&#47;${jarfile}"
-    echo lib&#47;${jarfile}
+    CLASSPATH="${CLASSPATH}:${SCRIPTDIR}/lib/${jarfile}"
+    echo lib/${jarfile}
 done
 
 echo "CLASSPATH=${CLASSPATH}"
@@ -218,4 +218,4 @@ echo "CLASSPATH=${CLASSPATH}"
 export CLASSPATH
 
 java GCalNotifier ${USERNAME} ${PW} ${CAL} ${TZOFFSET} ${STARTOFFSET} ${ENDOFFSET} "${TITLE}" "${BODY}"
-<&#47;code>
+</code>

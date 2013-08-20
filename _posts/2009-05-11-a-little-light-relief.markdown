@@ -18,5 +18,5 @@ comments: []
 ---
 ... from the odd nerdy abstract rants on topics I know nothing about.
 
-<strong><a href="http:&#47;&#47;music.metafilter.com&#47;2380&#47;Punch-Em-In-The-Dick-NSFW-lyrics">Punch 'em in the Dick!<&#47;a><&#47;strong>
-<embed width="320" height="20" flashvars="file=http:&#47;&#47;music.metafilter.com&#47;music&#47;Juicy%20Karkass%20%2D%20Punch%20Em%20In%20The%20Dick.mp3&amp;height=20&amp;width=320&amp;config=http:&#47;&#47;music.metafilter.com&#47;playerconfig42c.xml" allowscriptaccess="always" allowfullscreen="true" quality="high" bgcolor="#333333" name="player" id="player" styte="undefined" src="http:&#47;&#47;music.metafilter.com&#47;player42c.swf" type="application&#47;x-shockwave-flash"&#47;>
+<strong><a href="http://music.metafilter.com/2380/Punch-Em-In-The-Dick-NSFW-lyrics">Punch 'em in the Dick!</a></strong>
+<embed width="320" height="20" flashvars="file=http://music.metafilter.com/music/Juicy%20Karkass%20%2D%20Punch%20Em%20In%20The%20Dick.mp3&amp;height=20&amp;width=320&amp;config=http://music.metafilter.com/playerconfig42c.xml" allowscriptaccess="always" allowfullscreen="true" quality="high" bgcolor="#333333" name="player" id="player" styte="undefined" src="http://music.metafilter.com/player42c.swf" type="application/x-shockwave-flash"/>

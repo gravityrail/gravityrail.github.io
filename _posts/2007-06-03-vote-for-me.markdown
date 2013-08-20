@@ -17,9 +17,9 @@ comments: []
 ---
 Aaron Lewis, Lawrence Leung, Matt Keneally and I wrote a (very) short film for the WotNext mobile film competition.
 
-You can view it below. Please vote for it by clicking <a href="http:&#47;&#47;www.wotnext.com.au&#47;link&#47;direct.asp?id=5107">here<&#47;a>. There's also a prize for the most downloads, so if you like it, download it!
+You can view it below. Please vote for it by clicking <a href="http://www.wotnext.com.au/link/direct.asp?id=5107">here</a>. There's also a prize for the most downloads, so if you like it, download it!
 
-<embed src="http:&#47;&#47;www.wotnext.com.au&#47;flash&#47;embedPlayer.swf" quality="high" pluginspage="http:&#47;&#47;www.macromedia.com&#47;go&#47;getflashplayer" FlashVars="mediaURL=http%3A%2F%2Fwww%2Ewotnext%2Ecom%2Eau%2Flink%2Fembed%2Easp%3Fid%3D5107" type="application&#47;x-shockwave-flash" width="332" height="285"><&#47;embed>
+<embed src="http://www.wotnext.com.au/flash/embedPlayer.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" FlashVars="mediaURL=http%3A%2F%2Fwww%2Ewotnext%2Ecom%2Eau%2Flink%2Fembed%2Easp%3Fid%3D5107" type="application/x-shockwave-flash" width="332" height="285"></embed>
 
 Thanks,
 Dan

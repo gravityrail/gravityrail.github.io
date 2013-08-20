@@ -16,9 +16,9 @@ tags: []
 comments: []
 ---
 <blockquote>
-Guy #1: I'd totally hit that.<br &#47;>
+Guy #1: I'd totally hit that.<br />
 Guy #2: Dude, I'd hit that so hard whoever could pull me out would become the King of England.
-<&#47;blockquote>
+</blockquote>
 
-You couldn't make <a href="http:&#47;&#47;www.overheardinnewyork.com&#47;pages&#47;mostpopular.html">this stuff<&#47;a> up. 
+You couldn't make <a href="http://www.overheardinnewyork.com/pages/mostpopular.html">this stuff</a> up.
 

@@ -33,15 +33,15 @@ comments:
     MjAwOC0wNi0wOCAyMjowNDo1NSAtMDcwMA==
   date_gmt: !binary |-
     MjAwOC0wNi0wOSAwNTowNDo1NSAtMDcwMA==
-  content: ! "http:&#47;&#47;arbyte.us&#47;blog_archive&#47;2005&#47;04&#47;ACN_Pyramid_Scam.html\r\n\r\nA
+  content: ! "http://arbyte.us/blog_archive/2005/04/ACN_Pyramid_Scam.html\r\n\r\nA
     quick google shows the analysis done for anyone who wants to know...\r\n\r\nI
     think the numbers on customer commission rewards are particularly telling\r\n\r\n\r\n\"In
     the introductory presentation, Angela said that the nationwide average telephone
     bill is $49. Let's use round numbers and call it $50.\r\n\r\nIf I want to earn
     enough to offset the annual ($149), monthly ($5.99), and administrative ($1) fees,
-    that takes $149 + 12&Atilde;&mdash;$5.99 + 12&Atilde;&mdash;$1 = $232.88&#47;yr.
-    At 1% commission, my customers' total billing would have to be $23,288, or $1940.67&#47;mo.
-    That's 39 customers each at $50&#47;mo. Angela only has 27! And remember, any
+    that takes $149 + 12&Atilde;&mdash;$5.99 + 12&Atilde;&mdash;$1 = $232.88/yr.
+    At 1% commission, my customers' total billing would have to be $23,288, or $1940.67/mo.
+    That's 39 customers each at $50/mo. Angela only has 27! And remember, any
     one of them not paying their bill will wipe out my commission! \""
 - id: 12538
   author: Michael Webster
@@ -108,11 +108,11 @@ comments:
     the bottom of the page), but it's right there: $500 per year. Though based on
     what Arbyte worked out that might be high. We shall see."
 ---
-This is the super fun part. I love it. 
+This is the super fun part. I love it.
 
-An earlier commenter said he liked my analysis of ACN's MLM program (selling useless videophones and marginless&#47;commoditised mobile plans) and would post it on his site. I was chuffed, of course.
+An earlier commenter said he liked my analysis of ACN's MLM program (selling useless videophones and marginless/commoditised mobile plans) and would post it on his site. I was chuffed, of course.
 
-But <a href="http:&#47;&#47;www.bizop.ca&#47;blog2&#47;multi-level-marketing&#47;dan-walmsley-blog-archive-i-wi.html">then his post appeared<&#47;a>. And, while he did take the time to quote me, he rounded it out like this:
+But <a href="http://www.bizop.ca/blog2/multi-level-marketing/dan-walmsley-blog-archive-i-wi.html">then his post appeared</a>. And, while he did take the time to quote me, he rounded it out like this:
 
 <blockquote>
 Does Dan know what he talking about? Who is Dan?
@@ -120,9 +120,9 @@ Does Dan know what he talking about? Who is Dan?
 "Dan (or Daniel) Walmsley is a comedian, musician and programmer currrently living in Melbourne, Australia."
 
 So can a comic really know that much about lame technology? Or is Dan lame himself?
-<&#47;blockquote>
+</blockquote>
 
-Well, the obvious answer is "Yes, I <strong>am<&#47;strong> lame. But not as lame as a multinational company trying to pull the wool over the eyes of naive aspirational people by using deceptive MLM marketing techniques".
+Well, the obvious answer is "Yes, I <strong>am</strong> lame. But not as lame as a multinational company trying to pull the wool over the eyes of naive aspirational people by using deceptive MLM marketing techniques".
 
 Now, let it be known that I'm not some kind of super-expert on business or MLM. I'm a technologist. But I'm not just some random guy that likes to mouth off - I do have significant domain knowledge.
 
@@ -152,5 +152,5 @@ I have taken it upon myself to simply say what I think about ACN online. Because
 Such an analysis would inevitably show that the pie for resellers is much smaller than it seems at first blush.
 
 And no, I'm not performing the bulk of that analysis. I have a day job, and better things to do. I'm just giving people enough information that they might seek to ask the right questions.
-<&#47;blockquote>
+</blockquote>
 

@@ -24,8 +24,8 @@ comments:
     MjAwOC0wNy0yOSAwMToyMDozOCAtMDcwMA==
   content: ! "yes.\r\n\r\nshould I be ashamed that I know that? I need a busier life."
 ---
-If a search engine doesn't think its own name is relevant to itself, <a href="http:&#47;&#47;www.cuil.com&#47;search?q=cuil">that's just plain sad<&#47;a>.
+If a search engine doesn't think its own name is relevant to itself, <a href="http://www.cuil.com/search?q=cuil">that's just plain sad</a>.
 
-<a href="http:&#47;&#47;cuil.com">Cuil<&#47;a> is billed as a "potential competitor to Google". Unfortunately it sucks.
+<a href="http://cuil.com">Cuil</a> is billed as a "potential competitor to Google". Unfortunately it sucks.
 
 I'm pretty sure when you type Google into Google it returns Google.

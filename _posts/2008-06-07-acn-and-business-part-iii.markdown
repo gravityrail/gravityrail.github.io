@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-To bring you up to speed: A lovely young man called Francis <a href="http:&#47;&#47;www.danwalmsley.com&#47;2008&#47;06&#47;06&#47;i-will-crush-you-under-a-pyramid-of-lam&#47;">tried to recruit me<&#47;a> into shameless pyramid scheme ACN, and I just <a href="http:&#47;&#47;www.danwalmsley.com&#47;2008&#47;06&#47;06&#47;acn-video-phone-malarky-update&#47;">sent him an email<&#47;a> asking him to consider whether they're an organisation worth being part of.
+To bring you up to speed: A lovely young man called Francis <a href="http://www.danwalmsley.com/2008/06/06/i-will-crush-you-under-a-pyramid-of-lam/">tried to recruit me</a> into shameless pyramid scheme ACN, and I just <a href="http://www.danwalmsley.com/2008/06/06/acn-video-phone-malarky-update/">sent him an email</a> asking him to consider whether they're an organisation worth being part of.
 
 Now, he's written back. Get ready, folks, for the selective memory of the truly cornered.
 
@@ -24,11 +24,11 @@ Now, he's written back. Get ready, folks, for the selective memory of the truly 
 I appreciate the research and information. I'll be sure to forward this onto ACN's Senior Vice President Brian Sax and the four owners because these are vital facts to be aware of if we want to save the company from complete annihilation within 5 years.
 
 All things considered, do you want to join the team?
-<&#47;blockquote>
+</blockquote>
 
 Now, note that nowhere did I say "you can't make money out of pyramid schemes". If you couldn't, they wouldn't still exist because at some point the owners need to get paid.
 
-What I <b>did<&#47;b> say is that they're in the business of selling a dream of working from home to shmucks on the lower rungs who will pay $500 to sign up and then never make a dime. It's mathematical sleight-of-hand for the unwary, and it's morally bankrupt.
+What I <b>did</b> say is that they're in the business of selling a dream of working from home to shmucks on the lower rungs who will pay $500 to sign up and then never make a dime. It's mathematical sleight-of-hand for the unwary, and it's morally bankrupt.
 
 So I wrote back:
 
@@ -41,7 +41,7 @@ If it was profitable for the resellers in terms of direct sales, then they would
 My friends are too smart for me to join, I'm afraid. The recommended sales practise of "asking for a huge favour" wouldn't wash with them.
 
 Kind Regards,
-Dan<&#47;blockquote>
+Dan</blockquote>
 
 I bet my pagerank against ACN is going ballistic right now. I can almost feel the semantic G-Force pressing me back into my chair...
 

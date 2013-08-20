@@ -40,5 +40,5 @@ Using tables to store objects is like driving your car home and
 then disassembling it to put it in the garage. It can be assembled
 again in the morning, but one eventually asks whether this is the
 most efficient way to park a car.
-<&#47;blockquote>
-<cite>Esther Dyson<&#47;cite>
+</blockquote>
+<cite>Esther Dyson</cite>
