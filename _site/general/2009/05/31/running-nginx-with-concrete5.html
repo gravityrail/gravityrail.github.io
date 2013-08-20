@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Running Nginx with Concrete5</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Running Nginx with Concrete5</h2>
+<p class="meta">31 May 2009</p>
+
+<div class="post">
+<p>I&#39;ve been sitting here all day bashing my head against one simple problem - getting Concrete5 working behind Nginx.</p>
+
+<p><a href="http://concrete5.org">Concrete5</a> is a beautiful, simple php-based CMS - a loud answer to the complexity of Joomla and Drupal, but of course missing some of the power too. It&#39;s perfect for web sites that aren&#39;t managed by total geeks.</p>
+
+<p>Nginx is the world&#39;s fastest and most efficient web server. Hands down, no competition, no argument.</p>
+
+<p>The problem I had integrating the two stems from nginx+php-fastcgi not correctly passing through the PATH_INFO variable so you can have URLs like &quot;http://example.com/index.php/path/to/file&quot;.</p>
+
+<p>The solution was to slightly alter the usual php-fastcgi parameter processing. Below is my complete config for my concrete5 site. This worked on Debian Lenny with nginx 0.7.59.</p>
+
+<p>&Acirc;&nbsp;</p>
+
+<pre lang="C">
+
+server {
+        listen          80;
+        server_name     www.example.com;
+        autoindex on;
+
+    location / {
+           root /var/www/example.com/concrete5/;
+                index index.php;
+
+        if (!-f $request_filename){
+                   set $rule_0 1$rule_0;
+               }
+               if (!-d $request_filename){
+                    set $rule_0 2$rule_0;
+               }
+               if ($rule_0 = "21"){
+                    rewrite ^/(.*)$ /index.php/$1 last;
+               }
+    }
+
+        location ~ \.php($|/) {
+           set  $script     $uri;
+            set  $path_info  "";
+
+            if ($uri ~ "^(.+\.php)(/.+)") {
+              set  $script     $1;
+              set  $path_info  $2;
+            }
+          fastcgi_pass   127.0.0.1:9000;
+          fastcgi_index  index.php;
+          fastcgi_param  SCRIPT_FILENAME  /var/www/example.com/concrete5$fastcgi_script_name;
+      fastcgi_param URI $uri;
+      fastcgi_param PATH_INFO $path_info;
+          include        /etc/nginx/fastcgi.conf;
+        }
+}
+</pre>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

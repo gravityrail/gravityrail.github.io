@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Wicket, Tomcat, Debian: Sometimes a little security goes way too far</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Wicket, Tomcat, Debian: Sometimes a little security goes way too far</h2>
+<p class="meta">20 Jan 2008</p>
+
+<div class="post">
+<p>Was up until 3am last night banging my head against another frustrating go-nowhere issue deploying Wicket on Debian Etch&#39;s default Tomcat5.5.</p>
+
+<p>Apparently the latest version (5.5.20-2etch1) has additional security <strike>headaches</strike> features which prevent wicket from functioning properly out-of-the-box:
+<ul>
+    <li>First of all, there&#39;s still an (as-yet-unsolved) mystery around why I couldn&#39;t get Wicket to start up as a filter. Just the mysterious &quot;ERROR: filterStart&quot; which makes me want to feed Tomcat to angry lions. Worked around it by using Wicket in Servlet mode instead.</li></p>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">&lt;li&gt;Tomcat&#39;s juli.jar can&#39;t access WEB-INF/classes/logging.properties. Fixed (in sledgehammer-like way) by adding &quot;permission java.security.AllPermission;&quot; to /etc/tomcat5.5/policy.d/03catalina.policy, in the Juli section.&lt;/li&gt;
+&lt;li&gt;Tomcat security prevents webapps from accessing all sorts of features and methods by default, including wicket.properties, methods inside shipped jars, etc. Not being a Tomcat expert, and trusting the innate security of the server and millions of lines of third party code (i.e. I&#39;m an idiot) I again just popped a java.security.AllPermission; in appropriate spots in /etc/tomcat5.5/policy.d/04webapps.policy. Let the flames commence!&lt;/li&gt;
+</code></pre></div>
+<p></ul></p>
+
+<p>If Tomcat was a little more helpful in its error messages, this would never have been so painful. Jetty has always run my Wicket apps without complaint (though I&#39;ve never tried the official Debian Jetty packages - maybe they&#39;re <strike>crippleware</strike> secure too?).</p>
+
+<p>The only reason I use Tomcat at all is the remote management and deployment features, which are well-supported by Cargo. Now that these issues are out of the way (mostly) I can take another few steps towards my dream of a seamless, fire-and-forget, auto-deploying, smoke-tested, pluggable and modular web app deployment system.</p>
+
+<p>Oh, and have I mentioned recently how much I LOVE IInitializer?</p>
+
+<p>Bless you, Wicket. Bless you.</p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

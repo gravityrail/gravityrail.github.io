@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Apache Wicket on Google App Engine for Java</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Apache Wicket on Google App Engine for Java</h2>
+<p class="meta">08 Apr 2009</p>
+
+<div class="post">
+<p>Holy smokes, that was easy. I&#39;ve got a basic Wicket app running on Google App Engine in under 2 minutes.</p>
+
+<p>3 small traps for the unwary. First of all, you need to enable sessions in your appengine config file.</p>
+
+<pre lang="xml">
+    <sessions-enabled>true</sessions-enabled>
+</pre>
+
+<p>Secondly, add the following line into your WebApplication&#39;s init() method:</p>
+
+<pre lang="java">
+    @Override
+    protected void init() {
+        super.init();
+
+        //remove thread monitoring from resource watcher
+        this.getResourceSettings().setResourcePollFrequency(null);
+    }
+</pre>
+
+<p>Thirdly, override the newSessionStore() method to return HttpSessionStore, because the default second level session store uses java.io.File, which Google App Engine doesn&#39;t allow:</p>
+
+<pre lang="java">
+    @Override
+    protected ISessionStore newSessionStore()
+    {
+        return new HttpSessionStore(this);
+//      return new SecondLevelCacheSessionStore(this, new InMemoryPageStore());
+    }
+</pre>
+
+<p>That&#39;s because Google App Engine doesn&#39;t want you spawning threads. Obvious enough.</p>
+
+<p>So that&#39;s it! You&#39;re in a Wicket-land of infinite scalability...</p>
+
+<p>(I&#39;m sure there&#39;s more to it but I was excited...)</p>
+
+<p>See my stupid test here: http://transitplatform.appspot.com/</p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

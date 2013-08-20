@@ -4,6 +4,11 @@ title: Your New Jekyll Site
 ---
 
 <div id="home">
+  {% highlight ruby %}
+  def foo
+    puts 'foo'
+  end
+  {% endhighlight %}
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}

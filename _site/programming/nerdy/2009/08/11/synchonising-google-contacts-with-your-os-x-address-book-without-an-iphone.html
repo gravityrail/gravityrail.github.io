@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Synchonising Google contacts with your OS X Address Book without an iPhone</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Synchonising Google contacts with your OS X Address Book without an iPhone</h2>
+<p class="meta">11 Aug 2009</p>
+
+<div class="post">
+<p>So, I lost my iPhone a while ago and that was annoying.</p>
+
+<p>Then my annoyance doubled when I realised that my Google contacts were no longer being synced to my OS X Address Book. It turns out that Apple will only let you synchonise Google contacts when you have an iPhone connected to the system.</p>
+
+<p>This would have to be the most brain-damaged mis-feature I&#39;ve seen in years. It&#39;s not like my laptop has to access Google <strong>through</strong> the iPhone. It&#39;s just a completely arbitrary co-dependence of two otherwise utterly unrelated features of the computer.</p>
+
+<p>Luckily there&#39;s a workaround for those who no longer have an iPhone but enjoyed the Google Contact syncing. It&#39;s a short script, so only really useful to those willing to get their hands dirty in the shell.</p>
+
+<pre lang="bash">
+#!/bin/sh
+echo "Syncing Contacts with Google"
+/System/Library/PrivateFrameworks/GoogleContactSync.framework/Versions/A/Resources/gconsync --sync com.google.ContactSync
+echo "Sync Complete"
+</pre>
+
+<p>There - done! I suppose you could turn it into a launchd script if you&#39;re really keen, but I&#39;m happy to just run it by hand from time-to-time. Eat it, Apple!</p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Sending HTML Email with Wicket part II: Converting links</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Sending HTML Email with Wicket part II: Converting links</h2>
+<p class="meta">23 Oct 2008</p>
+
+<div class="post">
+<p>In my previous post, I showed how you can use <a href="http://wicket.apache.org">Wicket</a>&#39;s HTML rendering engine to render HTML emails by faking a request/response cycle.</p>
+
+<p>In this post, I&#39;ll show you how to use an IVisitor to change image and anchor URLs to be absolute instead of relative. This is absolutely essential in order to make your HTML email work - otherwise all your images can&#39;t be found, and your links point to your own mail server.</p>
+
+<p>The trick is to use Wicket&#39;s IVisitor to add a TransformerBehaviour to all the Images and Links that uses a regex to transform the URL after render but before the page is returned.</p>
+
+<p>The code for the IVisitor is below:
+<pre>private final class RelativeToAbsoluteUrlVisitor implements IVisitor {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private final String requestPath;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private Pattern urlPattern;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private Class&lt;? extends Component&gt; componentClass;</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private RelativeToAbsoluteUrlVisitor(String requestPath, Class&lt;? extends Component&gt; componentClass, String attributeName) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; this.requestPath = requestPath;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; this.componentClass = componentClass;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; urlPattern = Pattern.compile(attributeName+&quot;=\&quot;(.*?)\&quot;&quot;);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public Object component(Component component) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //if this component is of the specified class, update the URL attribute to be absolute instead of relative
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; if(componentClass.isInstance(component)) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; component.add(new AbstractTransformerBehavior() {</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; @Override
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public CharSequence transform(Component component,
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; CharSequence output) throws Exception {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn(&quot;Transforming component output: &quot;+output);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; Matcher m = urlPattern.matcher(output);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; if(m.find()){
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String attributeValue = m.group(1);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int start = m.start(1);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int end = m.end(1);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //convert relative to absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String absolutePath = RequestUtils.toAbsolutePath(requestPath, attributeValue);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn(&quot;Got absolute path &#39;&quot;+absolutePath+&quot;&#39; from relative path &#39;&quot;+attributeValue+&quot;&#39;&quot;);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //construct a new string with the absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String strOutput = String.valueOf(output);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String finalOutput = strOutput.substring(0, start)+absolutePath+strOutput.substring(end);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn(&quot;Returning updated component: &#39;&quot;+finalOutput+&quot;&#39;&quot;);</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return finalOutput;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }</p>
+
+<p>&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return output;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }});
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return IVisitor.CONTINUE_TRAVERSAL;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }</pre>
+Then we override the onBeforeRender() routine to traverse the component hierarchy and add this behaviour to the appropriate elements. Note that I haven&#39;t shown how you get the current absolute request URL, as in my system this is proprietary. There&#39;s plenty of example code floating around on how to do that, anyway.
+<pre>
+    protected void onBeforeRender() {
+        super.onBeforeRender();</p>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">    final String requestPath = MyCustomWebRequestCycle.get().getCurrentUrlAsString();
+
+    IVisitor imageVisitor = new RelativeToAbsoluteUrlVisitor(requestPath, Image.class, &quot;src&quot;);
+    IVisitor anchorVisitor = new RelativeToAbsoluteUrlVisitor(requestPath, Link.class, &quot;href&quot;);
+
+    visitChildren(Image.class, imageVisitor);
+    visitChildren(Link.class, anchorVisitor);
+}&lt;/pre&gt;
+</code></pre></div>
+<p>So there you have it! All the bits and pieces to create HTML email with Wicket. There&#39;s one more catch though: You have to generate these emails in the same process as the Wicket Application. Calling Application.get() outside of the main process results in an error. In my system, I get around this by generating the HTML email source every time the user saves my Newsletter bean, which means that when it&#39;s finally sent (in the background), it just sends the pre-generated HTML. Easy!
+<pre></pre></p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>End the Wicket PermGen issue</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Your New Jekyll Site</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>End the Wicket PermGen issue</h2>
+<p class="meta">11 Dec 2007</p>
+
+<div class="post">
+<p><strong>Update</strong>: This doesn&#39;t seem to have completely fixed the problem, although perhaps I&#39;m reloading the context to often for the garbage collector to keep up. I&#39;ll keep you posted. Anyhoo, if you read this and try it out, please let me know if it works for you.</p>
+
+<hr />
+
+<p>Anyone who develops Wicket applications and doesn&#39;t have a bajillion gigabytes of RAM (and java command line options to match) eventually runs into the &quot;Out of PermGen Space&quot; issue. This happens because, by default, the JVM doesn&#39;t reclaim this kind of memory.</p>
+
+<p>For those of us who value the ability to hot-redeploy a context without bringing down our entire container (Geronimo, anyone?), the following JVM command-line options are invaluable:</p>
+
+<p>-XX:MaxPermSize=256m \
+-XX:+UseConcMarkSweepGC \
+-XX:+CMSPermGenSweepingEnabled \
+-XX:+CMSClassUnloadingEnabled</p>
+
+<p>Note that not all of them are necessary, but if you want to reclaim PermGen space you must have the last two at least.</p>
+
+<p>I hope this helps someone else out there, this was caving my head in for a while before I realised the fix was so simple.</p>
+
+<p>On another note, I have now read this <a href="http://technically.us/code/x/to-jettison-geronimo">Coderspiel article</a> and am a convert to the world of individual Jetty containers running on their own VM. Memory&#39;s cheap, right?</p>
+
+<p>And, for my own 2c, Java frameworks are now so abstracted and separable that it&#39;s possible to achieve 90% of what a full J2EE stack gives you just by cherry-picking a few bits and pieces (say, Hibernate + Wicket + Jetty). That gives you a much leaner, meaner stack and you can tune the Heck out of it.</p>
+
+<p>Add Maven2 to the picture and you&#39;re in pluggable, extensible, fire-and-forget heaven.</p>
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Dan Walmsley<br />
+                  CTO, NationBuilder<br />
+                  dan@nationbuilder.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>
