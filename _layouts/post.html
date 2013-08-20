@@ -7,3 +7,12 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+
+<div class="comments">
+<h2>Comments</h2>
+<ul>
+{% for comment in page.comments %}
+  <li><strong>{{ comment.author }}</strong>: {{ comment.content }}</li>
+{% endfor %}
+</ul>
+</div>
