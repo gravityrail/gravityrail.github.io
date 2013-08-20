@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Gay!
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 137
+wordpress_url: http://www.danwalmsley.com/?p=137
+date: 2008-08-08 04:14:13.000000000 -07:00
+categories:
+- General
+tags: []
+comments: []
+---
+Is the BBC getting ruder? I mean, I realise on some level they're competing with Fox News, but... is this necessary?
+
+Headline: <a href="http:&#47;&#47;news.bbc.co.uk&#47;sport2&#47;hi&#47;olympics&#47;athletics&#47;7548819.stm">Injury eased Olympic nerves - Gay<&#47;a>
+
+They're just one exclamation mark away from discrimination. Go BBC!

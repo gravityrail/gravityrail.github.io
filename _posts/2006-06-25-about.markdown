@@ -1,0 +1,32 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 2
+wordpress_url: '1072672262'
+date: 2006-06-25 21:44:42.000000000 -07:00
+categories:
+- General
+tags: []
+comments: []
+---
+I am Dan (or Daniel) Walmsley. I'm a comedian, musician and programmer who is based in Melbourne, Australia but these days I split my time between the UK, USA and Australia.
+<h2>Comedy<&#47;h2>
+I perform improv (often with a bit of music), standup and sketch comedy, as well as some very strange online shows and the occasional completely off-the-wall 24 hour show (as an assistant of sorts to Mark Watson).
+
+You can read more about the comedy side of things on my <a href="http:&#47;&#47;www.danwalmsley.com&#47;about&#47;bio">Comedy Biography<&#47;a> page.
+<h2>Music<&#47;h2>
+I used to play guitar&#47;bass&#47;drums&#47;vocals (at various times) in a band called <a href="http:&#47;&#47;www.thedebacles.com">The Debacles<&#47;a>. Now I play mostly in my lounge-room, but also on stage with improvisors, see above.
+<h2>Programming<&#47;h2>
+My career, such as it is, has mostly been as a programmer. Lacking any kind of career focus, I've ended up doing an insanely wide array of things, from weather and lighting systems integration on the new third runway at Incheon (the main airport in South Korea) to global risk management systems in the banking industry, cobol-based accounting systems, and lots and lots of web programming.
+
+Currently I am Managing Director of <a href="http:&#47;&#47;www.gravityrail.com">Gravity Rail<&#47;a>, Technology Director of <a href="http:&#47;&#47;www.agentblank.com">Agent Blank<&#47;a>, and Technology Director for <a href="http:&#47;&#47;www.openscs.com">OpenSCS<&#47;a>&#47;<a href="http:&#47;&#47;www.openstart.com.au">OpenStart<&#47;a>.
+<h2>Passion<&#47;h2>
+My passions are really centered on the idea of empowering artists and audiences through technology and uses of technology as a enabler of rapid social, economic and political change. The development of the Internet has helped to bring greater balance between commercial and public culture. Institutions that are heavily invested in the old, rigid ways of distributing content are, naturally, trying to defend that model against the explosion of free expression and distribution online - often in ways that are overly punitive and hurt innocent people (or those who, in an ideal world, wouldn't be guilty of a crime). It is my hope that we can find ways to continue supporting artists financially without restricting free culture.
+
+My final thought: The purpose of legal mechanisms like patents and copyrights is to encourage the creation of works of technology and art. Some people seem to have forgotten that those laws are about creation, not about money. Ultimately, I think we will see the emergence of new economies that are not necessarily based on the exchange of currency, but of ideas and trust.

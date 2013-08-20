@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Nerd Porn
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 93
+wordpress_url: http://www.danwalmsley.com/2007/05/22/nerd-porn/
+date: 2007-05-22 23:58:34.000000000 -07:00
+categories:
+- General
+tags: []
+comments: []
+---
+A sneak-peek at my upcoming TV show, <a href="http:&#47;&#47;planetnerd.tv">Planet Nerd<&#47;a>, written by and starring the amazingly talented <a href="http:&#47;&#47;www.myspace.com&#47;foolishgenius">Karin Muiznieks<&#47;a>. <strong>Caution<&#47;strong>: may cause you to forget to carry the 3:
+
+<object width="425" height="350"> <param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;B2EWYU0jM28"> <&#47;param> <embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;B2EWYU0jM28" type="application&#47;x-shockwave-flash" width="425" height="350"> <&#47;embed> <&#47;object>

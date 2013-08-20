@@ -1,0 +1,56 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Edinburgh Fringe: The Hotel'
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 262
+wordpress_url: http://www.danwalmsley.com/?p=262
+date: 2009-07-04 17:24:15.000000000 -07:00
+categories:
+- General
+tags: []
+comments:
+- id: 30146
+  author: Jonny
+  author_email: jonny@phonecoop.coop
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wOC0xMCAxMDoyNjowNCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwOS0wOC0xMCAxNzoyNjowNCAtMDcwMA==
+  content: I loved the Hotel, its like nothing else I'd seen in the festival before.
+    I thought your business centre was hilarious - did you write the website? I am
+    trying to research other people who were in it - who played the French poet guy?
+- id: 30171
+  author: Dan Walmsley &raquo; Blog Archive &raquo; The Hotel gets 5 Stars in &#8220;The
+    List&#8221;
+  author_email: ''
+  author_url: http://www.danwalmsley.com/2009/08/11/the-hotel-gets-5-stars-in-the-list/
+  date: !binary |-
+    MjAwOS0wOC0xMSAxMzozODoxMyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwOS0wOC0xMSAyMDozODoxMyAtMDcwMA==
+  content: ! '[...] celebrating today as one of my shows, &#8220;The Hotel&#8220;,
+    got 5 stars in The [...]'
+---
+[caption id="attachment_263" align="alignleft" width="238" caption="The Hotel, Poster"]<a href="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;07&#47;ad292_print_comedy.jpg"><img class="size-medium wp-image-263" title="The_Hotel_Poster" src="http:&#47;&#47;www.danwalmsley.com&#47;wp-content&#47;uploads&#47;2009&#47;07&#47;ad292_print_comedy-238x300.jpg" alt="The Hotel, Poster" width="238" height="300" &#47;><&#47;a>[&#47;caption] 
+
+The Hotel could be the most interesting and inexplicable show that I've ever been involved in - quite a feat considering the current record-holder in that regard was a 36-hour show in which a fictional two-state country was invented and then one state seceded from the republic because Mark Watson wouldn't pop up the road and buy a webcam. Meanwhile somebody flew across the world and we sang more than a few rousing songs.
+
+But I digress. The Hotel is a mind-bending new comedy directed by Mark Watson which tell the story of a hotel and its owner, with each room presenting a unique comedy piece that illustrates part of the story. The rooms are curated by some of the world's finest and most innovative comedians, and also by me.
+
+I am in charge of the Business Center, a room full of computers and other equipment all designed to mess with you in subtle and not-so-subtle ways.
+
+I have given away more than enough - suffice to say this is one of the must-see events of the Fringe. These sorts of things don't come along often - how could they? Renovating a Hotel is an awful lot of hard work.
+
+Come and check it out: 5th to the 31st of August (but not the 17th) at "Assembly @ George Street - Meeting Place Theatre", at 4:15pm. It goes for about an hour. You will wish you could stay longer.
+
+Links:
+<ul>
+	<li><a href="http:&#47;&#47;www.assemblyfestival.com&#47;webpages&#47;whatson_moreinfobooknow.php?id=3:64&">Assembly Rooms Show Booking Page<&#47;a><&#47;li>
+<&#47;ul>
+

@@ -1,0 +1,38 @@
+---
+layout: page
+status: publish
+published: true
+title: Contact
+author: dan
+author_login: admin
+author_email: dan@danwalmsley.com
+author_url: http://danwalmsley.com
+wordpress_id: 39
+wordpress_url: http://www.danwalmsley.com/?page_id=39
+date: 2006-08-27 21:58:55.000000000 -07:00
+categories:
+- General
+tags: []
+comments: []
+---
+You can contact me using the form below.
+
+[contact-form 1 "Contact form 1"]
+
+<h2>Mailing List<&#47;h2>
+If you'd like to be kept informed of my various gigs, travels and appearances, please fill in the form below and submit to the convoluted trail of interactions designed to thwart spammers.
+
+If at any time you wish to unsubscribe, use the link provided in one of my newsletters, or the unsubscribe button below.
+
+<form method="post" action="http:&#47;&#47;scripts.dreamhost.com&#47;add_list.cgi">
+   <input type="hidden" name="list" value="newsletter@danwalmsley.com" &#47;>
+   <input type="hidden" name="domain" value="danwalmsley.com" &#47;>
+   <input type="hidden" name="emailit" value="1" &#47;>
+  <table>
+  <tr><td>Name<&#47;td><td><input name="name" &#47;><&#47;td><&#47;tr>
+  <tr><td>E-mail<&#47;td><td><input name="email" &#47;><&#47;td><&#47;tr>
+   <tr><td valign="top">Comments (optional):<&#47;td><td><textarea name="comments" cols="40" rows="6"><&#47;textarea><&#47;td><&#47;tr>
+   <&#47;table>
+   <input type="submit" name="submit" value="Join Mailing List" &#47;>
+   <input type="submit" name="unsub" value="Unsubscribe" &#47;>
+<&#47;form>
