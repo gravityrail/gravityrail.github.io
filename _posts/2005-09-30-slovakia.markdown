@@ -1,0 +1,128 @@
+---
+layout: post
+status: publish
+published: true
+title: Slovakia
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 263
+wordpress_url: http://goldsounds.com/?p=263
+date: 2005-09-30 23:23:18.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 3787
+  author: Brent
+  author_email: ''
+  author_url: http://www.thestrahans.com
+  date: !binary |-
+    MjAwNS0xMC0wMSAwMTo0ODo0MyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0zMCAxNTo0ODo0MyAtMDcwMA==
+  content: ! "now THIS is what I call a weblog post. slovakians, the danube, casltes,
+    queenslanders, cable cars... \r\n\r\nman, this place has it all."
+- id: 3788
+  author: Sal
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0xMC0wMSAwMjo0ODozMCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0zMCAxNjo0ODozMCAtMDcwMA==
+  content: Beautiful photos!
+- id: 3863
+  author: dusan
+  author_email: ''
+  author_url: http://www.exploreslovakia.co.uk
+  date: !binary |-
+    MjAwNS0xMS0wOCAwMTozMDoyOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMS0wNyAxNTozMDoyOCAtMDgwMA==
+  content: ! "hi i am glad you enjoyed Slovakia. If enyone would by interested i can
+    advice on accommodation in eastern Slovakia and where to go and what to see.Unfortunately
+    you missed another amazing NationalPark SLOVAK PARADISE that is just 20 miles
+    from Poprad.\r\nwww.exploreslovakia.co.uk\r\nwww.hightatras.co.uk\r\nsee you there"
+- id: 87436
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0yOSAwNTozNTozOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0yOCAxOTozNTozOCAtMDgwMA==
+  content: dCZKPf  <a href="http://valeluuwhdch.com/" rel="nofollow">valeluuwhdch</a>,
+    [url=http://vlpoagnuvgrq.com/]vlpoagnuvgrq[/url], [link=http://rolxcxtoaaiy.com/]rolxcxtoaaiy[/link],
+    http://lnvpkkpozdrs.com/
+---
+Now, from Munich we enter the mystical former-Czech-Soviet-Habsburg-etc-etc land of Slovakia, beginning at the capital Bratislava, a mere (seemingly) infinity hours by train from Munich.
+
+I had to catch the train, you see, because I missed the overnight bus on Saturday night (losing 40 Euros in the process). I had forgotten to ask where the bus left from when I bought the ticket and upon inspection the ticket didn't mention the point of departure. Knowing this, I deliberately cut short my final day of drinking (9am - 6pm. Really, 9 hours of drinking should be enough for anyone) and went to central station, reasoning that the information booth staff would be able to tell me where to go.
+
+At this point, as a sidenote, I will attempt to convey a picture (in words) of the situation that I witnessed upon entering Munich Hauptbahnhof at 7pm on the last big Saturday of Oktoberfest.
+
+Carnage. Total human carnage. Roaming gangs of teetering Germans (and a minority of other nationalities) shouting folk songs in food-splattered lederhosen. Staring bloodshot men slumped unshaven on their bags next to comatose friends whose only pillow is their steaming vomit. Beaming women, bounteous breasts overflowing from white peasant tops, skipping gaily towards a future of short hair, strap-ons and IVF.
+
+Showing my bus ticket to the information booth staff resulted in a collective shrug the height of the German Alps, but one helpfully waved his hand towards a sign that said "Bus" and an arrow pointing out the door. Following the arrow revealed a bus terminal, but a very limited one and none of the signs displayed enough information for me to find the one I was looking for. I started asking people waiting at the stop. I found one who spoke English, but he wasn't a huge help (despite trying). I asked a bus driver who pulled up, "Is this the bus to Bratislava?". A yes-like grunt. I profferred my ticket. "Can I get on?". A very no-like grunt.
+
+Hm. Being the forceful type that I am, I did nothing for about 5 minutes, while my brain leapfrogged itself trying to reason how my bus ticket labelled "To: Bratislava" wasn't good for boarding a bus labelled "Bratislava".
+
+Finally, in desperation, I asked a nearby taxi driver. "Oh, no.", he said, "Other bus terminal. Ten kilometre.".
+
+I looked at my watch. 10:43. My bus was due to leave at 10:45. I did a few quick calculations in my head, but none of them led me to believe that I could make it through 10 kilometres of city traffic in under 2 minutes.
+
+It turns out, incidentally, that the bus I tried to get on was run by another company.
+
+So, knowing I wouldn't get to Bratislava tonight, I trudged to the (closing) Internet and Phone joint across the road and tried to convince them to stay open 5 more minutes so I could call Lachlan. Success! Not only were his friends able to put me up, the whole bunch of them were standing inside the station I had just left, waiting for a train home. Such perfect, perfect timing. So that night I stayed with Lachlan, Antal (Belgium, Logistics Manager), Simon (Aussie, friend of Lachlan's, Project Manager at Toyota) and Annelien (Belgium, Advertising person) at Anja's house (everyone on the loungeroom floor). Lachlan was somewhat worse for wear from his 14 hours of drinking, but certainly had paced himself better than a few nights previously when I almost had to get him airlifted home.
+
+The next morning sleep ebbed away like a slow tide, and my brain was a pile of washed-up seaweed slowly baking in the sun. After some small amount of fussing, we headed out for a pleasant and lazy late Sunday breakfast of Pizza (!), after which the guys found me an internet cafe and I sorted out an afternoon train to Bratislava. At 4:22pm, I was finally on a train to my next destination: Slovakia.
+
+After leaving Munich, the train rumbled through some fairly ordinary German countryside before reaching Austria, at which point things started to get really seriously spectacular. One day, I must return to the mountains of Austria - gleaming white castles, rolling greener-than-green countryside, towering churches. I felt like I was in a pop-up fairytale book.
+
+I had to change trains at Vienna, and almost missed connecting train after deciding to run into town to grab some McDonalds. The part of Vienna that I saw looked distinctly boring and commercial, but I'm sure it's not all like that.
+
+I arrived at Bratislava, exhausted, at midnight. Thanks to a helpful local I got off the train one stop early, as the Central Station is currently under contruction and not served by public transport. I met a middle-aged Italian called Gas who had come to Bratislava alone for a short holiday, so we kept each other company on the way in to town. Once we were in there, he couldn't be bothered finding his own hotel, so I led him to mine (in a roundabout, not-entirely-sure-where-I-am-what-is-it-with-these-people-haven't-they-heard-of-STREET-SIGNS kind of way). Once I got there and checked in (Patio Hostel - fantastic place, helpful young staff who speak great English), I reasoned that I would immediately go to sleep and not wake up until my body had forgotten about Munich. This was God's cue to send some sprightly young American backpacker called Barak and various other energetic characters to talk me into bar-hopping with them. After wandering the deserted streets (and why shouldn't they be, it was 1am on a Sunday night for Chrissake), we found an open place called Aztec Bar and had a few pints before returning to bed around 4 or 5am. Phew!
+
+I thought I escaped the drinking when I left the orbit of Planet Munich.
+
+The next day, I eased myself out of bed and met Robin and Matthias downstairs. Together we walked for about 15 minutes to Bratislava Castle, perched upon a prominent rocky hill just next to the Danube. Nearby, a huge space-age bridge (with a flying saucer on top, see <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050374.JPG.html">photos</a>) joins the quaint and beautifully preserved old-town with the dehumanising Soviet-era tombstone-apartment suburbs south of the river. In the distance, we could make out the collossal and ancient factories that make the Danube such a great river to drown in - if the lack of oxygen doesn't kill you, heavy metal poisoning will.
+
+After walking around the castle and failing to find decent food, we headed back into the Old Town and found a great cafe where I had an antipasto that totally failed to compare with the one at <a href="http://www.melbournepubs.com/v/817/Sahara.html">Sahara</a> in Melbourne. We spent the afternoon shopping and checking out the town. There's a lot of brand-name stores to shop at if you feel like spending just as much money on the same clothes as you could buy at home, and clearly a lot of people are up for that or they wouldn't exist. But just behind the main shopping strips are great little markets and second-hand stalls that sell almost the same stuff for 1/5 of the price. Bought a second pair of long pants and Jumper Number 3 - I had left the second jumper at Anja's place in Munich.
+
+At this point, I must make a special mention of Robin, among the most interesting and intelligent people I have met on this trip. My first impression was of a typical laconic Queenslander, but there is much more to him (as there is to most people, if you get to know them well enough). He works at an investment firm in London, brokering investments between funds and traders, I think. I didn't quite catch all of the specifics, but it was really interesting and inspiring talking to him. He's probably moving to Melbourne in 2007, and I hope to see him again. A really lovely guy.
+
+That night (Monday) involved, if I remember correctly, a whole lot of drinking and dancing with Robin, Matthias, some Slovenian girls and more aussies from the hostel. We started at a supposed-university-bar that actually turned out to be a yuppie bar with expensive beer and horrible music (Worst of the 90s on constant rotation). Next we found ourselves in a Slovakian restaurant/pub that we forced to stay open at least an hour longer than they wanted to while we loaded up on beer. Then we headed to our final destination: a nightclub inside a boat moored on the Danube. No entry fee, and gorgeous locals dancing up a storm. I did my best impression of an idiotic nerdy foreigner looking completely out of place. I think I had them convinced.
+
+The next day, I excavated my creaking, poisoned body from my bed one more time to face what I hoped would be a nice easy day of not much at all. I walked with Matthias (German) to find some breakfast, eventually discovered a great Irish breakfast (I know, I am a terrible tourist sometimes) and scoffed it heroically. Matthias and I talked politics and economics (he's an economics major), and he's a really fantastic, intelligent guy. I learned a lot.
+
+Then I headed back to the hostel to do some washing. That night we all went out again, with some more Aussies in tow - two long-haired hard-rocking Queenslanders, and two older and slightly dodgy Sydneysiders (one now based in London). Initially we walked up to the castle to catch a concert (what sort of concert we weren't sure). I headed in with the Sydneysiders after one of them scored a ticket on the cheap, while the others split for a bar called The Alligator. The concert turned out to be the Slovakian equivalent of Status Quo and, while the lighting of the castle exterior was amazing and the mostly family-oriented crowd was really into the music, we decided to head to the pub to meet the others.
+
+Oh. My. Freaking. God. We got to the Alligator bar to find the place jumping, mostly thanks to the MOST AMAZING COVER BAND I HAVE EVER SEEN. There was an Eddie Vedder lookalike on Lead Guitar, a Neil Young lookalike on Other Guitar and Bass, and a skinny young guy with a short mohawk pounding the drums like a mad-man. Vocals were shared among the three, with notable highlights including the drummer singing Firestarter, and oh crap too much else to mention. Many pints were drunk, much dancing was had (the keenest dancers were in their <strong>60s</strong>, clearly having a ball and putting the youngsters to shame). The new Aussie additions turned out to be absolute gems, head-banging and giving rock-n-roll hand gestures to the band as they worked through four magnificent sets. I left before the end, knowing that I had to get up in the morning to catch my train to the High Tatras.
+
+The train trip to north-eastern Slovakian town of Poprad was relatively uneventful until the last few kilometres, when the scenery started to impress with broad blue rivers and untouched hills. Occasional towns varied between a collection of tumbledown shacks with market gardens, to brutal industrial landscapes rusting away before my eyes. Closer inspection would reveal people still inside these Soviet death-traps, working away on creaking machinery.
+
+After some 6 hours I arrived at bizarre-looking station at Poprad, and after much mucking around and language-based confusion I managed to miss my connecting train to central High Tatras town of Stary Smokovec, catching the next one instead. I noticed some huge piles of lumber on trains and pallets at station, and grumbled to myself about them cutting down all their forests. Little did I know the real story...
+
+(Side note: I met an Englishman from a town near Bath called Paul on the train to Stary Smokovec, and we spent the rest of my time at the High Tatras together, both in the two pensions and walking to the peaks)
+
+Stary Smokovec looks nothing like the photos on the web. Sites like that of the <a href="http://www.tatry.net/grand/">Grand Hotel Smokovec</a> show pristine hotels surrounded by lush forest, but the reality was like something out of a war movie. Levelled forests, hardly a tree in sight, and buildings clamped by scaffolding. The balcony of my first-night's room (an ultra-70s-kitsch apartment in Pension Vesna) overlooked a valley that was <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050387.JPG.html">stripped of almost every living thing</a>.
+
+Then the real story emerged: A hundred-year storm swept through the area some months ago, completely flattening the vegetation on one side of the mountain. <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050396_001.JPG.html">Check it out</a>.
+
+I should mention at this stage that I had actually booked into the Grand Hotel Smokovec for my stay here, in the hopes of chilling out in the pool and sauna and enjoying a little bit of luxury before diving back into the grimy world of hostels, but my reservation mysteriously didn't make it onto their books. Curse you, Internet!
+
+The next morning, Paul and I headed out to the information desk and found the most advisable walk - an electric tram up the hill, followed by an easy couple of hours walking, then another cablecar to the second-highest peak (the highest being only slightly higher, and completely inaccessible). The walking track turned out to be made of large, angular rocks whose jaggedness made itself well known to my aching feet through the paper-thin soles of my Dunlop Volleys. I thought the idea of walking tracks was that they are a more even, comfortable walking surface than the surrounding terrain. Not so in topsy-turvey Slovakia! <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050413.JPG.html">Don't believe me</a>?
+
+The walk took us through some <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050409.JPG.html">stunning</a> <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050414.JPG.html">autumn</a> <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050404.JPG.html">scenery</a>. The deciduous trees are just beginning to turn, mottling the green mountain sides with red and gold patches. The scene reminded me of some of Mum's old 1000-piece puzzle scenes ("Another piece of sky? Ah crap.").
+
+Eventually we reached the <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050424.JPG.html">cablecar station</a> that would take us to the top of the hill. Can you spot the cablecar in <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050423.JPG.html">this photo</a>? That's a thousand meters of rock you're looking at.
+
+After a hot chocolate and a banana, our cablecar arrived. Thank goodness, we were beginning to think we would have to ascend the hill on an item of food or drink.
+
+The ascent by cable-car was one of awe mixed with increasing terror as the rocky ground dropped away but, unnervingly, didn't look any softer or friendlier for the distance. After about 10 minutes we docked at the peak, some 2600m above sea level. It was cold up there, I wished I'd brought my gloves. It was an amazing view, but unfortunately marred by excessive cloud cover and haze, giving it a Mordor-like appearance. On a clear day I am sure it's completely mind-blowing, but unfortunately when I was there it was merely <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050436.JPG.html">stupefying</a> and <a href="http://goldsounds.com/gallery/v/Europe-2005/Slovakia/P1050447.JPG.html">exhilirating</a>.
+
+To get down, we took the same cablecar, and then another to a town from which we caught the bus back to Stary Smokovec.
+
+After I used the 'net for a while, Paul and I spent a pleasant evening eating pasta and having a few beers. We arrived back at the penzion to find a bunch of Czech lads playing ping-pong, so we challenged them to a round robin which was so much fun that we kept playing by torchlight through a couple of blackouts. At the end, they brought out some delicious cheese and spicey sausages which I scoffed before heading to bed.

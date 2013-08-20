@@ -1,0 +1,2921 @@
+---
+layout: post
+status: publish
+published: true
+title: Right on
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 140
+wordpress_url: http://www.goldsounds.com/archives/2004/08/19/right-on/
+date: 2004-08-19 14:53:38.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 223
+  author: Sally 'Brutal Honesty' Mystery Surname
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yNiAyMDo0MzoyMSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yNiAxMDo0MzoyMSAtMDcwMA==
+  content: ! "Shall I or shall I not be surprised that you named your website from
+    a Pavement song?  It's actually the song I began my last mixed cd too, made only
+    a few weeks ago.\r\n\r\nps: I encountered your site on Baobhan Sidhe search.  Have
+    a very talented musical friend looking to put Blues band together.\r\n\r\nNow
+    your challenge is to find my very secret online journal, running for the past
+    4 years.  HAH!"
+- id: 225
+  author: Matt
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yNyAyMzoyNzo0MyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yNyAxMzoyNzo0MyAtMDcwMA==
+  content: ! "Ha! Trivial, if you're going to post links to my blog in it.... Of course,
+    since it's friendslocked, who knows what it actually says in there. \r\n\r\nD'oh."
+- id: 226
+  author: Sally 'Brutal Honesty' Mystery Surname
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yOCAwNzo0MDoyNyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yNyAyMTo0MDoyNyAtMDcwMA==
+  content: ! "Note: the link to your blog was not malicious, rather referring to your
+    comment and link to veryverygay.com - which is run by a friend of mine.  My entire
+    universe collided and exploded in my head.  I was commenting at how small the
+    internet has actually become, and so she could get a kick out of it. \r\n\r\nOh,
+    and you read your IP logs!  Yay you!\r\n\r\nBesides, since you have comments inactive
+    AFAIK, I actually wanted to bring your attention to the following, as I thought
+    you would enjoy them: <a href=\"http://www.amazon.com/exec/obidos/tg/detail/-/1583940634/102-7833059-7815311?%5Fencoding=UTF8&v=glance\">Phoebe
+    Gloeckner part a</a>, <a href=\"http://www.amazon.com/exec/obidos/tg/detail/-/1583940286/102-7833059-7815311?%5Fencoding=UTF8&v=glance\">Part
+    B</a> and <a href=\"http://www.amazon.com/exec/obidos/tg/detail/-/0375422307/qid=1093642235/sr=8-1/ref=pd_ka_1/102-7833059-7815311?v=glance&s=books&n=507846\">something
+    else</a>. \r\n\r\nThings change, y'know."
+- id: 228
+  author: Matt
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yOCAxMToyMjozMSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yOCAwMToyMjozMSAtMDcwMA==
+  content: ! "My comments are active, though? At the main blog. You just have to do
+    it anonymously if you aren't a Blogger user. \r\n\r\nI didn't think the link was
+    malicious -- for one thing, if it was, more people would have come via it ;)   But
+    yes, the internet is very very small..\r\n\r\nThanks for the recommendations!"
+- id: 229
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yOCAxMzoyNjozNCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yOCAwMzoyNjozNCAtMDcwMA==
+  content: Yes, but I am reading retrospectively.  In which comments would have been
+    made, but there are no means.  Alas, the snark remains unleashed.
+- id: 233
+  author: daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wOC0yOSAxNDozMjoyOCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yOSAwNDozMjoyOCAtMDcwMA==
+  content: Well well, of all the strangeness that's ever occurred on my blog, I /never/
+    expected this! :-)
+- id: 234
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yOSAxODo1MDozOCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yOSAwODo1MDozOCAtMDcwMA==
+  content: ! "Ah Dan, you need a t-shirt deemed with the appropriate slogan:\r\n\"Dan...
+    bringing people together since '04\".\r\nI may even pay for the printing of it,
+    when I get my own done:\r\n\"Sally... Stalking since '76!\""
+- id: 235
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0yOSAxODo1MjoyMSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0yOSAwODo1MjoyMSAtMDcwMA==
+  content: ! "oh and ps - you want a gmail account?  They are just giving them away
+    these days.  Well, I have free invites, if you don't mind losing some of your
+    privacy and freedom* that is.\r\n\r\n(*loss of privacy and freedom is due to bizarre
+    gmail formula, rather than author's own malicious intent and needs)"
+- id: 238
+  author: Daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wOC0zMCAxNDozNDo1NyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMCAwNDozNDo1NyAtMDcwMA==
+  content: ! "goldsounds@gmail.com\r\n\r\n:-D\r\n\r\nMatt invited me first - begun
+    these friend wars have."
+- id: 240
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0zMCAxNjowOToyMiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMCAwNjowOToyMiAtMDcwMA==
+  content: ! "all I have to say on the matter....\r\n<img src=\"http://www.sinfest.net/comics/sf20040102.gif\">"
+- id: 241
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0zMCAxNjoxMDozMCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMCAwNjoxMDozMCAtMDcwMA==
+  content: ! "HEY!  It didn't post my picture.  Blogger is like the unsophisticated,
+    retarded child of livejournal.  Yes, I know it came first, but it has bells and
+    whistles.  I like them stuff.\r\n\r\n<img src=\"http://www.sinfest.net/comics/sf20040102.gif\"
+    alt=\"sinful\">"
+- id: 254
+  author: Daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wOC0zMCAyMDozOToyOSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMCAxMDozOToyOSAtMDcwMA==
+  content: I have re-enabled image tags - but be nice! ;-)
+- id: 291
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0zMSAxMDoyMTo0NyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMSAwMDoyMTo0NyAtMDcwMA==
+  content: ! "Damnit.  I have the BEST photo of you and Hannah* though.  I think you
+    were mid-fight, and it's almost a paparazzi shot.  I have always kept it.  It's
+    just one of those, so bad it's good photos.  Under the terms of \"nice\" however,
+    it doesn't qualify.  :(\r\n\r\n(*can't remember if this is right name.  The really
+    young one we gave you shit about.  No, the other really young one)\r\n\r\nYou
+    should be a sports coach."
+- id: 293
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOC0zMSAxNDowODowNSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMSAwNDowODowNSAtMDcwMA==
+  content: yup.
+- id: 353
+  author: Daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wOS0xMyAwOTo1MDoxMSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOS0xMiAyMzo1MDoxMSAtMDcwMA==
+  content: I still have the image of a grinning Sally sitting astride a tree trunk
+    (or something similarly outdoorsy) as part of a CHRISTIAN YOUTH CAMP burned into
+    my skull. I believe you may have been wearing a woolly cardigan. I should have
+    stolen it to use as a bargaining chip in situations like this...
+- id: 356
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOS0xNiAxNTozNToyMiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOS0xNiAwNTozNToyMiAtMDcwMA==
+  content: ! "Ah yes, to bring me down you bring out the CHRISTIAN CARD. \r\nI know
+    of no photo.  If you can produce it, bring it on.  I didn't find the PRECISE photo
+    I was thinking of, but I did find 1 of several in the series, and of course, the
+    negatives.  Can anyone say A0 size!  I will blow it up super size and paste it
+    on the synagogue.\r\n\r\nThe only photo I CAN think of is where I was wearing
+    a bright red LIFE JACKET and was of course outside about to go CANOEING.  Which
+    still is a healthy, outdoorsy, clean-living activity, but I tell you, there was
+    no cardigan involved in my love affair with Jesus, and there never was.\r\n\r\nand
+    I don't know where that photo is."
+- id: 357
+  author: Sally
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOS0xNyAxMToyNjowNSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOS0xNyAwMToyNjowNSAtMDcwMA==
+  content: <img src="http://home.vicnet.net.au/~michaelj/images/3.jpg">
+- id: 86098
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0yMyAwNTozOTowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0yMiAxOTozOTowMCAtMDgwMA==
+  content: jZCVbp  <a href="http://efjojojuiflc.com/" rel="nofollow">efjojojuiflc</a>,
+    [url=http://iolmchmubfnp.com/]iolmchmubfnp[/url], [link=http://reiudfcszpoq.com/]reiudfcszpoq[/link],
+    http://ivslvmvktspb.com/
+- id: 87733
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxNzo0Nzo0NiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwNzo0Nzo0NiAtMDgwMA==
+  content: s novym godom <a href="http://www.myyearbook.com/buy-fioricet-online"
+    rel="nofollow"> buy fioricet online</a>
+- id: 87735
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxODowMzo1MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwODowMzo1MSAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/tramadol-hcl-online"
+    rel="nofollow">tramadol hcl online</a>
+- id: 87739
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxODoxNzo0OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwODoxNzo0OSAtMDgwMA==
+  content: s novym godom <a href="http://www.myyearbook.com/vicodin-without-prescription"
+    rel="nofollow">vicodin without prescription</a>
+- id: 87741
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxODoyOToyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwODoyOToyMyAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Buy-Phentermine-Online-No-Prescription"
+    rel="nofollow">Buy Phentermine Online No Prescription</a>
+- id: 87757
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxOTowNjozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwOTowNjozMCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Phentermine-Pill-Online-Discount"
+    rel="nofollow">Phentermine Pill Online Discount</a>
+- id: 87763
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxOToyMDowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwOToyMDowMSAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Cheap-Phentermine-No-Prescription-Required"
+    rel="nofollow">Cheap Phentermine No Prescription Required</a>
+- id: 87769
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxOTozMzoxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwOTozMzoxMCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Without-Prescription"
+    rel="nofollow">Fioricet Without Prescription</a>
+- id: 87775
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxOTo0NTo1NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwOTo0NTo1NSAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Tab"
+    rel="nofollow">Fioricet Tab</a>
+- id: 87786
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAxOTo1OTowOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAwOTo1OTowOCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Prescription-Online"
+    rel="nofollow">Fioricet Prescription Online</a>
+- id: 87792
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMDoxMzoxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMDoxMzoxNiAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Online-No-Prescription"
+    rel="nofollow">Fioricet Online No Prescription</a>
+- id: 87805
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMDozOTozNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMDozOTozNCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Free-Shipping-Fioricet"
+    rel="nofollow">Free Shipping Fioricet</a>
+- id: 87821
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMTowNzoxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMTowNzoxNyAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Discount-Fioricet-Online"
+    rel="nofollow">Discount Fioricet Online</a>
+- id: 87837
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMTo0NzoyMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMTo0NzoyMiAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Online-Fioricet"
+    rel="nofollow">Online Fioricet</a>
+- id: 87841
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMjowMToyNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMjowMToyNyAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Discount-Fioricet"
+    rel="nofollow">Discount Fioricet</a>
+- id: 87846
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMjo0MzowNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMjo0MzowNCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Ordering-Fioricet"
+    rel="nofollow">Ordering Fioricet</a>
+- id: 87853
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMzoyMjowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMzoyMjowMyAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Where-To-Buy-Fioricet"
+    rel="nofollow">Where To Buy Fioricet</a>
+- id: 87857
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMCAyMzo1MTo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxMzo1MTo1NCAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Addiction"
+    rel="nofollow">Fioricet Addiction</a>
+- id: 87860
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMSAwMDowNzoyNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxNDowNzoyNiAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Side-Effects"
+    rel="nofollow">Fioricet Side Effects</a>
+- id: 87863
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMSAwMDoyMTo1NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAxNDoyMTo1NyAtMDgwMA==
+  content: s novym godom <a href="http://www.myYearbook.com/Fioricet-Prescription"
+    rel="nofollow">Fioricet Prescription</a>
+- id: 88015
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0zMSAwODowMDozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0zMCAyMjowMDozMCAtMDgwMA==
+  content: vicodin <a href="http://blogs.icq.com/blogs/post/53016"
+    rel="nofollow">buy vicodin online</a> with no prescription
+- id: 88547
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wMyAyMjowMjoxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wMyAxMjowMjoxNiAtMDgwMA==
+  content: vicodin <a href="http://www.hulu.com/profiles/Buy_Vicodin_Online/2ssaf6eh"
+    rel="nofollow">buy vicodin online</a> with no prescription
+- id: 88559
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wMyAyMzoyNToxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wMyAxMzoyNToxMCAtMDgwMA==
+  content: tramadol <a href="http://tieba.baidu.com/f?kz=522199649" rel="nofollow">tramadol
+    without prescription</a> with no prescription
+- id: 88860
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwNjo1NjowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMDo1NjowMSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Pink-Funhouse-MP3-Download.html|Pink
+    Funhouse MP3 Download
+- id: 88863
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwNzowODoxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMTowODoxMCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/AC/DC-Black-Ice-MP3-Download.html|AC/DC
+    Black Ice MP3 Download
+- id: 88876
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwNzozMjozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMTozMjozOSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Stereophonics-Decade-In-The-Sun-MP3-Download.html|Stereophonics
+    Decade In The Sun MP3 Download
+- id: 88882
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwNzo0MzozOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMTo0MzozOCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Coldplay-Viva-La-Vida-or-Death-And-All-His-Friends-MP3-Download.html|Coldplay
+    Viva La Vida or Death And All His Friends MP3 Download
+- id: 88895
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwNzo1NDoxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMTo1NDoxNyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Enya-And-Winter-Came-MP3-Download.html|Enya
+    And Winter Came MP3 Download
+- id: 88934
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwOToxNDozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMzoxNDozMiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Taylor-Swift-Fearless-MP3-Download.html|Taylor
+    Swift Fearless MP3 Download
+- id: 88962
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwOTozNTo1NiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMzozNTo1NiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Rihanna-Good-Girl-Gone-Bad-Live-MP3-Download.html|Rihanna
+    Good Girl Gone Bad Live MP3 Download
+- id: 88968
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAwOTo0Nzo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNCAyMzo0Nzo0MSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Christina-Aguilera-Keeps-Gettin-Better-%28A-Decade-Of-Hits%29-MP3-Download.html|Christina
+    Aguilera Keeps Gettin Better (A Decade Of Hits) MP3 Download
+- id: 88988
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMDozMjo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMDozMjo1NCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Girls-Aloud-Out-Of-Control-MP3-Download.html|Girls
+    Aloud Out Of Control MP3 Download
+- id: 89001
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMToyMjoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMToyMjoyMSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Paul-Weller-Weller-At-The-Bbc-MP3-Download.html|Paul
+    Weller Weller At The Bbc MP3 Download
+- id: 89004
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMTozMzo0NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMTozMzo0NCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Miley-Cyrus-Breakout-MP3-Download.html|Miley
+    Cyrus Breakout MP3 Download
+- id: 89014
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjowNDozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjowNDozMCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Tracy-Chapman-Our-Bright-Future-MP3-Download.html|Tracy
+    Chapman Our Bright Future MP3 Download
+- id: 89018
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjoxMzo0NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjoxMzo0NyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Queen-Platinum-Collection,-Vol-MP3-Download.html|Queen
+    Platinum Collection, Vol MP3 Download
+- id: 89021
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjoyMjowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjoyMjowMyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Jason-Mraz-We-Sing,-We-Dance,-We-Steal-Things-MP3-Download.html|Jason
+    Mraz We Sing, We Dance, We Steal Things MP3 Download
+- id: 89025
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjozMDowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjozMDowMSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Rihanna-The-Biggest-Hits-MP3-Download.html|Rihanna
+    The Biggest Hits MP3 Download
+- id: 89028
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjozOTo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjozOTo1NCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1958-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1958 MP3 Download
+- id: 89034
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMjo1MTozNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMjo1MTozNyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/MGMT-Oracular-Spectacular-MP3-Download.html|MGMT
+    Oracular Spectacular MP3 Download
+- id: 89038
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzowMDoyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzowMDoyMyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Sugababes-Catfights-and-Spotlights-MP3-Download.html|Sugababes
+    Catfights and Spotlights MP3 Download
+- id: 89046
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzoxMjozNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzoxMjozNyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Script-The-Script-MP3-Download.html|Script
+    The Script MP3 Download
+- id: 89051
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzoyNDo0NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzoyNDo0NyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Lil-Wayne-Tha-Carter-III-MP3-Download.html|Lil
+    Wayne Tha Carter III MP3 Download
+- id: 89054
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzozNToyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzozNToyMyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Keane-Perfect-Symmetry-MP3-Download.html|Keane
+    Perfect Symmetry MP3 Download
+- id: 89057
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzo0MjoyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzo0MjoyMyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Adele-19-%28High-Quality%29-MP3-Download.html|Adele
+    19 (High Quality) MP3 Download
+- id: 89061
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxMzo1MjozOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwMzo1MjozOCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Il-Divo-The-Promise-MP3-Download.html|Il
+    Divo The Promise MP3 Download
+- id: 89072
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNDoyMzoyNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNDoyMzoyNSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/James-Morrison-Songs-for-You,-Truths-for-Me-MP3-Download.html|James
+    Morrison Songs for You, Truths for Me MP3 Download
+- id: 89080
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNDo1MTo0OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNDo1MTo0OSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Lady-Gaga-The-Fame-MP3-Download.html|Lady
+    Gaga The Fame MP3 Download
+- id: 89085
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNTowMDo1OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNTowMDo1OCAtMDgwMA==
+  content: ! 'music for http://muzonchik.mu.funpic.de/wp-content/3/ABBA-Gold:-Greatest-Hits-MP3-Download.html|ABBA
+    Gold: Greatest Hits MP3 Download'
+- id: 89096
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNTozMDozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNTozMDozMCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1971-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1971 MP3 Download
+- id: 89109
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNjoxMzowNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNjoxMzowNSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Take-That-Never-Forget-%28The-Ultimate-Collection%29-MP3-Download.html|Take
+    That Never Forget (The Ultimate Collection) MP3 Download
+- id: 89122
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNjo0NDoxMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNjo0NDoxMSAtMDgwMA==
+  content: ! 'music for http://muzonchik.mu.funpic.de/wp-content/3/Rihanna-Good-Girl-Gone-Bad:-Reloaded-MP3-Download.html|Rihanna
+    Good Girl Gone Bad: Reloaded MP3 Download'
+- id: 89128
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNzowNDoxMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNzowNDoxMyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Take-That-Beautiful-World-MP3-Download.html|Take
+    That Beautiful World MP3 Download
+- id: 89130
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNzoxMzo0NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNzoxMzo0NCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Smiths-The-Sound-Of-The-Smiths-%28The-Very-Best-Of%29-Cd1-MP3-Download.html|Smiths
+    The Sound Of The Smiths (The Very Best Of) Cd1 MP3 Download
+- id: 89134
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNzoyMjo0NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNzoyMjo0NSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1968-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1968 MP3 Download
+- id: 89138
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNzozNDoyOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNzozNDoyOCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1964-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1964 MP3 Download
+- id: 89145
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxNzo1MTo1MiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwNzo1MTo1MiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Eric-Clapton-Complete-Clapton-MP3-Download.html|Eric
+    Clapton Complete Clapton MP3 Download
+- id: 89180
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxODoyNTozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwODoyNTozMiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/David-Cook-David-Cook-MP3-Download.html|David
+    Cook David Cook MP3 Download
+- id: 89190
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxODo1ODoxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwODo1ODoxNyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1972-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1972 MP3 Download
+- id: 89193
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxOTowODo1NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwOTowODo1NSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Young-Jeezy-The-Recession-MP3-Download.html|Young
+    Jeezy The Recession MP3 Download
+- id: 89201
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxOTozMjoyNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwOTozMjoyNiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Sash%21-The-Best-Of-%28Cd-1%29-MP3-Download.html|Sash!
+    The Best Of (Cd 1) MP3 Download
+- id: 89206
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxOTo0NToxNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwOTo0NToxNCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Simply-Red-25-%28The-Greatest-Hits%29-%28Cd-1%29-MP3-Download.html|Simply
+    Red 25 (The Greatest Hits) (Cd 1) MP3 Download
+- id: 89213
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAxOTo1Njo1MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAwOTo1Njo1MCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/N-Dubz-Uncle-B-MP3-Download.html|N-Dubz
+    Uncle B MP3 Download
+- id: 89218
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMDoxNTozOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMDoxNTozOCAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Katie-Melua-The-Katie-Melua-Collection-MP3-Download.html|Katie
+    Melua The Katie Melua Collection MP3 Download
+- id: 89223
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMDoyNzoyNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMDoyNzoyNiAtMDgwMA==
+  content: ! 'music for http://muzonchik.mu.funpic.de/wp-content/3/Boyzone-Back-Again-No-Matter-What:-The-Greatest-Hits-MP3-Download.html|Boyzone
+    Back Again No Matter What: The Greatest Hits MP3 Download'
+- id: 89231
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMDo1Nzo0OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMDo1Nzo0OSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1970-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1970 MP3 Download
+- id: 89234
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMTowOToxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMTowOToxNyAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1978-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1978 MP3 Download
+- id: 89236
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMToyMToxMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMToyMToxMiAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1984-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1984 MP3 Download
+- id: 89239
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMTozMzowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMTozMzowMSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Top-Billboard-Billboard-Top-100---1983-MP3-Download.html|Top
+    Billboard Billboard Top 100 - 1983 MP3 Download
+- id: 89247
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNSAyMjowNzozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAxMjowNzozOSAtMDgwMA==
+  content: music for http://muzonchik.mu.funpic.de/wp-content/3/Three-Tenors-Christmas-Three-Tenors-Christmas-MP3-Download.html|Three
+    Tenors Christmas Three Tenors Christmas MP3 Download
+- id: 89327
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwNjo1NzoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMDo1NzoyMSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Depression-Xanax"
+    rel="nofollow">Depression Xanax</a>
+- id: 89329
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwNzowOToxNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMTowOToxNCAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Order-Xanax-Overnight"
+    rel="nofollow">Order Xanax Overnight</a>
+- id: 89330
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwNzoxOTo1NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMToxOTo1NSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Cheap-Xanax-2Mg"
+    rel="nofollow">Cheap Xanax 2Mg</a>
+- id: 89332
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwNzozMToyOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMTozMToyOSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Side-Effects-Of-Xanax"
+    rel="nofollow">Side Effects Of Xanax</a>
+- id: 89333
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwNzo0Mjo0NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMTo0Mjo0NSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Buy-Xanax-COD"
+    rel="nofollow">Buy Xanax COD</a>
+- id: 89342
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwODo0OTo0NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMjo0OTo0NSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Doses-Of-Xanax"
+    rel="nofollow">Doses Of Xanax</a>
+- id: 89346
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwOToxMzoxMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMzoxMzoxMiAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Inject-Xanax"
+    rel="nofollow">Inject Xanax</a>
+- id: 89347
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwOToyNjowNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMzoyNjowNCAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Free-Prescription-Xanax"
+    rel="nofollow">Free Prescription Xanax</a>
+- id: 89351
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwOTo0ODozNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMzo0ODozNSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Buy-Cheap-Xanax"
+    rel="nofollow">Buy Cheap Xanax</a>
+- id: 89354
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAwOTo1OTowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNSAyMzo1OTowMSAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Buy-Xanax-2Mg-Online"
+    rel="nofollow">Buy Xanax 2Mg Online</a>
+- id: 89355
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAxMDoxMTozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAwMDoxMTozMiAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Cheapest-Xanax-Online"
+    rel="nofollow">Cheapest Xanax Online</a>
+- id: 89357
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAxMDoyMzowNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAwMDoyMzowNCAtMDgwMA==
+  content: xanax for <a href="http://www.myYearbook.com/Blue-Xanax" rel="nofollow">Blue
+    Xanax</a>
+- id: 89418
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAyMjoyNjoyMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAxMjoyNjoyMCAtMDgwMA==
+  content: xanax <a href="http://www.myYearbook.com/Buy-Xanax-2Mg" rel="nofollow">Buy
+    Xanax 2Mg</a> and pharmacy
+- id: 89422
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAyMzowMzozNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAxMzowMzozNCAtMDgwMA==
+  content: xanax <a href="http://www.myYearbook.com/Purchase-Xanax" rel="nofollow">Purchase
+    Xanax</a> and pharmacy
+- id: 89423
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAyMzoxNDozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAxMzoxNDozMiAtMDgwMA==
+  content: xanax <a href="http://www.myYearbook.com/Generic-Xanax-Alprazolam"
+    rel="nofollow">Generic Xanax Alprazolam</a> and pharmacy
+- id: 89426
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNiAyMzozNjowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAxMzozNjowMSAtMDgwMA==
+  content: xanax <a href="http://www.myYearbook.com/Order-Xanax-Online"
+    rel="nofollow">Order Xanax Online</a> and pharmacy
+- id: 89429
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wNyAwMDowMDowOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNiAxNDowMDowOSAtMDgwMA==
+  content: xanax <a href="http://www.myYearbook.com/Cheap-Xanax-Without-Prescription"
+    rel="nofollow">Cheap Xanax Without Prescription</a> and pharmacy
+- id: 89614
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwNzo0MTo1MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMTo0MTo1MSAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Purchase-Tramadol-Online"
+    rel="nofollow">Purchase Tramadol Online</a> pharmacy
+- id: 89616
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwNzo1Mjo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMTo1Mjo0MSAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Buy-Tramadol-Without-A-Prescription"
+    rel="nofollow">Buy Tramadol Without A Prescription</a> pharmacy
+- id: 89617
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwODowNDowNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMjowNDowNyAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Cheapest-Tramadol-Free-Shipping"
+    rel="nofollow">Cheapest Tramadol Free Shipping</a> pharmacy
+- id: 89619
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwODoyNzoyMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMjoyNzoyMiAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Cheap-Tramadol"
+    rel="nofollow">Cheap Tramadol</a> pharmacy
+- id: 89621
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwODo0ODo0NiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMjo0ODo0NiAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Buy-Tramadol-Online"
+    rel="nofollow">Buy Tramadol Online</a> pharmacy
+- id: 89623
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwODo1OToyNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMjo1OToyNSAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/FDA-Approved-Tramadol"
+    rel="nofollow">FDA Approved Tramadol</a> pharmacy
+- id: 89625
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwOTowOTo1MiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMzowOTo1MiAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Tramadol-ER" rel="nofollow">Tramadol
+    ER</a> pharmacy
+- id: 89627
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0wOCAwOToxOTo1NiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0wNyAyMzoxOTo1NiAtMDgwMA==
+  content: tramadol <a href="http://www.myYearbook.com/Cheap-Tramadol-180"
+    rel="nofollow">Cheap Tramadol 180</a> pharmacy
+- id: 90299
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xMyAyMToxODo0OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAxMToxODo0OSAtMDgwMA==
+  content: online <a href="http://www.myYearbook.com/order-fioricet" rel="nofollow">Order
+    Fioricet</a> pharmacy
+- id: 90322
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwNzowMDo1MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMTowMDo1MyAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Cheapest-Fioricet"
+    rel="nofollow">Cheapest Fioricet</a>
+- id: 90332
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwNzozODozNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMTozODozNSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Fioricet-Generic"
+    rel="nofollow">Fioricet Generic</a>
+- id: 90335
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwNzo1OTozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMTo1OTozOSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Buying-Fioricet"
+    rel="nofollow">Buying Fioricet</a>
+- id: 90339
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwODoxMTo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMjoxMTo0OCAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/What-Is-Fioricet"
+    rel="nofollow">What Is Fioricet</a>
+- id: 90344
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwODozNjoxNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMjozNjoxNSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Fioricet-Online-Pharmacy"
+    rel="nofollow">Fioricet Online Pharmacy</a>
+- id: 90346
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwODo0OTozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMjo0OTozOSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Fioricet-Medication"
+    rel="nofollow">Fioricet Medication</a>
+- id: 90347
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwOTowMjo1MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMzowMjo1MSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Fioricet-Price"
+    rel="nofollow">Fioricet Price</a>
+- id: 90351
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwOToxNjozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMzoxNjozOSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Overnight-Fioricet"
+    rel="nofollow">Overnight Fioricet</a>
+- id: 90353
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwOToyNzowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMzoyNzowMSAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Buy-Fioricet-On-Line"
+    rel="nofollow">Buy Fioricet On Line</a>
+- id: 90357
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwOTozODoyMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMzozODoyMCAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Search-Fioricet-Online"
+    rel="nofollow">Search Fioricet Online</a>
+- id: 90361
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAwOTo1MTo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMyAyMzo1MTo1NCAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Buy-Fioricet"
+    rel="nofollow">Buy Fioricet</a>
+- id: 90363
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAxMDowMjo1MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNCAwMDowMjo1MyAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Fioricet-With-Codeine"
+    rel="nofollow">Fioricet With Codeine</a>
+- id: 90365
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNCAxMDoxMzoyMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNCAwMDoxMzoyMiAtMDgwMA==
+  content: pharmacy and <a href="http://www.myYearbook.com/Purchase-Fioricet"
+    rel="nofollow">Purchase Fioricet</a>
+- id: 90539
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNDowNzo1MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxODowNzo1MCAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/No-Fax-Payday-Loan"
+    rel="nofollow">No Fax Payday Loan</a>
+- id: 90542
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNDoxOTo1NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxODoxOTo1NyAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/Instant-Payday-Loan"
+    rel="nofollow">Instant Payday Loan</a>
+- id: 90551
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNDo0MToxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxODo0MToxNiAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/Faxless-Payday-Loan"
+    rel="nofollow">Faxless Payday Loan</a>
+- id: 90558
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNToxMDo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxOToxMDo0MSAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/Fax-Payday-Loan" rel="nofollow">Fax
+    Payday Loan</a>
+- id: 90563
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNToyOTowNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxOToyOTowNCAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/EZ-Payday-Loan" rel="nofollow">EZ
+    Payday Loan</a>
+- id: 90567
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNTozOTo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAxOTozOTo0OCAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/Quick-Payday-Loan"
+    rel="nofollow">Quick Payday Loan</a>
+- id: 90572
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNiAwNjowMDoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNSAyMDowMDoyMSAtMDgwMA==
+  content: loan <a href="http://www.myYearbook.com/Payday-Advance-Loan"
+    rel="nofollow">Payday Advance Loan</a>
+- id: 90774
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNyAwNzozNzoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNiAyMTozNzoyMSAtMDgwMA==
+  content: online loan finance <a href="http://www.myYearbook.com/Low-Cost-Payday-Loan"
+    rel="nofollow">Low Cost Payday Loan</a>
+- id: 90783
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xNyAwODowNjo0NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xNiAyMjowNjo0NCAtMDgwMA==
+  content: online loan finance <a href="http://www.myYearbook.com/Fast-Easy-Payday-Loan"
+    rel="nofollow">Fast Easy Payday Loan</a>
+- id: 92187
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMjoxMDoyNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNjoxMDoyNiAtMDgwMA==
+  content: online finance <a href="http://www.myYearbook.com/Instant-Personal-Loan"
+    rel="nofollow">Instant Personal Loan</a>
+- id: 92194
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMjozMTo0MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNjozMTo0MyAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Withdraw-Xanax"
+    rel="nofollow">Withdraw Xanax</a>
+- id: 92201
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMjo1NDoyNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNjo1NDoyNCAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Cheap-Xanax-Overnight"
+    rel="nofollow">Cheap Xanax Overnight</a>
+- id: 92203
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMzowMzoxMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNzowMzoxMiAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Buy-Xanax-2Mg"
+    rel="nofollow">Buy Xanax 2 Mg</a>
+- id: 92206
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMzoxNToyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNzoxNToyMyAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Picture-Of-Generic-Xanax"
+    rel="nofollow">Picture Of Generic Xanax</a>
+- id: 92210
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMzozNDo1NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNzozNDo1NSAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Generic-Xanax-Name"
+    rel="nofollow">Generic Xanax Name</a>
+- id: 92217
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMzo0NTo0MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNzo0NTo0MCAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Where-To-Buy-Xanax"
+    rel="nofollow">Where To Buy Xanax</a>
+- id: 92218
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwMzo1NTo0OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxNzo1NTo0OSAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Order-Xanax-Without-Prescription"
+    rel="nofollow">Order Xanax Without Prescription</a>
+- id: 92229
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNDoyODowMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxODoyODowMiAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Buy-Xanax-Overnight"
+    rel="nofollow">Buy Xanax Overnight</a>
+- id: 92230
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNDozNzo0MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxODozNzo0MyAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Buy-Xanax-Master-Card"
+    rel="nofollow">Buy Xanax Master Card</a>
+- id: 92253
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNTozNDo1MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxOTozNDo1MSAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-05-Mg"
+    rel="nofollow">Xanax 0.5 Mg</a>
+- id: 92255
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNTo0NDo0NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxOTo0NDo0NyAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-1-Mg"
+    rel="nofollow">Xanax 1 Mg</a>
+- id: 92261
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNTo1NDo1MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAxOTo1NDo1MCAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-1Mg"
+    rel="nofollow">Xanax 1Mg</a>
+- id: 92277
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNjo0MzowNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAyMDo0MzowNyAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-2-Mg-Bar"
+    rel="nofollow">Xanax 2 Mg Bar</a>
+- id: 92283
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNzowMjo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAyMTowMjo0OCAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-2-Mg-No-Rx"
+    rel="nofollow">Xanax 2 Mg No Rx</a>
+- id: 92286
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMiAwNzoxMTo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMSAyMToxMTo1NCAtMDgwMA==
+  content: online pharmacy <a href="http://www.myYearbook.com/Xanax-2-Mg-Online-Prescription"
+    rel="nofollow">Xanax 2 Mg Online Prescription</a>
+- id: 92625
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwMzo1ODozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxNzo1ODozMCAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-20-Cheap"
+    rel="nofollow">Xanax 20 Cheap</a>
+- id: 92627
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNDowOToxNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxODowOToxNSAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-20Mg-Cheap"
+    rel="nofollow">Xanax 20Mg Cheap</a>
+- id: 92636
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNDozMDozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxODozMDozMiAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-20-Online"
+    rel="nofollow">Xanax 20 Online</a>
+- id: 92644
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNDo1MDozMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxODo1MDozMSAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-25"
+    rel="nofollow">Xanax 25</a>
+- id: 92651
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNTowMDoyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxOTowMDoyMyAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-25-Mg-Effect"
+    rel="nofollow">Xanax 25 Mg Effect</a>
+- id: 92667
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNToyMzo1MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAxOToyMzo1MSAtMDgwMA==
+  content: pharmacy online <a href="http://www.myYearbook.com/Xanax-2Mg"
+    rel="nofollow">Xanax 2Mg</a>
+- id: 92686
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNjo1Mzo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMDo1Mzo0MSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-90-Mastercard"
+    rel="nofollow">Xanax 2Mg 90 Mastercard</a>
+- id: 92692
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNzowNDozNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMTowNDozNyAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Alprazolam"
+    rel="nofollow">Xanax 2Mg Alprazolam</a>
+- id: 92693
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNzoxNDozMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMToxNDozMiAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Alprazolam-Avee-Pharmacy"
+    rel="nofollow">Xanax 2Mg Alprazolam Avee Pharmacy</a>
+- id: 92700
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwNzo0MjozMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMTo0MjozMSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Cod"
+    rel="nofollow">Xanax 2Mg Cod</a>
+- id: 92707
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODowMjozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjowMjozMCAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Medication"
+    rel="nofollow">Xanax 2Mg Medication</a>
+- id: 92710
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODoxMzozNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjoxMzozNiAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-No-Perscription"
+    rel="nofollow">Xanax 2Mg No Perscription</a>
+- id: 92714
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODoyNDo0MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjoyNDo0MyAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Prices"
+    rel="nofollow">Xanax 2Mg Prices</a>
+- id: 92719
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODozNToxMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjozNToxMSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Sleep"
+    rel="nofollow">Xanax 2Mg Sleep</a>
+- id: 92722
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODo0NDoxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjo0NDoxMCAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Xr"
+    rel="nofollow">Xanax 2Mg Xr</a>
+- id: 92729
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwODo1NToxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMjo1NToxNiAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-2Mg-Yellow-Bar"
+    rel="nofollow">Xanax 2Mg Yellow Bar</a>
+- id: 92733
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yMyAwOTowMzo1OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMiAyMzowMzo1OSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-3Mg-Bar-No-Prescription"
+    rel="nofollow">Xanax 3Mg Bar No Prescription</a>
+- id: 93132
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwNzozOTo1MiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMTozOTo1MiAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Dosage"
+    rel="nofollow">Xanax Bar Dosage</a> and medication
+- id: 93134
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwNzo0OTozNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMTo0OTozNyAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Drug"
+    rel="nofollow">Xanax Bar Drug</a> and medication
+- id: 93138
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwODowMDoxOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMjowMDoxOSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Gador"
+    rel="nofollow">Xanax Bar Gador</a> and medication
+- id: 93150
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwODoyODo1NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMjoyODo1NyAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Mg"
+    rel="nofollow">Xanax Bar Mg</a> and medication
+- id: 93152
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwODozNDowNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMjozNDowNiAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Mlgs"
+    rel="nofollow">Xanax Bar Mlgs</a> and medication
+- id: 93156
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwODo0NjowOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMjo0NjowOSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-Mlgs-And-Pictures"
+    rel="nofollow">Xanax Bar Mlgs And Pictures</a> and medication
+- id: 93162
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNCAwODo1NzoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yMyAyMjo1NzoyMSAtMDgwMA==
+  content: rx pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-No-Prescription"
+    rel="nofollow">Xanax Bar No Prescription</a> and medication
+- id: 93743
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMDoyMzozOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNDoyMzozOCAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-3Mg-Xr|Xanax 3Mg Xr
+    and medecine
+- id: 93751
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMDo0MTo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNDo0MTo0MSAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-3Mg-Xr-Images|Xanax
+    3Mg Xr Images and medecine
+- id: 93753
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMDo0NzowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNDo0NzowMyAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-3Mg-Xr-Pictures|Xanax
+    3Mg Xr Pictures and medecine
+- id: 93766
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMToxMDowOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNToxMDowOSAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-And-Zoloft|Xanax And
+    Zoloft and medecine
+- id: 93770
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMToyMDozNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNToyMDozNCAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-Anger-Side-Effect|Xanax
+    Anger Side Effect and medecine
+- id: 93776
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMTozNzoxMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNTozNzoxMyAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-At-Mexican-Pharmacy|Xanax
+    At Mexican Pharmacy and medecine
+- id: 93779
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMTo1ODo0MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNTo1ODo0MCAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-Ativan|Xanax Ativan
+    and medecine
+- id: 93786
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMjoyNDoyOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNjoyNDoyOCAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-AUStralia-Without-Prescription|Xanax
+    AUStralia Without Prescription and medecine
+- id: 93792
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMjo0NzowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNjo0NzowMyAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-Bad-Side-Effect|Xanax
+    Bad Side Effect and medecine
+- id: 93803
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yNiAwMzowNjowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNSAxNzowNjowMyAtMDgwMA==
+  content: pharmacy http://www.myYearbook.com/Xanax-Bar-5Mg|Xanax Bar
+    .5Mg and medecine
+- id: 94640
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwMzo1MzozNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxNzo1MzozNyAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-3Mg-Xr-Pictures"
+    rel="nofollow">Xanax 3Mg Xr Pictures</a> and medecine
+- id: 94673
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNDoyNjozNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxODoyNjozNSAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Anger-Side-Effect"
+    rel="nofollow">Xanax Anger Side Effect</a> and medecine
+- id: 94680
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNDozNToyNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxODozNToyNCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Anxiety"
+    rel="nofollow">Xanax Anxiety</a> and medecine
+- id: 94687
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNDo0NjowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxODo0NjowMCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-At-Mexican-Pharmacy"
+    rel="nofollow">Xanax At Mexican Pharmacy</a> and medecine
+- id: 94692
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNTowNzoyOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxOTowNzoyOCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Ativan" rel="nofollow">Xanax
+    Ativan</a> and medecine
+- id: 94696
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNToxNjoyMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxOToxNjoyMSAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Ativan-Dosage"
+    rel="nofollow">Xanax Ativan Dosage</a> and medecine
+- id: 94702
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNToyNzoyMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxOToyNzoyMiAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-AUStralia-Without-Prescription"
+    rel="nofollow">Xanax AUStralia Without Prescription</a> and medecine
+- id: 94708
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNTo0NzoxNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAxOTo0NzoxNCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Bad-Side-Effect"
+    rel="nofollow">Xanax Bad Side Effect</a> and medecine
+- id: 94717
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNjoyMjowOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMDoyMjowOCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-1-Mg"
+    rel="nofollow">Xanax Bar 1 Mg</a> and medecine
+- id: 94721
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNjozMTo1NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMDozMTo1NCAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Xanax-Bar-1Mg"
+    rel="nofollow">Xanax Bar 1Mg</a> and medecine
+- id: 94736
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNzoyMjowMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMToyMjowMSAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-For-Sale"
+    rel="nofollow">Xanax Bars For Sale</a>
+- id: 94739
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNzozMjozNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMTozMjozNSAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-For-Sale-Online"
+    rel="nofollow">Xanax Bars For Sale Online</a>
+- id: 94747
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwNzo1NTowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMTo1NTowMCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-Online-Without-Prescription"
+    rel="nofollow">Xanax Bars Online Without Prescription</a>
+- id: 94753
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwODowNjowMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMjowNjowMiAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-Without-Prescription"
+    rel="nofollow">Xanax Bars Without Prescription</a>
+- id: 94758
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwODoxNjo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMjoxNjo0OCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-Without-Prescription-COD"
+    rel="nofollow">Xanax Bars Without Prescription COD</a>
+- id: 94765
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwODo0MDoxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMjo0MDoxNiAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Bars-XR"
+    rel="nofollow">Xanax Bars XR</a>
+- id: 94773
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwOTowNTo1NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMzowNTo1NyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Canada"
+    rel="nofollow">Xanax Canada</a>
+- id: 94775
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwOToxNjoxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMzoxNjoxNyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Canada-Pharmacy"
+    rel="nofollow">Xanax Canada Pharmacy</a>
+- id: 94786
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwOTozOToxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMzozOToxNyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Cheap"
+    rel="nofollow">Xanax Cheap</a>
+- id: 94792
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAwOTo1MDo1MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yNyAyMzo1MDo1MyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Cheap-No-Perscription"
+    rel="nofollow">Xanax Cheap No Perscription</a>
+- id: 94798
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMDowMjowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMDowMjowMCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Cheap-No-Prescription"
+    rel="nofollow">Xanax Cheap No Prescription</a>
+- id: 94800
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMDoxMjozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMDoxMjozMCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-Cheap-No-Prescriptions-COD"
+    rel="nofollow">Xanax Cheap No Prescriptions COD</a>
+- id: 94807
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMDoyMToxMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMDoyMToxMyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-No-RX-Delivered-To-Po-Box"
+    rel="nofollow">Xanax No Rx Delivered To Po Box</a>
+- id: 94812
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMDo0MzoxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMDo0MzoxMCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-No-Rx-Fed-Ex"
+    rel="nofollow">Xanax No Rx Fed Ex</a>
+- id: 94814
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMDo1NDozMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMDo1NDozMyAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-NoRx-Needed"
+    rel="nofollow">Xanax No Rx Needed</a>
+- id: 94818
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMToxNjo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMToxNjo0OCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-COD"
+    rel="nofollow">Xanax COD</a>
+- id: 94819
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMToyNjozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMToyNjozOSAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-COD-Canada"
+    rel="nofollow">Xanax COD Canada</a>
+- id: 94822
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMTozNzo1OSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMTozNzo1OSAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-COD-Delivery"
+    rel="nofollow">Xanax COD Delivery</a>
+- id: 94824
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMTo0ODo0MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMTo0ODo0MCAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-COD-Next-Day-Shipping"
+    rel="nofollow">Xanax COD Next Day Shipping</a>
+- id: 94826
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOCAxMTo1OToxNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAwMTo1OToxNiAtMDgwMA==
+  content: pharmacy and medication <a href="http://www.myYearbook.com/Xanax-COD-Online"
+    rel="nofollow">Xanax COD Online</a>
+- id: 94977
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOSAwNzowNToxMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAyMTowNToxMSAtMDgwMA==
+  content: pharmacy and medecine <a href="http://www.myYearbook.com/Xanax-Buy-By-Phone-No-Prescription"
+    rel="nofollow">Xanax Buy By Phone No Prescription</a> online prescription
+- id: 94979
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOSAwNzoxMjozMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAyMToxMjozMyAtMDgwMA==
+  content: pharmacy and medecine <a href="http://www.myYearbook.com/Xanax-Buy-On-Line"
+    rel="nofollow">Xanax Buy On Line</a> online prescription
+- id: 94982
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOSAwNzoyNTowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAyMToyNTowMCAtMDgwMA==
+  content: pharmacy and medecine <a href="http://www.myYearbook.com/Xanax-Buy-Online"
+    rel="nofollow">Xanax Buy Online</a> online prescription
+- id: 94983
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0yOSAwNzozNjowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOCAyMTozNjowMCAtMDgwMA==
+  content: pharmacy and medecine <a href="http://www.myYearbook.com/Xanax-Buy-Online-Oversea"
+    rel="nofollow">Xanax Buy Online Overseas</a> online prescription
+- id: 95158
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0zMCAwMjo0ODozNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0yOSAxNjo0ODozNSAtMDgwMA==
+  content: pharmacy <a href="http://www.myYearbook.com/Tramadol-50mg"
+    rel="nofollow">Tramadol 50mg</a> online
+- id: 95407
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0zMSAwNzo0MTowOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0zMCAyMTo0MTowOCAtMDgwMA==
+  content: pharmacy <a href="http://omnifind.ibm.yahoo.net/forums/index.php/topic,2309.0.html"
+    rel="nofollow">xanax 2mg</a>
+- id: 96197
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMjoxOTozMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNjoxOTozMyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93031"
+    rel="nofollow">Where To Buy Meridia</a> <a href="http://www.icq.com/blogs/post/93032"
+    rel="nofollow">Meridia And Wellbutrin</a> <a href="http://www.icq.com/blogs/post/93033"
+    rel="nofollow">Meridia Online</a> <a href="http://www.icq.com/blogs/post/93034"
+    rel="nofollow">Meridia Reviews</a> <a href="http://www.icq.com/blogs/post/93035"
+    rel="nofollow">Meridia Without Prescription</a>
+- id: 96199
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMjozNTowNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNjozNTowNiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93036"
+    rel="nofollow">Meridia Coupon</a> <a href="http://www.icq.com/blogs/post/93037"
+    rel="nofollow">Meridia Success Stories</a> <a href="http://www.icq.com/blogs/post/93038"
+    rel="nofollow">Buy Meridia Without Prescription</a> <a href="http://www.icq.com/blogs/post/93039"
+    rel="nofollow">Order Meridia Online</a> <a href="http://www.icq.com/blogs/post/93040"
+    rel="nofollow">Meridia 15Mg</a>
+- id: 96201
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMjo0OTowNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNjo0OTowNCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93041"
+    rel="nofollow">Meridias Capital</a> <a href="http://www.icq.com/blogs/post/93042"
+    rel="nofollow">How Fast Does Meridia Work</a> <a href="http://www.icq.com/blogs/post/93043"
+    rel="nofollow">Meridia Effects</a> <a href="http://www.icq.com/blogs/post/93044"
+    rel="nofollow">Meridia Diet Pills</a> <a href="http://www.icq.com/blogs/post/93045"
+    rel="nofollow">Meridia Information</a>
+- id: 96203
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMzowMTowMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNzowMTowMCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93046"
+    rel="nofollow">Meridia No Prescription</a> <a href="http://www.icq.com/blogs/post/93047"
+    rel="nofollow">Meridias Capital Loss Of License</a> <a href="http://www.icq.com/blogs/post/93048"
+    rel="nofollow">Meridia Effectiveness</a> <a href="http://www.icq.com/blogs/post/93049"
+    rel="nofollow">Overnight US Meridia</a> <a href="http://www.icq.com/blogs/post/93050"
+    rel="nofollow">Diet Pill Meridia</a>
+- id: 96207
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMzozMjowNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNzozMjowNiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93056"
+    rel="nofollow">How Does Meridia Work</a> <a href="http://www.icq.com/blogs/post/93057"
+    rel="nofollow">Buy Meridia Without A Prescription</a> <a href="http://www.icq.com/blogs/post/93059"
+    rel="nofollow">Do Meridia Phentermine Work The Same</a> <a href="http://www.icq.com/blogs/post/93060"
+    rel="nofollow">Pillinc Buy Phentermine Adipex Meridia Online</a> <a href="http://www.icq.com/blogs/post/93061"
+    rel="nofollow">Meridia Weight Loss Medication</a>
+- id: 96210
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwMzo0NTo1MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxNzo0NTo1MCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93062"
+    rel="nofollow">No Prescription Meridia</a> <a href="http://www.icq.com/blogs/post/93063"
+    rel="nofollow">Buying Meridia Online</a> <a href="http://www.icq.com/blogs/post/93064"
+    rel="nofollow">Buy Meridia Cheap</a> <a href="http://www.icq.com/blogs/post/93065"
+    rel="nofollow">Meridia Pharmacy</a> <a href="http://www.icq.com/blogs/post/93066"
+    rel="nofollow">Meridia Message Boards</a>
+- id: 96212
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNDoxNDoyMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxODoxNDoyMiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93072"
+    rel="nofollow">Buy Meridia No Prescription</a> <a href="http://www.icq.com/blogs/post/93073"
+    rel="nofollow">Meridia DiscUSsion</a> <a href="http://www.icq.com/blogs/post/93074"
+    rel="nofollow">Las Vegas Meridias Funding</a> <a href="http://www.icq.com/blogs/post/93075"
+    rel="nofollow">Meridia Online Consultation</a> <a href="http://www.icq.com/blogs/post/93076"
+    rel="nofollow">Meridia Sibutramine</a>
+- id: 96216
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNDoyOTowNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxODoyOTowNSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93077"
+    rel="nofollow">No RX Meridia</a> <a href="http://www.icq.com/blogs/post/93078"
+    rel="nofollow">Where Can I Purchase Meridia</a> <a href="http://www.icq.com/blogs/post/93079"
+    rel="nofollow">Meridia Drug</a> <a href="http://www.icq.com/blogs/post/93080"
+    rel="nofollow">Cheapest Price On Meridia Diet Pill</a> <a href="http://www.icq.com/blogs/post/93081"
+    rel="nofollow">Reviews On Meridia</a>
+- id: 96222
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNTowOToyNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxOTowOToyNCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93092"
+    rel="nofollow">Side Effects Of Meridia</a> <a href="http://www.icq.com/blogs/post/93093"
+    rel="nofollow">Xenical And Meridia</a> <a href="http://www.icq.com/blogs/post/93094"
+    rel="nofollow">Meridia Capital</a> <a href="http://www.icq.com/blogs/post/93095"
+    rel="nofollow">Picture Of Meridia</a> <a href="http://www.icq.com/blogs/post/93096"
+    rel="nofollow">Meridia Cheap From India</a>
+- id: 96223
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNToyMDoxMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxOToyMDoxMCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93097"
+    rel="nofollow">Meridia And Overnight Delivery</a> <a href="http://www.icq.com/blogs/post/93098"
+    rel="nofollow">Meridia Online No Prescription</a> <a href="http://www.icq.com/blogs/post/93099"
+    rel="nofollow">Buy Meridia Online Without A Prescription</a> <a href="http://www.icq.com/blogs/post/93100"
+    rel="nofollow">Meridia Okalhoma</a> <a href="http://www.icq.com/blogs/post/93101"
+    rel="nofollow">Information On Meridia</a>
+- id: 96227
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNTozNTo1MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxOTozNTo1MCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93102"
+    rel="nofollow">Generic Meridia 2</a> <a href="http://www.icq.com/blogs/post/93103"
+    rel="nofollow">Prescription Drug Meridia</a> <a href="http://www.icq.com/blogs/post/93104"
+    rel="nofollow">Buy Meridia Medication Most Evident</a> <a href="http://www.icq.com/blogs/post/93105"
+    rel="nofollow">Buy Cheap Meridia</a> <a href="http://www.icq.com/blogs/post/93106"
+    rel="nofollow">Meridia Without A Prescription</a>
+- id: 96228
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNTo0NzoxOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAxOTo0NzoxOSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93107"
+    rel="nofollow">Success Stories From Meridia</a> <a href="http://www.icq.com/blogs/post/93108"
+    rel="nofollow">Meridia No RX</a> <a href="http://www.icq.com/blogs/post/93109"
+    rel="nofollow">Information Meridia Professional</a> <a href="http://www.icq.com/blogs/post/93110"
+    rel="nofollow">Low Cost Meridia</a> <a href="http://www.icq.com/blogs/post/93111"
+    rel="nofollow">Meridia For Depression</a>
+- id: 96230
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNjowMTo0MCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMDowMTo0MCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93112"
+    rel="nofollow">Meridia Anti-Depressant</a> <a href="http://www.icq.com/blogs/post/93113"
+    rel="nofollow">Meridia Vs Amphetamine</a> <a href="http://www.icq.com/blogs/post/93114"
+    rel="nofollow">Meridia Side Affect</a> <a href="http://www.icq.com/blogs/post/93115"
+    rel="nofollow">Meridia Airlines</a> <a href="http://www.icq.com/blogs/post/93116"
+    rel="nofollow">Meridia Health Systems</a>
+- id: 96234
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNjoyMDowOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMDoyMDowOSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93117"
+    rel="nofollow">Meridia Canada</a> <a href="http://www.icq.com/blogs/post/93118"
+    rel="nofollow">Meridia Prescription</a> <a href="http://www.icq.com/blogs/post/93119"
+    rel="nofollow">Cheap Meridia Online</a> <a href="http://www.icq.com/blogs/post/93120"
+    rel="nofollow">Weight Loss Drug Meridia</a> <a href="http://www.icq.com/blogs/post/93121"
+    rel="nofollow">Meridia Safety</a>
+- id: 96235
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNjoyNzo1OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMDoyNzo1OCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93122"
+    rel="nofollow">Meridia Fcu</a> <a href="http://www.icq.com/blogs/post/93123"
+    rel="nofollow">Ordering Meridia Online</a> <a href="http://www.icq.com/blogs/post/93124"
+    rel="nofollow">Patient Feedback On Meridia</a> <a href="http://www.icq.com/blogs/post/93125"
+    rel="nofollow">Meridia South Point Hospital</a> <a href="http://www.icq.com/blogs/post/93126"
+    rel="nofollow">Meridia Serotonin</a>
+- id: 96238
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNjo0MjowNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMDo0MjowNSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93127"
+    rel="nofollow">Effectiveness Of Meridia</a> <a href="http://www.icq.com/blogs/post/93128"
+    rel="nofollow">Meridias Capital Utah</a> <a href="http://www.icq.com/blogs/post/93129"
+    rel="nofollow">Meridia Work For You</a> <a href="http://www.icq.com/blogs/post/93130"
+    rel="nofollow">Fast Delivery Meridia No Prescription</a> <a href="http://www.icq.com/blogs/post/93131"
+    rel="nofollow">Meridia Weight Loss Stories</a>
+- id: 96241
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNjo1NTozMSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMDo1NTozMSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93132"
+    rel="nofollow">Meridia Bicycles</a> <a href="http://www.icq.com/blogs/post/93133"
+    rel="nofollow">Generic Name For Meridia</a> <a href="http://www.icq.com/blogs/post/93134"
+    rel="nofollow">Dosage Of Meridia</a> <a href="http://www.icq.com/blogs/post/93135"
+    rel="nofollow">Meridia Without RX</a> <a href="http://www.icq.com/blogs/post/93136"
+    rel="nofollow">Online Pharmacy Meridia</a>
+- id: 96244
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNzoxMDozOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMToxMDozOSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93137"
+    rel="nofollow">Meridia Medicine Effects</a> <a href="http://www.icq.com/blogs/post/93138"
+    rel="nofollow">Meridia Attorney</a> <a href="http://www.icq.com/blogs/post/93139"
+    rel="nofollow">Side Affects Of Meridia</a> <a href="http://www.icq.com/blogs/post/93140"
+    rel="nofollow">Meridia Vs Phentermine</a> <a href="http://www.icq.com/blogs/post/93141"
+    rel="nofollow">Meridia Mexico Tourist Sites Activities</a>
+- id: 96245
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNzoyMjoxNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMToyMjoxNCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93142"
+    rel="nofollow">Success Stories With Meridia</a> <a href="http://www.icq.com/blogs/post/93143"
+    rel="nofollow">Rental Property In Meridia Venezuela</a> <a href="http://www.icq.com/blogs/post/93144"
+    rel="nofollow">Meridia Mexico And Regional Conferences</a> <a href="http://www.icq.com/blogs/post/93145"
+    rel="nofollow">Meridia Problems</a> <a href="http://www.icq.com/blogs/post/93146"
+    rel="nofollow">Side Effects Of Stopping Meridia</a>
+- id: 96248
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNzozNDo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMTozNDo0MSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93147"
+    rel="nofollow">Meridia Meridian Rugs</a> <a href="http://www.icq.com/blogs/post/93148"
+    rel="nofollow">Magellan Meridia Gps Atv Mounts</a> <a href="http://www.icq.com/blogs/post/93149"
+    rel="nofollow">Loss Meridia Result Weight</a> <a href="http://www.icq.com/blogs/post/93150"
+    rel="nofollow">Meridias Capital Michael Payne</a> <a href="http://www.icq.com/blogs/post/93151"
+    rel="nofollow">Pericarditis Meridia Allegra D</a>
+- id: 96251
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwNzo0ODowMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMTo0ODowMyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93152"
+    rel="nofollow">Pictures Of Meridia</a> <a href="http://www.icq.com/blogs/post/93153"
+    rel="nofollow">Meridia 15Mg At Cost</a> <a href="http://www.icq.com/blogs/post/93154"
+    rel="nofollow">Meridia In Canada</a> <a href="http://www.icq.com/blogs/post/93155"
+    rel="nofollow">Adipex Vs Meridia</a> <a href="http://www.icq.com/blogs/post/93156"
+    rel="nofollow">Is Meridia Safe</a>
+- id: 96253
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwODowMDo1MiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMjowMDo1MiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93157"
+    rel="nofollow">Cheapest Meridia</a> <a href="http://www.icq.com/blogs/post/93158"
+    rel="nofollow">Meridia Medical Group Ohio</a> <a href="http://www.icq.com/blogs/post/93159"
+    rel="nofollow">Price Of Meridia</a> <a href="http://www.icq.com/blogs/post/93161"
+    rel="nofollow">Cheapest Price For Meridia</a> <a href="http://www.icq.com/blogs/post/93162"
+    rel="nofollow">Meridia Generics</a>
+- id: 96255
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwODoxMjozNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMjoxMjozNCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93163"
+    rel="nofollow">Meridias</a> <a href="http://www.icq.com/blogs/post/93164"
+    rel="nofollow">Diet Drug Meridia</a> <a href="http://www.icq.com/blogs/post/93165"
+    rel="nofollow">Meridia As An Antidepressant</a> <a href="http://www.icq.com/blogs/post/93166"
+    rel="nofollow">Meridia Bikes</a> <a href="http://www.icq.com/blogs/post/93167"
+    rel="nofollow">Meridia Attorney Alabama</a>
+- id: 96259
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwODoyNDo0OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMjoyNDo0OCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93168"
+    rel="nofollow">Meridia Diet Drug</a> <a href="http://www.icq.com/blogs/post/93169"
+    rel="nofollow">Meridia Manufacturer</a> <a href="http://www.icq.com/blogs/post/93170"
+    rel="nofollow">Meridias Mortgage</a> <a href="http://www.icq.com/blogs/post/93171"
+    rel="nofollow">Who Makes Meridia In Mexico</a> <a href="http://www.icq.com/blogs/post/93172"
+    rel="nofollow">What Is Meridia USed For</a>
+- id: 96260
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwODozNzo0MyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMjozNzo0MyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93173"
+    rel="nofollow">Meridia And Prozac</a> <a href="http://www.icq.com/blogs/post/93174"
+    rel="nofollow">Loss Meridia Review Weight</a> <a href="http://www.icq.com/blogs/post/93175"
+    rel="nofollow">Drug Meridia DangeroUS</a> <a href="http://www.icq.com/blogs/post/93177"
+    rel="nofollow">Drug Meridia</a> <a href="http://www.icq.com/blogs/post/93178"
+    rel="nofollow">Meridia Weightloss Drug</a>
+- id: 96266
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwOToyMjozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMzoyMjozMCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93194"
+    rel="nofollow">Meridia And Phentermine</a> <a href="http://www.icq.com/blogs/post/93195"
+    rel="nofollow">Cost Of Meridia</a> <a href="http://www.icq.com/blogs/post/93196"
+    rel="nofollow">Allegra And Meridia</a> <a href="http://www.icq.com/blogs/post/93197"
+    rel="nofollow">Taking Wellbutrin And Meridia Together</a> <a href="http://www.icq.com/blogs/post/93198"
+    rel="nofollow">Meridia On Line</a>
+- id: 96267
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwOTozMToxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMzozMToxNyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93199"
+    rel="nofollow">Buy Cheap Meridia Pharmacy Online</a> <a href="http://www.icq.com/blogs/post/93200"
+    rel="nofollow">Prices For Meridia</a> <a href="http://www.icq.com/blogs/post/93201"
+    rel="nofollow">Meridia Southpointe Hospital</a> <a href="http://www.icq.com/blogs/post/93202"
+    rel="nofollow">Cheep Paris Meridia</a> <a href="http://www.icq.com/blogs/post/93203"
+    rel="nofollow">Online No Prescription For Meridia</a>
+- id: 96270
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwOTo0NDozMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMzo0NDozMCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93204"
+    rel="nofollow">Cheapest Fastest Meridia</a> <a href="http://www.icq.com/blogs/post/93205"
+    rel="nofollow">Meridia Pounds Lost</a> <a href="http://www.icq.com/blogs/post/93206"
+    rel="nofollow">Death From Meridia</a> <a href="http://www.icq.com/blogs/post/93207"
+    rel="nofollow">Defective Drug Information Meridia</a> <a href="http://www.icq.com/blogs/post/93208"
+    rel="nofollow">Meridia Mortgage</a>
+- id: 96272
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAwOTo1NTowNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNSAyMzo1NTowNiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93209"
+    rel="nofollow">Meridia For Free</a> <a href="http://www.icq.com/blogs/post/93210"
+    rel="nofollow">Meridia Net Safety Information</a> <a href="http://www.icq.com/blogs/post/93211"
+    rel="nofollow">Weight Loss No Prescription Meridia</a> <a href="http://www.icq.com/blogs/post/93212"
+    rel="nofollow">Meridia Discount</a> <a href="http://www.icq.com/blogs/post/93213"
+    rel="nofollow">Walgreen'S Meridia Message Script Telephone</a>
+- id: 96273
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMDowNDo1NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMDowNDo1NSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93214"
+    rel="nofollow">Buy Cheap Meridia Online</a> <a href="http://www.icq.com/blogs/post/93215"
+    rel="nofollow">Meridia Southpoint Hospital</a> <a href="http://www.icq.com/blogs/post/93216"
+    rel="nofollow">Meridia Help</a> <a href="http://www.icq.com/blogs/post/93217"
+    rel="nofollow">Drugstore Meridia</a> <a href="http://www.icq.com/blogs/post/93218"
+    rel="nofollow">Meridia Without Perscription</a>
+- id: 96274
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMDoxMjowMiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMDoxMjowMiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93219"
+    rel="nofollow">Side Effects On Meridia</a> <a href="http://www.icq.com/blogs/post/93220"
+    rel="nofollow">Nikko Buy Meridia</a> <a href="http://www.icq.com/blogs/post/93221"
+    rel="nofollow">Meridia Health Systems Southpoint Hospital</a> <a href="http://www.icq.com/blogs/post/93222"
+    rel="nofollow">Bontril Vs Meridia</a> <a href="http://www.icq.com/blogs/post/93223"
+    rel="nofollow">Meridia And Alli</a>
+- id: 96275
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMDoxODoyNSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMDoxODoyNSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93224"
+    rel="nofollow">Meridia Diaries</a> <a href="http://www.icq.com/blogs/post/93225"
+    rel="nofollow">Kunkler Meridia</a> <a href="http://www.icq.com/blogs/post/93226"
+    rel="nofollow">Meridia Warning</a> <a href="http://www.icq.com/blogs/post/93227"
+    rel="nofollow">Adipex Meridia Phentermine Xenical</a> <a href="http://www.icq.com/blogs/post/93228"
+    rel="nofollow">Meridia And Insurance Coverage</a>
+- id: 96279
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMDoyODoyMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMDoyODoyMyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93229"
+    rel="nofollow">Meridia West Coast Drugs</a> <a href="http://www.icq.com/blogs/post/93230"
+    rel="nofollow">1 Meridia Order</a> <a href="http://www.icq.com/blogs/post/93231"
+    rel="nofollow">Meridia Weight Loss Personal Stories</a> <a href="http://www.icq.com/blogs/post/93232"
+    rel="nofollow">Slimquick With Meridia</a> <a href="http://www.icq.com/blogs/post/93233"
+    rel="nofollow">Meridia Doses</a>
+- id: 96282
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMDo1MToxNyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMDo1MToxNyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93239"
+    rel="nofollow">Meridia Acugraphics</a> <a href="http://www.icq.com/blogs/post/93240"
+    rel="nofollow">Is Meridia An Amphetamine</a> <a href="http://www.icq.com/blogs/post/93241"
+    rel="nofollow">Progresso Meridia</a> <a href="http://www.icq.com/blogs/post/93242"
+    rel="nofollow">Call Script Cvs Meridia</a> <a href="http://www.icq.com/blogs/post/93243"
+    rel="nofollow">Prescription By Mail Meridia</a>
+- id: 96285
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMToxNToxMyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMToxNToxMyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93249"
+    rel="nofollow">Interresults Buy Meridia</a> <a href="http://www.icq.com/blogs/post/93250"
+    rel="nofollow">Meridia Capital Partners Barcelona</a> <a href="http://www.icq.com/blogs/post/93251"
+    rel="nofollow">Meridia Success Story</a> <a href="http://www.icq.com/blogs/post/93252"
+    rel="nofollow">Meridia Diet Pill 32</a> <a href="http://www.icq.com/blogs/post/93253"
+    rel="nofollow">Meridia Success</a>
+- id: 96286
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMToyODo0NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMToyODo0NCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93254"
+    rel="nofollow">Website About Meridia Diet Pills</a> <a href="http://www.icq.com/blogs/post/93255"
+    rel="nofollow">Meridia Fluoxetine</a> <a href="http://www.icq.com/blogs/post/93256"
+    rel="nofollow">St Louis Meridia Lawyer</a> <a href="http://www.icq.com/blogs/post/93257"
+    rel="nofollow">Health Services Meridia Online Free Shipping</a> <a href="http://www.icq.com/blogs/post/93258"
+    rel="nofollow">Meridia And Pamelor</a>
+- id: 96289
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMTo0MjoxNCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMTo0MjoxNCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93259"
+    rel="nofollow">Meridia Withdrawal Symptoms</a> <a href="http://www.icq.com/blogs/post/93260"
+    rel="nofollow">Meridia Patient Information</a> <a href="http://www.icq.com/blogs/post/93261"
+    rel="nofollow">Juice Meridia Noni Rimonabant</a> <a href="http://www.icq.com/blogs/post/93262"
+    rel="nofollow">Interferon Treatment On Meridia</a> <a href="http://www.icq.com/blogs/post/93263"
+    rel="nofollow">Buy Meridia Bloghoster</a>
+- id: 96294
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMjoxNjo0NCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMjoxNjo0NCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93274"
+    rel="nofollow">Official Website For Meridia</a> <a href="http://www.icq.com/blogs/post/93275"
+    rel="nofollow">Meridia No Script</a> <a href="http://www.icq.com/blogs/post/93276"
+    rel="nofollow">Meridia Pictures Of</a> <a href="http://www.icq.com/blogs/post/93277"
+    rel="nofollow">Loss Meridia Weight</a> <a href="http://www.icq.com/blogs/post/93278"
+    rel="nofollow">Generic Meridia Fda Approved</a>
+- id: 96298
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMjozOTo0NyAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMjozOTo0NyAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93284"
+    rel="nofollow">1 Medication Meridia</a> <a href="http://www.icq.com/blogs/post/93285"
+    rel="nofollow">Meridia And Xenical</a> <a href="http://www.icq.com/blogs/post/93286"
+    rel="nofollow">Meridia Ca</a> <a href="http://www.icq.com/blogs/post/93287"
+    rel="nofollow">Meridia Discount Coupons</a> <a href="http://www.icq.com/blogs/post/93288"
+    rel="nofollow">Meridia And Lexapro</a>
+- id: 96304
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMzoxNzoyNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMzoxNzoyNiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93299"
+    rel="nofollow">Meridia And Anxiety</a> <a href="http://www.icq.com/blogs/post/93300"
+    rel="nofollow">Chic Fil A Meridia Mississippi</a> <a href="http://www.icq.com/blogs/post/93301"
+    rel="nofollow">Online Pharmacies Phentermine Xenical Meridia</a> <a href="http://www.icq.com/blogs/post/93302"
+    rel="nofollow">Inteferon Meridia</a> <a href="http://www.icq.com/blogs/post/93303"
+    rel="nofollow">Discount Get Meridia Online</a>
+- id: 96308
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMzo0MDowNiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMzo0MDowNiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93309"
+    rel="nofollow">Mayan Ruin Tours Meridia Mexico</a> <a href="http://www.icq.com/blogs/post/93310"
+    rel="nofollow">Appetite Suppressants Meridia</a> <a href="http://www.icq.com/blogs/post/93311"
+    rel="nofollow">Cheap Mer Dia Meridia Online</a> <a href="http://www.icq.com/blogs/post/93312"
+    rel="nofollow">Buy Cheap Meridia Online Pharmacy</a> <a href="http://www.icq.com/blogs/post/93313"
+    rel="nofollow">Meridia Diet Aide</a>
+- id: 96310
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxMzo1Mjo0MiAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwMzo1Mjo0MiAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93314"
+    rel="nofollow">Meridia Yucatan</a> <a href="http://www.icq.com/blogs/post/93315"
+    rel="nofollow">Sibutramine Meridia</a> <a href="http://www.icq.com/blogs/post/93316"
+    rel="nofollow">Meridia Slimquick And Welbutrin Together</a> <a href="http://www.icq.com/blogs/post/93317"
+    rel="nofollow">Meridia Antidepressant Qualities</a> <a href="http://www.icq.com/blogs/post/93318"
+    rel="nofollow">Meridia Dosages</a>
+- id: 96312
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxNDowNToxOCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwNDowNToxOCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93319"
+    rel="nofollow">Meridia Mx</a> <a href="http://www.icq.com/blogs/post/93320"
+    rel="nofollow">Meridia Sibutramine Xenical</a> <a href="http://www.icq.com/blogs/post/93321"
+    rel="nofollow">Drug Meridia Bloghoster</a> <a href="http://www.icq.com/blogs/post/93322"
+    rel="nofollow">Meridia USer Boards</a> <a href="http://www.icq.com/blogs/post/93323"
+    rel="nofollow">Buy Meridia 10 Mg</a>
+- id: 96318
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxNDo1Mjo0NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwNDo1Mjo0NSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93339"
+    rel="nofollow">Meridia Medical Group</a> <a href="http://www.icq.com/blogs/post/93340"
+    rel="nofollow">Buy Prescription Generic Meridia</a> <a href="http://www.icq.com/blogs/post/93341"
+    rel="nofollow">Meridia Phentremine Bontril</a> <a href="http://www.icq.com/blogs/post/93342"
+    rel="nofollow">Buy Meridia Cod</a> <a href="http://www.icq.com/blogs/post/93343"
+    rel="nofollow">Meridia Positive Drug Screen</a>
+- id: 96323
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxNTozMDoyMCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwNTozMDoyMCAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93354"
+    rel="nofollow">Affect Meridia Side</a> <a href="http://www.icq.com/blogs/post/93355"
+    rel="nofollow">Meridia Does It Work</a> <a href="http://www.icq.com/blogs/post/93356"
+    rel="nofollow">Coupon Discount Meridia</a> <a href="http://www.icq.com/blogs/post/93357"
+    rel="nofollow">Interferon Meridia</a> <a href="http://www.icq.com/blogs/post/93358"
+    rel="nofollow">Meridia Ndc Coder</a>
+- id: 96326
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMi0wNiAxNTo0Mzo0NSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMi0wNiAwNTo0Mzo0NSAtMDgwMA==
+  content: Pharmacy and <a href="http://www.icq.com/blogs/post/93359"
+    rel="nofollow">Meridia And Bloating</a> <a href="http://www.icq.com/blogs/post/93360"
+    rel="nofollow">Meridia And Runny Nose</a> <a href="http://www.icq.com/blogs/post/93361"
+    rel="nofollow">Meridia And Xenical Combination</a> <a href="http://www.icq.com/blogs/post/93362"
+    rel="nofollow">Inexpensive Reductil Oe Meridia</a> <a href="http://www.icq.com/blogs/post/93363"
+    rel="nofollow">Why Is Meridia A Controlled Substance</a>
+---
+From <a href="http://apple.slashdot.org/comments.pl?sid=118438&cid=10005420">slashdot</a>:
+<blockquote>
+ Let the zealots win.
+
+Lets have 15 different proprietary "standards" out there for music. That way if you buy a player from Apple, you buy your music from Apple. If a song you like is only available on some other service, why you buy another player.
+
+I don't care. I'm through with music. I wont buy any CDs or download any songs.
+
+In my day, it was pretty decent. I could go buy a CD from any store I wanted, and it would work in any of my CD players. Before that was cassette tapes, before that 8-tracks and LPs.
+
+But I don't care about todays kids. Go let yourself get screwed over by a bunch of corporate assholes. Tell yourselves that the company is some great benevolant force that truly cares about you, if that makes you feel better.
+
+I could give a fuck if iTunes is completely incompatible with Real and every other music service. I could give two shits what kind of DRM Apple or Real or Napster or anyone else want to use. Who gives a shit if you're allowed to burn it to one CD, or only listen to the song on the third tuesday of every month.
+
+Hey, do it to TV too. I don't care. When video-on-demand rolls out, make sure each service is compatible only with a suitably branded TV set or cable tuner. Sony Video-on-Demand only works with Sony sets, etc. Ruin TV. See if you can make a buck doing it.
+
+Have your legions of Sony fans go around swearing and acting like idiots if Phillips starts trying to compete.
+
+Not my problem, and I don't care.
+
+The entire "entertainment" industry can jump up my ass. It bores me. I don't look to any corporate messiah for my entertainment anymore. Fuck em all, and fuck all their fans and zealots.</blockquote>

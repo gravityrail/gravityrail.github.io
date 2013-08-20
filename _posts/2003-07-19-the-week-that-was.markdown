@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: The week that was.
-author: dan
-author_login: admin
-author_email: dan@danwalmsley.com
-author_url: http://danwalmsley.com
+title: ! 'The week that was. '
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
 wordpress_id: 3
 wordpress_url: http://www.goldsounds.com/archives/2003/07/19/the-week-that-was/
 date: 2003-07-19 14:18:43.000000000 -07:00
@@ -14,7 +14,7 @@ categories:
 - personal
 tags: []
 comments:
-- id: 31147
+- id: 4
   author: guy who doesnt care about your shit site
   author_email: guywhodoesntcareaboutdanw\'sshitsite\"goldsoundz\"@yahoo.com
   author_url: http://url

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: g00g|_3 |-|@><0Rz
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 98
+wordpress_url: http://www.goldsounds.com/archives/2004/04/19/g00g3--0rz/
+date: 2004-04-19 13:39:24.000000000 -07:00
+categories:
+- general
+tags: []
+comments: []
+---
+Google truly is the Swiss Army Knife of the information age. And like any good Swiss Army Knife, it can be used to disembowel people.
+
+<a href="http://johnny.ihackstuff.com/index.php?module=prodreviews">Disturbingly Easy Hacks Using Google</a>.
+
+Choice quote:
+<blockquote>PASSWORDS, for the LOVE OF GOD!!! Google found PASSWORDS!</blockquote>

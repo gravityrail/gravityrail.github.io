@@ -1,0 +1,94 @@
+---
+layout: post
+status: publish
+published: true
+title: Photos
+author: admin
+author_login: admin
+author_email: danger@cmetech.com.au
+wordpress_id: 250
+wordpress_url: http://goldsounds.com/archives/2005/08/02/photos/
+date: 2005-08-02 21:42:52.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 3681
+  author: Sal
+  author_email: sallym@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wMyAxMDo1NDoxNCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAwMDo1NDoxNCAtMDcwMA==
+  content: ! "That one of you in the cap is hi-lar-ious. ahahahah...\r\n\r\nLibby
+    looks like the devil in P1030703.JPG"
+- id: 3683
+  author: Dr Doom
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wMyAxODoxMzoxNiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAwODoxMzoxNiAtMDcwMA==
+  content: For a guy who loves the semantic web and trust networks and things, you
+    sure don't do much tagging. Tag! Tag! Tag! Dr Doom commands it!
+- id: 3686
+  author: Sarah
+  author_email: lookingforpie@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNCAxODoyOTo1NyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNCAwODoyOTo1NyAtMDcwMA==
+  content: Haha, I like Dr Doom.
+- id: 3688
+  author: admin
+  author_email: danger@cmetech.com.au
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNCAyMTozMzoxMyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNCAxMTozMzoxMyAtMDcwMA==
+  content: ! "Me too!\r\n\r\n(edits and tags)"
+- id: 3690
+  author: Brent
+  author_email: ''
+  author_url: http://www.thestrahans.com
+  date: !binary |-
+    MjAwNS0wOC0wNCAyMzo0ODo0MCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNCAxMzo0ODo0MCAtMDcwMA==
+  content: photo 2 and photo 3 are the SAME PERSON... 20 years and many chemicals
+    apart.
+- id: 3692
+  author: the trav
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNSAxMDo0ODo1NiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNSAwMDo0ODo1NiAtMDcwMA==
+  content: I thought there was a similarity there
+- id: 3695
+  author: Dr Doom
+  author_email: matt@no-sword.jp
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNSAxNzo1MjowNyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNSAwNzo1MjowNyAtMDcwMA==
+  content: Dr Doom was referring to the photos rather than the post linking to them.
+    Your insolence will not go unpunished.
+- id: 3699
+  author: Sarah
+  author_email: lookingforpie@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOC0wNSAyMDoyMDo1MSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wNSAxMDoyMDo1MSAtMDcwMA==
+  content: I don't like it when people make fun of Dr Doom :(
+---
+Some <a href="http://homepage.mac.com/goldsounds/PhotoAlbum5.html">photos from Toowoomba</a> are up on my .Mac account.
+

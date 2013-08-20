@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Up early?
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 126
+wordpress_url: http://www.goldsounds.com/archives/2004/06/25/up-early/
+date: 2004-06-25 09:25:16.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 103
+  author: Matt
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wNi0yNiAxMzoyNDo0NSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0yNiAwMzoyNDo0NSAtMDcwMA==
+  content: Actually, thinking isn't rewarding at all. If you don't think, you can't
+    be unhappy. Don't do it, Liz!
+- id: 104
+  author: Daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wNi0yNiAxNjoyNDo0NyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0yNiAwNjoyNDo0NyAtMDcwMA==
+  content: Don't listen to him, Liz! He's part of the Global Imperialist Conspiracy
+    to deprive you of your rights through control and supression of free thought!
+    Fight the power! What good is being happy if you don't have _truth_?
+---
+Daniel Haigh arrived early for work this morning, and the first thing he did was read my site. 8:28am - even millionaires have to get up early sometimes.
+
+Sweet.
+
+I wonder if 3hgroup still think <a href="http://www.goldsounds.com/archives/2004/6/4/meegos-are-cool">astroturfing my blog</a> was a good idea?
+
+And a big thanks to Liz, who <a href="http://www.goldsounds.com/archives/2004/6/4/meegos-are-cool#comment-93">writes</a>:
+<blockquote>I was goin 2 go and get meegos but nw i starting 2 think its not such a good idea</blockquote>
+Starting to think is one of the most rewarding things you'll ever do, Liz.

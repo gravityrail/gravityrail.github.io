@@ -1,0 +1,102 @@
+---
+layout: post
+status: publish
+published: true
+title: Da! Da! Da Da!
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 49
+wordpress_url: http://www.goldsounds.com/archives/2003/10/06/da-da-da-da/
+date: 2003-10-06 19:22:39.000000000 -07:00
+categories:
+- music
+tags: []
+comments:
+- id: 33
+  author: Atsuko
+  author_email: pothos@mxi.netwave.or.jp
+  author_url: http://wwwi.netwave.or.jp/~pothos/blog.html
+  date: !binary |-
+    MjAwMy0xMC0xMyAyMTowNDoxOCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xMyAxMTowNDoxOCAtMDcwMA==
+  content: ! 'Did you have fun in Japan?<br />
+
+    I just love you and Matt''s Giant Robo!!!'
+- id: 36
+  author: Kenshu
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwMy0xMC0xNSAwMDowNzoyNCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xNCAxNDowNzoyNCAtMDcwMA==
+  content: ! 'I love you a matt''s giant robo too.<br />
+
+    oh wait, who''s matt?<br />
+
+    <br />
+
+    What''s with his giant robo? And why is is so closely assosiated with you?'
+- id: 37
+  author: Giant robo
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwMy0xMC0xNSAwMDowODo0MiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xNCAxNDowODo0MiAtMDcwMA==
+  content: ! '*giant robo sneaks up on dan* "Daaannn!!! me and my monkey wanna play!!!!"'
+- id: 38
+  author: Monkey
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwMy0xMC0xNSAwMDoxMDoxMCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xNCAxNDoxMDoxMCAtMDcwMA==
+  content: ! 'hey Robo-punk! I own you!<br />
+
+    Don''t go callin'' me ''your monkey''<br />
+
+    What you think i''m gunna dance for you?'
+- id: 39
+  author: daniel
+  author_email: danincanada@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwMy0xMC0xNSAxMTo0MjowNyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xNSAwMTo0MjowNyAtMDcwMA==
+  content: ! 'Hey, the monkey dances when I tell it to dance! [violently jerks joystick]
+    What? It''s not responding! [is seared to a crisp by monkey jetpack exhaust]<br
+    />
+
+    <br />
+
+    A WAR IS COMING.'
+- id: 40
+  author: Kenshu
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwMy0xMC0xNSAxNDo1NToxNCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwMy0xMC0xNSAwNDo1NToxNCAtMDcwMA==
+  content: ! 'Woah! Down monkey down!!!<br />
+
+    *looks at seared dan* that''s gotta smart.<br />
+
+    yeechk'
+---
+As anyone who's been there will tell you, Japan is a hotbed of musical creativity. And we all know how much I like hot beds. Cough.<br />
+<br />
+Anyway, Matt and I recorded two songs while I was there, and I'm disgusted with myself to announce that I'm publishing them on the web.<br />
+<br />
+<a href="music/robo.mp3">Giant Robo</a> is a cover of a Japanese TV show theme song. It's fairly self-explanatory. Everything in Matt's house that made a noise was used in the creation of this song.<br />
+<br />
+<a href="music/sheepyknees.mp3">Sheepy Knees</a> is a heartfelt ballad about sheep that can also be thought of as a metaphor for life in these violent times. When the whole world seems to be at war with itself, can we do any less than be fellated by sheep?<br />
+<br />
+If you don't listen to these songs, then the terrorists have already won.

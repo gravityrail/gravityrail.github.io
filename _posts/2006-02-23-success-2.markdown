@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Success!
+author: admin
+author_login: admin
+author_email: danger@cmetech.com.au
+wordpress_id: 278
+wordpress_url: http://goldsounds.com/archives/2006/02/23/success-2/
+date: 2006-02-23 12:14:33.000000000 -08:00
+categories:
+- general
+tags: []
+comments: []
+---
+Last night was the final show for Season 1 of <a href="http://pinkhorseofwhimsy.com">The Pink Horse of Whimsy</a>. It's been tiring and joyful and stressful and encouraging and intense, and totally and utterly rewarding. And now I am <em>really</em> looking forward to a weekend away with my beloved, to totally forget about the outside world and just do almost nothing.
+
+A massive thank-you to everyone who was involved, whether performing, rigging, moving chairs, collecting money or turning the lights on and off. Shows like this require a lot of help to get off the ground, and I've been really surprised by how many people freely gave their time for what was really a very silly concept.

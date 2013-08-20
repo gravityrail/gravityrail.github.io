@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: We're back!
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 62
+wordpress_url: http://www.goldsounds.com/archives/2004/01/15/were-back/
+date: 2004-01-15 21:28:58.000000000 -08:00
+categories:
+- general
+tags: []
+comments:
+- id: 50
+  author: Kenshu
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wMS0yMiAwMDo1MDo1OCAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwNC0wMS0yMSAxNDo1MDo1OCAtMDgwMA==
+  content: So... you died?
+- id: 52
+  author: Daniel
+  author_email: ''
+  author_url: http://www.goldsounds.com
+  date: !binary |-
+    MjAwNC0wMS0yMyAxMzo0MjoyOSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwNC0wMS0yMyAwMzo0MjoyOSAtMDgwMA==
+  content: Yes. Welcome to the Blog of Christ. He's back, and un-badder than ever!
+---
+I drove through the Utah countryside in my open-top Aston Martin, the flaps on my hunting cap applauding our brisk pace, when suddenly a bright light above caused me to brake. Pulling onto the rocky verge, I blinked into a mass of white so pure it made Sammy David Jr's smile look like a pile of old tires. I dropped my pheasant as the tractor-beam began to lift me -- a kind of human suppository -- into the bowels of the ship.
+
+Time ceased to have meaning. I cannot describe what happened to me there, where we went, or how long it took, because frankly it was rather boring. However, when they dropped me off, I found the most delightful cafe that sells pita bread filled with salmon and potato.
+
+So now here we are again. You, the reader, and me, the oracle of crap. Face to face and standing together at the information precipice. Reality fades, reason collapses, and logic has some difficulty breathing as we re-enter <em>GoldSounds!</em>

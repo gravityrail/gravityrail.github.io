@@ -49,6 +49,7 @@ GEM
     safe_yaml (0.7.1)
     sequel (4.1.1)
     syntax (1.0.0)
+    unidecode (1.0.0)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -62,3 +63,4 @@ DEPENDENCIES
   mysql2
   nokogiri
   sequel
+  unidecode

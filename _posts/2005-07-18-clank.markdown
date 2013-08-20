@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: Clank!
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 244
+wordpress_url: /?p=244
+date: 2005-07-18 10:35:02.000000000 -07:00
+categories:
+- emailed
+tags: []
+comments:
+- id: 3668
+  author: trav
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0xOSAxMjoyNzoyOCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0xOSAwMjoyNzoyOCAtMDcwMA==
+  content: ! "I'm guessing these are phone photo sms entries lately?\r\n\r\nIs there
+    a way for me the reader to filter them out?"
+- id: 3669
+  author: daniel
+  author_email: goldsounds@gmail.com
+  author_url: http://
+  date: !binary |-
+    MjAwNS0wNy0xOSAxMzo0OTo1NCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0xOSAwMzo0OTo1NCAtMDcwMA==
+  content: Well, I've started moving them all to the "emailed" category, so if you
+    click on "general" you won't see them. However, now that I've had my fun I don't
+    think you'll see many more of them.
+- id: 3670
+  author: morbo
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yMSAwOToxMjoxNiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yMCAyMzoxMjoxNiAtMDcwMA==
+  content: ! "MOREBO DEMANDS NEW CONTENT!\r\n\r\nGAAAAAAHR!"
+---
+<a href="/wp-photos/picture(22)1651968319.JPEG"><img src="/wp-photos/picture(22)1651968319_thumb.JPEG" alt="picture(22).jpg"/></a>

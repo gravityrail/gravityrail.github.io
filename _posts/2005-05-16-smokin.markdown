@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: Smokin'
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 180
+wordpress_url: http://www.goldsounds.com/?p=180
+date: 2005-05-16 20:38:03.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 3467
+  author: Matt
+  author_email: matt@no-sword.jp
+  author_url: http://no-sword.jp/blog/
+  date: !binary |-
+    MjAwNS0wNS0xNyAwMDoxNjoxNyAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNS0xNiAxNDoxNjoxNyAtMDcwMA==
+  content: ! "Those tags are confusing. Is this a rock song, a folk rock song, or
+    is it music? You can only choose one I'm afraid. \r\n\r\nCool tone on the, uh,
+    guitar-that-solos. (As in the prophecies)"
+- id: 3548
+  author: Smokin&#8217;
+  author_email: ''
+  author_url: http://bardak.com.ru/
+  date: !binary |-
+    MjAwNS0wNi0wOSAxNjo0MjoxMiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0wOSAwNjo0MjoxMiAtMDcwMA==
+  content: ! '<strong>Smokin&#8217;</strong>
+
+
+    Smokin&#8217;'
+---
+My band recorded a demo on Saturday. Here's <a href='http://www.goldsounds.com/uploads/Smoke.m4a' title=''>one of the tracks</a>.

@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: We're off
+author: admin
+author_login: admin
+author_email: danger@cmetech.com.au
+wordpress_id: 246
+wordpress_url: http://goldsounds.com/archives/2005/07/28/were-off/
+date: 2005-07-28 01:26:53.000000000 -07:00
+categories:
+- general
+tags: []
+comments:
+- id: 3674
+  author: your friend
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yOCAxMzoyNjoxNiAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yOCAwMzoyNjoxNiAtMDcwMA==
+  content: your friend can send them to you, if you email an address.
+- id: 3675
+  author: the trav
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yOCAxNDozMjo1OSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yOCAwNDozMjo1OSAtMDcwMA==
+  content: Don't stress, stay focussed on the positives, it's going to be an awesome
+    trip and lots of fun.  I'm sure we'll see you back in the country one day
+- id: 3676
+  author: Euan
+  author_email: euan_b_uk@yahoo.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yOSAyMjo1NDo0NSAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yOSAxMjo1NDo0NSAtMDcwMA==
+  content: ! "Clothes, something to read, power book: what else do you need?\r\n\r\nGone
+    are the days I could fit my life in to the back of a car, wasn't that long ago
+    though."
+- id: 3684
+  author: Brent
+  author_email: ''
+  author_url: http://www.thestrahans.com
+  date: !binary |-
+    MjAwNS0wOC0wMyAyMzoyNDowOCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMyAxMzoyNDowOCAtMDcwMA==
+  content: ! "Nappies, singlets, boots, rugs, pram, change-mat, cheesesticks, portacot,
+    baby-sling, toys, formula, wipes, cream, juice, socks, little cardigan, t-shirts
+    for bub, spare singlets-boots-socks-cardigan and t-shirts. You'll need his pants
+    too, and a cocoon for the little baby, muesli bars, camera, teething ring, baby-sunscreen,
+    fruit and biscuits... and don't forget a towel for if the littly vomits after
+    feeding and the boy will need a dummy if he's going to have a sleep and that'll
+    mean he needs pyjamas, and spare pyjamas in case the nappy leaks....\r\n\r\nwhere
+    are we going again?"
+---
+It's 1:21am, I am still packing. It's not a difficult process (though realising that I left all my decent underwear at a friend's house hasn't helped), but it's going very slowly as every little article brings forth a wave of memories and emotion. 
+
+I am taking a surprisingly small amount of stuff. Really. Three bags: one small, one medium, one large. Is that all I need?
+
+I feel stupid and tired.

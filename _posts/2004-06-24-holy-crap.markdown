@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Holy Crap
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 123
+wordpress_url: http://www.goldsounds.com/archives/2004/06/24/holy-crap/
+date: 2004-06-24 01:28:41.000000000 -07:00
+categories:
+- general
+tags: []
+comments: []
+---
+I just realised the poster of certain self-promoting comments could be Daniel Haigh, 27-year-old "BRW <a href="http://brw.com.au/lists/youngrich/profile.aspx?Id=64">Young Rich List</a>" Internet entrepeneur. The meegos.com whois record points almost directly at his Bondi Junction doorstep ($2.3 million buys you a house <em>and</em> a domain name, apparently), so this would come as little surprise. Also, Haigh is more likely to brag about his fortune than Heysen, since Haigh made the lions share of profits from the Soulmates / match.com deal with Ticketek ($15 million of the $42 million deal).
+
+Still - would one of the richest young people in Australia waste their time posting on my site? Surely they'd be too busy waterskiing or paragliding or going on decade-long sex-tours of third world countries?

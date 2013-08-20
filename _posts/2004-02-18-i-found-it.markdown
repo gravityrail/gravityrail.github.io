@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: I found it
+author: daniel
+author_login: daniel
+author_email: goldsounds@gmail.com
+author_url: http://
+wordpress_id: 83
+wordpress_url: http://www.goldsounds.com/archives/2004/02/18/i-found-it/
+date: 2004-02-18 17:23:48.000000000 -08:00
+categories:
+- general
+tags: []
+comments:
+- id: 297
+  author: Slave Owner
+  author_email: Hereyago@aol.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOS0wMSAwMzoyMjowMCAtMDcwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOC0zMSAxNzoyMjowMCAtMDcwMA==
+  content: HAHAHAAHAHA, FUNNIEST SHIT EVER! THANKS FOR FINDING THAT!
+- id: 90043
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wMS0xMSAxOToyODo0MSAtMDgwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMS0xMSAwOToyODo0MSAtMDgwMA==
+  content: ! "<a href=\"http://arakhnity.com/+mMDkjS7KFX6fJ+e77LaRbfWRkb+k2qFTIG/8z4BhbVoJeoykpUkvZ8d3ytkiq1RQc13DRzkqozsCNQr4t0n4YIpjGP0Tk5X8iMmi5je9n0gw5ionrE1yQ==\"
+    rel=\"nofollow\"> http://arakhnity.com/+mMDkjS7KFX6fJ+e77LaRbfWRkb+k2qFTIG/8z4BhbVoJeoykpUkvZ8d3ytkiq1RQc13DRzkqozsCNQr4t0n4YIpjGP0Tk5X8iMmi5je9n0gw5ionrE1yQ==
+    </a>\r\n http://arakhnity.com/+mMDkjS7KFX6fJ+e77LaRbfWRkb+k2qFTIG/8z4BhbVoJeoykpUkvZ8d3ytkiq1RQc13DRzkqozsCNQr4t0n4YIpjGP0Tk5X8iMmi5je9n0gw5ionrE1yQ==
+    \r\n<a href=\"http://arakhnity.com/tdBO4Snqe5zg2PslR01IpuPLgwrHBycLqouLWELiqwXDdEuXwaBZ/CBDF1leFP2Pl5MSlJQBmDmxxd+qTTZl3sZcI+sZxFpR7WWaRoPMISRprXd+HlWaTQ==\"
+    rel=\"nofollow\"> http://arakhnity.com/tdBO4Snqe5zg2PslR01IpuPLgwrHBycLqouLWELiqwXDdEuXwaBZ/CBDF1leFP2Pl5MSlJQBmDmxxd+qTTZl3sZcI+sZxFpR7WWaRoPMISRprXd+HlWaTQ==
+    </a>\r\n http://arakhnity.com/tdBO4Snqe5zg2PslR01IpuPLgwrHBycLqouLWELiqwXDdEuXwaBZ/CBDF1leFP2Pl5MSlJQBmDmxxd+qTTZl3sZcI+sZxFpR7WWaRoPMISRprXd+HlWaTQ==
+    \r\n<a href=\"http://arakhnity.com/9vxlAoXhTXVqTt/v5VDgyr5SIBAn91XjSbscm1R3t/8SnVqiJ/4Z98UfJYtfeGtxsafg+4R8K2SvfEf3bogemWHuyYhU1VkU+b3RTD/C6ZnYERSfViRy2w==\"
+    rel=\"nofollow\"> http://arakhnity.com/9vxlAoXhTXVqTt/v5VDgyr5SIBAn91XjSbscm1R3t/8SnVqiJ/4Z98UfJYtfeGtxsafg+4R8K2SvfEf3bogemWHuyYhU1VkU+b3RTD/C6ZnYERSfViRy2w==
+    </a>\r\n http://arakhnity.com/9vxlAoXhTXVqTt/v5VDgyr5SIBAn91XjSbscm1R3t/8SnVqiJ/4Z98UfJYtfeGtxsafg+4R8K2SvfEf3bogemWHuyYhU1VkU+b3RTD/C6ZnYERSfViRy2w==
+    \r\n<a href=\"http://arakhnity.com/irMn9BdmvVif1ivxxYX4maxVR70bMsQGwCDVlSyj7CipCcWXomEss5sO3KbWwTCFL4X7lSl2ykX/rJTgz7As1QwFjyKqUYV309bDTypZ5xHVExl6WhCDlg==\"
+    rel=\"nofollow\"> http://arakhnity.com/irMn9BdmvVif1ivxxYX4maxVR70bMsQGwCDVlSyj7CipCcWXomEss5sO3KbWwTCFL4X7lSl2ykX/rJTgz7As1QwFjyKqUYV309bDTypZ5xHVExl6WhCDlg==
+    </a>\r\n http://arakhnity.com/irMn9BdmvVif1ivxxYX4maxVR70bMsQGwCDVlSyj7CipCcWXomEss5sO3KbWwTCFL4X7lSl2ykX/rJTgz7As1QwFjyKqUYV309bDTypZ5xHVExl6WhCDlg=="
+---
+Something so awful that I actually couldn't laugh.
+
+<blockquote>Congratulations on your purchase of a brand new nigger! If handled properly, your nigger will give years of valuable, if reluctant, service.</blockquote>
+
+The official <a href="http://developers.slashdot.org/comments.pl?sid=80461&threshold=-1&commentsort=0&tid=106&tid=185&tid=190&mode=thread&cid=7090288">Nigger Owner's Manual</a>.

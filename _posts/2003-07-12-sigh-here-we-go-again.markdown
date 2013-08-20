@@ -3,18 +3,17 @@ layout: post
 status: publish
 published: true
 title: ! '*sigh* here we go again...'
-author: dan
+author: admin
 author_login: admin
-author_email: dan@danwalmsley.com
-author_url: http://danwalmsley.com
-wordpress_id: 335
+author_email: danger@cmetech.com.au
+wordpress_id: 2
 wordpress_url: http://www.goldsounds.com/archives/2003/07/12/sigh-here-we-go-again/
 date: 2003-07-12 16:50:05.000000000 -07:00
 categories:
-- General
+- general
 tags: []
 comments:
-- id: 31145
+- id: 2
   author: Matt
   author_email: ''
   author_url: http://no-sword.sieve.net
@@ -32,7 +31,7 @@ comments:
     <br />
 
     Also, unicorns!'
-- id: 31146
+- id: 3
   author: Matt
   author_email: ''
   author_url: http://no-sword.sieve.net
