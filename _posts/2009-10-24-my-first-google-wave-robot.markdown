@@ -73,4 +73,4 @@ To try it out, you'll need a <a href="http://wave.google.com/">Google Wave</a> a
 
 Simply add "wavesmiley@appspot.com" to any conversation where you want the smileys to be converted. Any "blips" you edit will have emoticons replaced, in "near real time". Currently only :-) :-( ;-) and :-D are supported. :-/ coming soon.
 
-Awesome! <a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/wink.png"><img src="http://www.danwalmsley.com/wp-content/uploads/2009/10/wink.png" alt="wink" title="wink" class="alignnone size-full wp-image-368" /></a>
+Awesome! <a href="/wp-content/uploads/2009/10/wink.png"><img src="/wp-content/uploads/2009/10/wink.png" alt="wink" title="wink" class="alignnone size-full wp-image-368" /></a>

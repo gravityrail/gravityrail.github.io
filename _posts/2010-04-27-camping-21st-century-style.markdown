@@ -37,4 +37,4 @@ comments:
 ---
 Hey honey, let's hit the great outdoors this weekend, huh? How about it? Imagine! The dirt under your feet, the wind whistling through the trees, and an iPhone suspended 10 inches from your face.
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2010/04/tvhat.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2010/04/tvhat.jpg" alt="" title="tvhat" width="500" height="518" class="aligncenter size-full wp-image-435" /></a>
+<a href="/wp-content/uploads/2010/04/tvhat.jpg"><img src="/wp-content/uploads/2010/04/tvhat.jpg" alt="" title="tvhat" width="500" height="518" class="aligncenter size-full wp-image-435" /></a>

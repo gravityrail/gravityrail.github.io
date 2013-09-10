@@ -513,4 +513,4 @@ Hope you find this useful, and good luck! Also, let me know if you have any corr
 
 Download a sample project here:
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2009/04/mavenappengine.tgz">mavenappengine</a>
+<a href="/wp-content/uploads/2009/04/mavenappengine.tgz">mavenappengine</a>

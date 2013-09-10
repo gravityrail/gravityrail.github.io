@@ -59,7 +59,7 @@ And for images of <em>concepts</em> it's even worse. In text-land, we could poin
 
 Same goes for "<a href="http://images.google.com/images?gbv=2&amp;hl=en&amp;sa=1&amp;q=nancy&amp;aq=f&amp;oq=&amp;aqi=&amp;start=0" target="_blank">nancy</a>", or "<a href="http://images.google.com/images?gbv=2&amp;hl=en&amp;sa=1&amp;q=shape&amp;aq=f&amp;oq=&amp;aqi=&amp;start=0" target="_blank">shape</a>", or "<a href="http://images.google.com/images?gbv=2&amp;hl=en&amp;sa=1&amp;q=old&amp;aq=f&amp;oq=&amp;aqi=&amp;start=0" target="_blank">old</a>".
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/balcony.jpg"><img class="size-medium wp-image-545 alignright" title="balcony" src="http://www.danwalmsley.com/wp-content/uploads/2009/10/balcony-200x300.jpg" alt="" width="200" height="300" /></a>
+<a href="/wp-content/uploads/2009/10/balcony.jpg"><img class="size-medium wp-image-545 alignright" title="balcony" src="/wp-content/uploads/2009/10/balcony-200x300.jpg" alt="" width="200" height="300" /></a>
 
 The photos that appear may all <em>contain</em> those things, but they're hardly the canonical definition of them. The idea that you could rank all the images in the world by relevance to a single word is so painful to contemplate that the very thought would send most PhD graduates flinging themselves off the nearest definition of "balcony".
 
@@ -74,7 +74,7 @@ According to <em>machines</em>.
 The machines that decide for us that Wikipedia has great definitions (it does), that you have new email and that this is the <em>only new email you have</em>, because we have decided all this other stuff is spam and there's no need for you to even look at it.
 
 So, what do the <em>machines</em> think <em>is</em> the number one hit for Arsehole?
-<p style="text-align: center;"><a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/arsehole_who_assaults_women.jpg"><img class="aligncenter size-medium wp-image-547" title="arsehole_who_assaults_women" src="http://www.danwalmsley.com/wp-content/uploads/2009/10/arsehole_who_assaults_women-300x234.jpg" alt="" width="300" height="234" /></a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2009/10/arsehole_who_assaults_women.jpg"><img class="aligncenter size-medium wp-image-547" title="arsehole_who_assaults_women" src="/wp-content/uploads/2009/10/arsehole_who_assaults_women-300x234.jpg" alt="" width="300" height="234" /></a></p>
 A young black man on the London tube, looking a lot like he doesn't want to be photographed.
 
 The story that accompanies the article is hosted on <a href="http://www.samizdata.net/blog/archives/2006/11/does_anyone_kno.html" target="_blank">Samizdata.net</a>, a self-described "blog that brings you news &amp; views from a critically rational social individualist perspective". The Samizdats are a crew of London-based Civil Libertarians that sprang out of <a href="http://www.libertarian.co.uk/">libertarian.co.uk</a> led by Perry De Havilland, a "<a href="http://www.libertarian.co.uk/lapubs/polin/polin186.htm" target="_blank">trans-Atlantic Entrepreneur</a>" who casually reels off phrases like "The core of what makes this so wrong lies as usual at the meta-contextual level".
@@ -138,5 +138,5 @@ There are so many ironic twists to this story I feel dizzy. For example, if it w
 So in the end, in a weird kind of way, Google was absolutely right. The top hit led to biggest pack of arseholes I've ever seen.
 
 The Internet is an amazing place. Just to cleanse the mental palate, I leave you with the number 2 hit. Goodnight.
-<p style="text-align: center;"><a href="http://www.danwalmsley.com/wp-content/uploads/2009/10/Asshole_20Watcher.jpg"><img class="aligncenter size-full wp-image-548" title="Asshole_20Watcher" src="http://www.danwalmsley.com/wp-content/uploads/2009/10/Asshole_20Watcher.jpg" alt="" width="600" height="616" /></a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2009/10/Asshole_20Watcher.jpg"><img class="aligncenter size-full wp-image-548" title="Asshole_20Watcher" src="/wp-content/uploads/2009/10/Asshole_20Watcher.jpg" alt="" width="600" height="616" /></a></p>
 &nbsp;

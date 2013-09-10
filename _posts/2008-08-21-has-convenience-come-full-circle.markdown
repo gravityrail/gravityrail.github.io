@@ -17,6 +17,6 @@ comments: []
 ---
 An ad spotted on Facebook:
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2008/08/phelpsad.png"><img class="alignnone size-medium wp-image-142" title="Phelps Ad" src="http://www.danwalmsley.com/wp-content/uploads/2008/08/phelpsad.png" alt="" width="184" height="250" /></a>
+<a href="/wp-content/uploads/2008/08/phelpsad.png"><img class="alignnone size-medium wp-image-142" title="Phelps Ad" src="/wp-content/uploads/2008/08/phelpsad.png" alt="" width="184" height="250" /></a>
 
 WTF? Michael Phelps? Isn't the point of fad diets that they're <strong>easier</strong> than becoming an Olympian?

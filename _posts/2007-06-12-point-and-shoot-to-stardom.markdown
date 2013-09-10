@@ -32,8 +32,8 @@ Nope. It's a video of John Carmack <a href="http://www.youtube.com/watch?v=HvuTt
 
 38,000 views and counting. Go Carmack! That guy is the biggest nerd ever.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/HvuTtrkVtns"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/HvuTtrkVtns" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><a href='http://www.danwalmsley.com/wp-content/uploads/2007/06/number_one_comedian_crop.png' title='Most popular comedian on YouTube'>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/HvuTtrkVtns"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/HvuTtrkVtns" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><a href='/wp-content/uploads/2007/06/number_one_comedian_crop.png' title='Most popular comedian on YouTube'>
 
 Click below if you don't believe me.
 
-<img src='http://www.danwalmsley.com/wp-content/uploads/2007/06/number_one_comedian_crop.thumbnail.png' alt='Most popular comedian on YouTube' /></a>
+<img src='/wp-content/uploads/2007/06/number_one_comedian_crop.thumbnail.png' alt='Most popular comedian on YouTube' /></a>

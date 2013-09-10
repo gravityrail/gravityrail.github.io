@@ -17,6 +17,6 @@ comments: []
 ---
 Seen on Hulu: Maybe I'm missing a devastating piece of wordplay, or maybe someone at the US Air Force can't spell.
 
-<a href='http://www.danwalmsley.com/wp-content/uploads/2008/06/airforcetypo.jpg'><img src="http://www.danwalmsley.com/wp-content/uploads/2008/06/airforcetypo-300x261.jpg" alt="" title="airforcetypo" width="300" height="261" class="alignnone size-medium wp-image-132" /></a>
+<a href='/wp-content/uploads/2008/06/airforcetypo.jpg'><img src="/wp-content/uploads/2008/06/airforcetypo-300x261.jpg" alt="" title="airforcetypo" width="300" height="261" class="alignnone size-medium wp-image-132" /></a>
 
 Look out! Enema plane at 3 o'clock!

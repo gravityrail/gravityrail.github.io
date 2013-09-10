@@ -67,4 +67,4 @@ My 73-year-old Mum tearfully but forcefully asking <a href="http://rushkoff.com/
 
 Mum is awesome. Here she is hugging a copyright-violating bear.
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2010/04/mum_and_bear.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2010/04/mum_and_bear-300x225.jpg" alt="" title="mum_and_bear" width="300" height="225" class="aligncenter size-medium wp-image-430" /></a>
+<a href="/wp-content/uploads/2010/04/mum_and_bear.jpg"><img src="/wp-content/uploads/2010/04/mum_and_bear-300x225.jpg" alt="" title="mum_and_bear" width="300" height="225" class="aligncenter size-medium wp-image-430" /></a>

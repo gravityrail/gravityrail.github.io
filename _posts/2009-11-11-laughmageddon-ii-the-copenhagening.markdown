@@ -32,4 +32,4 @@ Here's the details:
 
 <strong>How Much</strong>: Tickets are $25 full-price, $15 concession. All proceeds donated to the Australian Conservation Foundation for their "<a href="http://www.acfonline.org.au/articles/news.asp?news_id=2313">Road to Copenhagen</a>" campaign.
 <p style="text-align: left;">For tickets and more information, head to the web site: <a href="http://www.laughmageddon.com">http://www.laughmageddon.com</a>.</p>
-<p style="text-align: left;"><a href="http://www.danwalmsley.com/wp-content/uploads/2009/11/Laughmageddon_Poster.jpg"><img class="aligncenter size-full wp-image-377" title="Laughmageddon_Poster" src="http://www.danwalmsley.com/wp-content/uploads/2009/11/Laughmageddon_Poster.jpg" alt="Laughmageddon_Poster" width="614" height="717" /></a></p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2009/11/Laughmageddon_Poster.jpg"><img class="aligncenter size-full wp-image-377" title="Laughmageddon_Poster" src="/wp-content/uploads/2009/11/Laughmageddon_Poster.jpg" alt="Laughmageddon_Poster" width="614" height="717" /></a></p>

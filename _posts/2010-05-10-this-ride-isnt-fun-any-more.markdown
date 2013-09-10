@@ -27,4 +27,4 @@ comments:
 ---
 From an <a href="http://riotclitshave.livejournal.com/1739481.html">amazing photo blog</a> I just discovered.
 
-<a href="http://www.danwalmsley.com/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg"><img src="http://www.danwalmsley.com/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg" alt="" title="tumblr_kx158yk2781qzj6xlo1_500" width="495" height="495" class="aligncenter size-full wp-image-443" /></a>
+<a href="/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg"><img src="/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg" alt="" title="tumblr_kx158yk2781qzj6xlo1_500" width="495" height="495" class="aligncenter size-full wp-image-443" /></a>

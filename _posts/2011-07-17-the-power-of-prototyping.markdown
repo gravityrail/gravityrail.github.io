@@ -56,7 +56,7 @@ comments:
 ---
 This is the first in what will be a series of blog posts for the Mozilla-Knight Journalism Challenge. This week we heard from <a href="http://www.azarask.in/blog/" target="_blank">Aza Raskin</a>, former creative lead for Firefox and head of user experience for <a href="http://mozilla.com" target="_blank">Mozilla</a>, talking about the power of prototyping for understanding problems and building momentum behind your solution.
 
-<a href="https://picasaweb.google.com/goldsounds/UnlockingVideo?authkey=Gv1sRgCP690om2p67vsAE&amp;pli=1#5615321524278144370"><img class="size-medium wp-image-522" title="mockup" src="http://www.danwalmsley.com/wp-content/uploads/2011/07/mockup-273x300.jpg" alt="" width="273" height="300" align="center" /></a>
+<a href="https://picasaweb.google.com/goldsounds/UnlockingVideo?authkey=Gv1sRgCP690om2p67vsAE&amp;pli=1#5615321524278144370"><img class="size-medium wp-image-522" title="mockup" src="/wp-content/uploads/2011/07/mockup-273x300.jpg" alt="" width="273" height="300" align="center" /></a>
 
 As a programmer I often build <a href="https://github.com/gravityrail">throw-away apps</a> in my spare time just to see how something works, explore a new API, or to discover new ways of solving old problems. However, in my professional life as a web developer, it's easy to see building prototypes as a luxury. I've often had to fight for a budget that allows for scoping and prototyping, and even more often had to go without.
 
