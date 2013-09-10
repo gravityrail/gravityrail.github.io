@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'rake'
 gem 'unidecode'
 gem 'thor'
 gem 'active_support'
