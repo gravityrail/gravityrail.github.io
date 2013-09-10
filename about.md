@@ -1,28 +1,22 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
+title: About this guy, Dan
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: background-brent.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+I'm the CTO of [NationBuilder](http://nationbuilder.com), the world's first Community Organising System.
 
-## So Simple Theme is all about:
+On the side, I write and record music and occasionally perform comedy.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
+Once upon a time, I created a TV show in Australia called [Planet Nerd](http://en.wikipedia.org/wiki/Planet_Nerd), with some wonderful friends:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* [Ben McKenzie](http://labcoatman.com.au/)
+* [Simon Barber](http://about.me/simonbarber)
+* [Paul Verhoeven](http://en.wikipedia.org/wiki/Paul_Verhoeven_(Australia))
+* And many more...
 
-[^1]: Example: *domain.com/category-name/post-title*
+Full credit for this amazing Jekyll theme must got to [Michael Rose](http://mademistakes)
+

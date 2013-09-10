@@ -29,6 +29,8 @@ bing_verify: 1695C38AA5D481B038F510859A4C6BDB
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: About
     url: /about
   - title: Articles
