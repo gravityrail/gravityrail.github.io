@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /art/index.html
+title: Art
+description: "An archive of artworks sorted by date."
+---
+<strong>Sometimes I make digital graphics, using photoshop and/or my graphics tablet. I'm still learning.</strong>
+
+<ul class="post-list">
+{% for post in site.categories.art %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>

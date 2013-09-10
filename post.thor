@@ -32,11 +32,33 @@ desc "new_song", "Creates a new song"
     create_file "_posts/#{(date + '-' + title).parameterize}.md", <<-eos
 ---
 layout: post
-title: Recording: #{title}
-description: A description
+title: #{title}
+description:
 modified: #{date}
 category: songs
 tags: [song]
+image:
+  credit:
+  creditlink:
+  feature:
+enable_comments: true
+---
+
+    eos
+  end
+
+desc "new_art", "Creates a new artwork"
+  argument :title
+  def new_art
+    date = Time.now.strftime("%Y-%m-%d")
+    create_file "_posts/#{(date + '-' + title).parameterize}.md", <<-eos
+---
+layout: post
+title: #{title}
+description:
+modified: #{date}
+category: art
+tags: [art]
 image:
   credit:
   creditlink:

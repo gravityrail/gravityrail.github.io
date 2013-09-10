@@ -3,7 +3,7 @@ description:      The home of Dan Walmsley on the web
 logo:             site-logo.png
 disqus_shortname: goldsounds
 #Comment out url when working locally to resolve base urls correctly
-url:              http://gravityrail.github.io
+#url:              http://gravityrail.github.io
 
 # Owner/author information
 owner:
@@ -37,6 +37,8 @@ links:
     url: /blog
   - title: Songs
     url: /songs
+  - title: Art
+    url: /art
   # - title: Google
   #   url: http://google.com
   #   external: true
