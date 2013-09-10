@@ -13,7 +13,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter: https://twitter.com/danwalmsley
   facebook: https://www.facebook.com/dan.walmsley.exists
-  github: https://github.com/gravityrail
+  github: gravityrail
   linkedin: http://www.linkedin.com/pub/daniel-walmsley/1/4a8/857
   instagram: http://instagram.com/goldsounds
   tumblr:
@@ -33,9 +33,9 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Google
-    url: http://google.com
-    external: true
+  # - title: Google
+  #   url: http://google.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
