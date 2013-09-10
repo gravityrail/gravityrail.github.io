@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'unidecode'
+gem 'thor'
 gem 'sequel'
 gem 'mysql2'
 gem 'jekyll'
