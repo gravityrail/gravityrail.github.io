@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 gem 'unidecode'
 gem 'thor'
+gem 'active_support'
+gem 'i18n'
 gem 'sequel'
 gem 'mysql2'
 gem 'jekyll'
