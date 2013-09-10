@@ -1,0 +1,236 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Virtualising Magnolia CMS &#8211; GoldSounds</title>
+<meta name="description" content="The home of Dan Walmsley on the web">
+<meta name="keywords" content="">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/site-logo.png">
+<meta name="twitter:title" content="Virtualising Magnolia CMS">
+<meta name="twitter:description" content="The home of Dan Walmsley on the web">
+<meta name="twitter:creator" content="@https://twitter.com/danwalmsley">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Virtualising Magnolia CMS">
+<meta property="og:description" content="The home of Dan Walmsley on the web">
+<meta property="og:url" content="/general/programming/virtualising-magnolia-cms">
+<meta property="og:site_name" content="GoldSounds">
+
+<meta name="google-site-verification" content="ctYPFVgrQdPlw-LQPjdbWiJ6JS1pxMR10J4JDhpPSxY">
+<meta name="msvalidate.01" content="1695C38AA5D481B038F510859A4C6BDB">
+
+
+<link rel="canonical" href="/general/programming/virtualising-magnolia-cms">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="GoldSounds Feed">
+<link rel="author" href="https://plus.google.com/108218105264306951840?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post" itemscope itemtype="http://schema.org/WebPage">
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	    <ul>
+	        
+			<li>
+				
+					<a href="/about">About</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="/articles">Articles</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://google.com">Google</a>
+				 
+			</li>
+	        
+	        <li><a href="/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+	<div class="wrap">
+		<a href="" class="site-logo" rel="home" title="GoldSounds" itemprop="url"><img src="/images/site-logo.png" width="200" height="200" alt="GoldSounds logo" class="animated fadeInUp" itemprop="logo"></a>
+		<h1 class="site-title animated fadeIn"><a href="">GoldSounds</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">The home of Dan Walmsley on the web</h2>
+	</div>
+</header><!-- /.masthead -->
+
+
+<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"></span>
+        
+          <h1 class="entry-title" itemprop="headline">Virtualising Magnolia CMS</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        <img src="/images/your-photo.jpg" alt="Dan walmsley photo" class="author-photo">
+        <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="/about" title="About Dan walmsley" itemprop="url">Dan walmsley</a></span></span>
+        <span class="entry-date date published"><time datetime="2007-10-09T18:59:10-07:00" itemprop="datePublished"><i class="icon-calendar-empty"></i> October 09, 2007</time></span>
+        
+        
+
+        <span><a href="/general/programming/virtualising-magnolia-cms" rel="bookmark" title="Virtualising Magnolia CMS" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
+      </footer>
+      <div class="entry-content" itemprop="description">
+        <p>In a sharp left-turn for the danwalmsley.com ouvre, what follows is instructions for virtualising Magnolia CMS. Magnolia is an open-source Content Management system available in both community and enterprise versions, and is elegant and easy-to-use.</p>
+
+<p>If you want to deploy Magnolia for multiple clients across multiple virtual domains hosted through a single instance of Apache HTTPD and a single instance of Apache Tomcat, read on.</p>
+
+<h2>Virtualising Magnolia</h2>
+
+<p>Virtualises magnolia for an apache virtual host under / for root and /admin for admin stuff</p>
+
+<p>What you get:</p>
+<ul>
+<li>myclient.com: magnolia public content (i.e. everything normally under /magnoliaPublic)</li>
+<li>myclient.com/admin: magnolia authoring interface (i.e. everything normally under /magnoliaAuthor)</li>
+</ul>
+
+<p>Variables:
+$CLIENT = client name, e.g. myclient
+$CLIENT_HOSTNAME = client host name to be proxied, e.g. myclient.com
+$CLIENT_PORT = selected port on which Tomcat should host the site, e.g. 8082.
+$TOMCAT_HOME = installation directory of TOMCAT</p>
+
+<h3>Tomcat Config</h3>
+
+<p>mkdir $TOMCAT_HOME/webapps_$CLIENT</p>
+
+<p>unzip magnoliaPublic.war to webapps<em>$CLIENT/ROOT
+unzip magnoliaAuthor.war to webapps</em>$CLIENT/admin</p>
+
+<p>cd $TOMCAT_HOME/conf/Catalina</p>
+
+<p>mkdir $CLIENT_HOSTNAME
+(e.g. mkdir myclient.com)</p>
+
+<p>edit $TOMCAT_HOME/conf/server.xml to include the following elements:</p>
+
+<p>&lt;pre class=”prettyprint&gt;<!--<![CDATA[
+<!-- connector under Engine element , adjust port and proxyName as suitable for forwarded connections from Apache -->
+<connector port="$CLIENT_PORT" proxyname="$CLIENT_HOSTNAME" maxthreads="150" minsparethreads="25" maxsparethreads="75" enablelookups="false" acceptcount="100" debug="0" connectiontimeout="20000" proxyport="80" disableuploadtimeout="true"></connector></p>
+
+<!-- host goes under Engine entry -->
+<pre><code>  &lt;Host name="$CLIENT_HOSTNAME" debug="0" appBase="webapps_$CLIENT" unpackWARs="true" autoDeploy="true"
+    xmlValidation="false" xmlNamespaceAware="false"&gt;
+    &lt;!-- do SSO for this container --&gt;
+    &lt;Valve className="org.apache.catalina.authenticator.SingleSignOn"
+               debug="0"/&gt;
+
+  &lt;/Host&gt; ]]&gt;--&gt;&lt;/pre&gt;
+</code></pre>
+
+<h3>Configure Apache</h3>
+<p>Enable mod_proxy</p>
+
+<p>Create a config, $CLIENT.conf:
+&lt;pre class="prettyprint"&gt;&lt;![CDATA[
+&lt;VirtualHost *&gt;
+    ServerName $CLIENT_HOSTNAME</p>
+
+<pre><code>ProxyRequests Off
+&lt;Directory proxy:*&gt;
+    Order deny,allow
+    Allow from all
+&lt;/Directory&gt;
+
+ProxyPass / http://localhost:$CLIENT_PORT/
+ProxyPassReverse / http://localhost:$CLIENT_PORT/
+
+&lt;Location /&gt;
+    Order allow,deny
+    Allow from all
+&lt;/Location&gt;
+</code></pre>
+<p>&lt;/VirtualHost&gt;
+]]&gt;&lt;/pre&gt;</p>
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/general/comedy/planet-nerd-is-about-to-blow-this-sht-sky-high" class="btn" title="Planet Nerd is about to blow this sh*t sky-high">Previous article</a>
+      
+      
+        <a href="/general/planet-nerd-videos-now-on-veohcom" class="btn" title="Planet Nerd videos now on Veoh.com">Next article</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>&copy; 2013 Dan walmsley. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">So Simple Theme</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/https://twitter.com/danwalmsley" title="Dan walmsley on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="http://facebook.com/https://www.facebook.com/dan.walmsley.exists" title="Dan walmsley on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>
+	<a href="https://plus.google.com/108218105264306951840" title="Dan walmsley on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
+	<a href="http://linkedin.com/in/http://www.linkedin.com/pub/daniel-walmsley/1/4a8/857" title="Dan walmsley on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+	
+	<a href="http://instagram.com/http://instagram.com/goldsounds" title="Dan walmsley on Instagram" target="_blank"><i class="icon-instagram icon-2x"></i></a>
+	
+	<a href="http://github.com/https://github.com/gravityrail" title="Dan walmsley on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/main.min.js"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,234 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Sending HTML Email with Wicket part II: Converting links &#8211; GoldSounds</title>
+<meta name="description" content="The home of Dan Walmsley on the web">
+<meta name="keywords" content="wicket, apache, html, email, java, render, marketing">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/site-logo.png">
+<meta name="twitter:title" content="Sending HTML Email with Wicket part II: Converting links">
+<meta name="twitter:description" content="The home of Dan Walmsley on the web">
+<meta name="twitter:creator" content="@https://twitter.com/danwalmsley">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Sending HTML Email with Wicket part II: Converting links">
+<meta property="og:description" content="The home of Dan Walmsley on the web">
+<meta property="og:url" content="/programming/articles/sending-html-email-with-wicket-part-ii-converting-links">
+<meta property="og:site_name" content="GoldSounds">
+
+<meta name="google-site-verification" content="ctYPFVgrQdPlw-LQPjdbWiJ6JS1pxMR10J4JDhpPSxY">
+<meta name="msvalidate.01" content="1695C38AA5D481B038F510859A4C6BDB">
+
+
+<link rel="canonical" href="/programming/articles/sending-html-email-with-wicket-part-ii-converting-links">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="GoldSounds Feed">
+<link rel="author" href="https://plus.google.com/108218105264306951840?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post" itemscope itemtype="http://schema.org/WebPage">
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	    <ul>
+	        
+			<li>
+				
+					<a href="/about">About</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="/articles">Articles</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://google.com">Google</a>
+				 
+			</li>
+	        
+	        <li><a href="/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+	<div class="wrap">
+		<a href="" class="site-logo" rel="home" title="GoldSounds" itemprop="url"><img src="/images/site-logo.png" width="200" height="200" alt="GoldSounds logo" class="animated fadeInUp" itemprop="logo"></a>
+		<h1 class="site-title animated fadeIn"><a href="">GoldSounds</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">The home of Dan Walmsley on the web</h2>
+	</div>
+</header><!-- /.masthead -->
+
+
+<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"><a href="/tags.html#wicket" title="Pages tagged wicket" rel="tag">wicket</a>&nbsp;&bull;&nbsp;<a href="/tags.html#apache" title="Pages tagged apache" rel="tag">apache</a>&nbsp;&bull;&nbsp;<a href="/tags.html#html" title="Pages tagged html" rel="tag">html</a>&nbsp;&bull;&nbsp;<a href="/tags.html#email" title="Pages tagged email" rel="tag">email</a>&nbsp;&bull;&nbsp;<a href="/tags.html#java" title="Pages tagged java" rel="tag">java</a>&nbsp;&bull;&nbsp;<a href="/tags.html#render" title="Pages tagged render" rel="tag">render</a>&nbsp;&bull;&nbsp;<a href="/tags.html#marketing" title="Pages tagged marketing" rel="tag">marketing</a></span>
+        
+          <h1 class="entry-title" itemprop="headline">Sending HTML Email with Wicket part II: Converting links</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        <img src="/images/your-photo.jpg" alt="Dan walmsley photo" class="author-photo">
+        <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="/about" title="About Dan walmsley" itemprop="url">Dan walmsley</a></span></span>
+        <span class="entry-date date published"><time datetime="2008-10-23T00:41:28-07:00" itemprop="datePublished"><i class="icon-calendar-empty"></i> October 23, 2008</time></span>
+        
+        
+
+        <span><a href="/programming/articles/sending-html-email-with-wicket-part-ii-converting-links" rel="bookmark" title="Sending HTML Email with Wicket part II: Converting links" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
+      </footer>
+      <div class="entry-content" itemprop="description">
+        <p>In my previous post, I showed how you can use <a href="http://wicket.apache.org">Wicket</a>’s HTML rendering engine to render HTML emails by faking a request/response cycle.</p>
+
+<p>In this post, I’ll show you how to use an IVisitor to change image and anchor URLs to be absolute instead of relative. This is absolutely essential in order to make your HTML email work - otherwise all your images can’t be found, and your links point to your own mail server.</p>
+
+<p>The trick is to use Wicket’s IVisitor to add a TransformerBehaviour to all the Images and Links that uses a regex to transform the URL after render but before the page is returned.</p>
+
+<p>The code for the IVisitor is below:</p>
+<pre>private final class RelativeToAbsoluteUrlVisitor implements IVisitor {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private final String requestPath;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private Pattern urlPattern;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private Class&lt;? extends Component&gt; componentClass;
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private RelativeToAbsoluteUrlVisitor(String requestPath, Class&lt;? extends Component&gt; componentClass, String attributeName) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; this.requestPath = requestPath;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; this.componentClass = componentClass;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; urlPattern = Pattern.compile(attributeName+"=\"(.*?)\"");
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public Object component(Component component) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //if this component is of the specified class, update the URL attribute to be absolute instead of relative
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; if(componentClass.isInstance(component)) {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; component.add(new AbstractTransformerBehavior() {
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; @Override
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public CharSequence transform(Component component,
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; CharSequence output) throws Exception {
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn("Transforming component output: "+output);
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; Matcher m = urlPattern.matcher(output);
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; if(m.find()){
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String attributeValue = m.group(1);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int start = m.start(1);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; int end = m.end(1);
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //convert relative to absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String absolutePath = RequestUtils.toAbsolutePath(requestPath, attributeValue);
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn("Got absolute path '"+absolutePath+"' from relative path '"+attributeValue+"'");
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //construct a new string with the absolute URL
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String strOutput = String.valueOf(output);
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; String finalOutput = strOutput.substring(0, start)+absolutePath+strOutput.substring(end);
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; log.warn("Returning updated component: '"+finalOutput+"'");
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return finalOutput;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return output;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }});
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; return IVisitor.CONTINUE_TRAVERSAL;
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; &Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }</pre>
+<p>Then we override the onBeforeRender() routine to traverse the component hierarchy and add this behaviour to the appropriate elements. Note that I haven’t shown how you get the current absolute request URL, as in my system this is proprietary. There’s plenty of example code floating around on how to do that, anyway.</p>
+<pre>
+	protected void onBeforeRender() {
+		super.onBeforeRender();
+
+		final String requestPath = MyCustomWebRequestCycle.get().getCurrentUrlAsString();
+
+		IVisitor imageVisitor = new RelativeToAbsoluteUrlVisitor(requestPath, Image.class, "src");
+		IVisitor anchorVisitor = new RelativeToAbsoluteUrlVisitor(requestPath, Link.class, "href");
+
+		visitChildren(Image.class, imageVisitor);
+		visitChildren(Link.class, anchorVisitor);
+	}</pre>
+<p>So there you have it! All the bits and pieces to create HTML email with Wicket. There’s one more catch though: You have to generate these emails in the same process as the Wicket Application. Calling Application.get() outside of the main process results in an error. In my system, I get around this by generating the HTML email source every time the user saves my Newsletter bean, which means that when it’s finally sent (in the background), it just sends the pre-generated HTML. Easy!</p>
+<pre></pre>
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/programming/articles/render-a-wicket-page-to-a-string-for-html-email" class="btn" title="Render a Wicket page to a string for HTML email">Previous article</a>
+      
+      
+        <a href="/programming/brix-rules" class="btn" title="Brix Rules">Next article</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>&copy; 2013 Dan walmsley. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">So Simple Theme</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/https://twitter.com/danwalmsley" title="Dan walmsley on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="http://facebook.com/https://www.facebook.com/dan.walmsley.exists" title="Dan walmsley on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>
+	<a href="https://plus.google.com/108218105264306951840" title="Dan walmsley on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
+	<a href="http://linkedin.com/in/http://www.linkedin.com/pub/daniel-walmsley/1/4a8/857" title="Dan walmsley on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+	
+	<a href="http://instagram.com/http://instagram.com/goldsounds" title="Dan walmsley on Instagram" target="_blank"><i class="icon-instagram icon-2x"></i></a>
+	
+	<a href="http://github.com/https://github.com/gravityrail" title="Dan walmsley on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/main.min.js"></script>
+
+
+
+</body>
+</html>

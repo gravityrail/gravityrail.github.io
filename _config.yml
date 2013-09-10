@@ -1,3 +1,46 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+title:            GoldSounds
+description:      The home of Dan Walmsley on the web
+logo:             site-logo.png
+disqus_shortname: goldsounds
+#Comment out url when working locally to resolve base urls correctly
+#url:              http://gravityrail.github.io
+
+# Owner/author information
+owner:
+  name:           Dan walmsley
+  avatar:         your-photo.jpg
+  email:          goldsounds@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: https://twitter.com/danwalmsley
+  facebook: https://www.facebook.com/dan.walmsley.exists
+  github: https://github.com/gravityrail
+  linkedin: http://www.linkedin.com/pub/daniel-walmsley/1/4a8/857
+  instagram: http://instagram.com/goldsounds
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "https://plus.google.com/108218105264306951840"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify: ctYPFVgrQdPlw-LQPjdbWiJ6JS1pxMR10J4JDhpPSxY
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: 1695C38AA5D481B038F510859A4C6BDB
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Articles
+    url: /articles
+  - title: Google
+    url: http://google.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title

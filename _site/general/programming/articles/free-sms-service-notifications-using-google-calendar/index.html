@@ -1,0 +1,341 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Free SMS service notifications using Google Calendar &#8211; GoldSounds</title>
+<meta name="description" content="The home of Dan Walmsley on the web">
+<meta name="keywords" content="sms java google calendar api atom app service monitoring">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/site-logo.png">
+<meta name="twitter:title" content="Free SMS service notifications using Google Calendar">
+<meta name="twitter:description" content="The home of Dan Walmsley on the web">
+<meta name="twitter:creator" content="@https://twitter.com/danwalmsley">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Free SMS service notifications using Google Calendar">
+<meta property="og:description" content="The home of Dan Walmsley on the web">
+<meta property="og:url" content="/general/programming/articles/free-sms-service-notifications-using-google-calendar">
+<meta property="og:site_name" content="GoldSounds">
+
+<meta name="google-site-verification" content="ctYPFVgrQdPlw-LQPjdbWiJ6JS1pxMR10J4JDhpPSxY">
+<meta name="msvalidate.01" content="1695C38AA5D481B038F510859A4C6BDB">
+
+
+<link rel="canonical" href="/general/programming/articles/free-sms-service-notifications-using-google-calendar">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="GoldSounds Feed">
+<link rel="author" href="https://plus.google.com/108218105264306951840?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post" itemscope itemtype="http://schema.org/WebPage">
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	    <ul>
+	        
+			<li>
+				
+					<a href="/about">About</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="/articles">Articles</a>
+				 
+			</li>
+	        
+			<li>
+				
+					<a href="http://google.com">Google</a>
+				 
+			</li>
+	        
+	        <li><a href="/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+	<div class="wrap">
+		<a href="" class="site-logo" rel="home" title="GoldSounds" itemprop="url"><img src="/images/site-logo.png" width="200" height="200" alt="GoldSounds logo" class="animated fadeInUp" itemprop="logo"></a>
+		<h1 class="site-title animated fadeIn"><a href="">GoldSounds</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">The home of Dan Walmsley on the web</h2>
+	</div>
+</header><!-- /.masthead -->
+
+
+<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"><a href="/tags.html#sms java google calendar api atom app service monitoring" title="Pages tagged sms java google calendar api atom app service monitoring" rel="tag">sms java google calendar api atom app service monitoring</a></span>
+        
+          <h1 class="entry-title" itemprop="headline">Free SMS service notifications using Google Calendar</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        <img src="/images/your-photo.jpg" alt="Dan walmsley photo" class="author-photo">
+        <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="/about" title="About Dan walmsley" itemprop="url">Dan walmsley</a></span></span>
+        <span class="entry-date date published"><time datetime="2008-09-23T07:14:24-07:00" itemprop="datePublished"><i class="icon-calendar-empty"></i> September 23, 2008</time></span>
+        
+        
+
+        <span><a href="/general/programming/articles/free-sms-service-notifications-using-google-calendar" rel="bookmark" title="Free SMS service notifications using Google Calendar" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
+      </footer>
+      <div class="entry-content" itemprop="description">
+        <p>Today I had a small revelation.</p>
+
+<p>I was wracking my brains trying to figure out the SMS messaging provider to use to send myself service outage notifications for my clients’ web sites. Given that I have just a handful of clients so far, it makes no sense to use a provider that requires a minimum monthly or yearly spend.</p>
+
+<p>Ideally of course, I’d like to spend nothing at all, and in exasperation I finally threw my hands in the air (they’re detachable) and whined: “Google sends SMS’s for free - why is it so hard for everyone else?”</p>
+
+<p>(answer: not everyone has billions of dollars)</p>
+
+<p>And then came the revelation: Why not create a command-line tool that uses Google’s Calendar API to create events 6 minutes in the future that have an SMS notification set for 5 minutes prior to launch? That way, within a minute you get a notification sent to your phone for free within 1 minute. Sweet!</p>
+
+<p>So, here’s the code (it’s in Java… sorry)
+<code>
+/**
+ * Simple command-line notification command that uses Google Calendar ATOM API to create
+ * a single event 6 minutes in the future with a 5 minute SMS reminder
+ *
+ * @author Daniel Walmsley
+ *
+ */</code></p>
+
+<p>import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.Date;
+import java.util.List;</p>
+
+<p>import com.google.gdata.client.calendar.CalendarService;
+import com.google.gdata.data.DateTime;
+import com.google.gdata.data.PlainTextConstruct;
+import com.google.gdata.data.calendar.CalendarEntry;
+import com.google.gdata.data.calendar.CalendarEventEntry;
+import com.google.gdata.data.calendar.CalendarFeed;
+import com.google.gdata.data.extensions.Reminder;
+import com.google.gdata.data.extensions.When;
+import com.google.gdata.data.extensions.Reminder.Method;
+import com.google.gdata.util.AuthenticationException;
+import com.google.gdata.util.ServiceException;</p>
+
+<p>/**
+ * This is a test template
+ */</p>
+
+<p>public class GCalNotifier {</p>
+
+<pre><code>public static void main(String[] args) {
+
+	/**
+	 * Command line args:
+	 *
+	 * username
+	 * password
+	 * calendar name (e.g. "Notifications")
+	 * TimeZone offset (in hours)
+	 * event start offset (in minutes)
+	 * event end offset (in minutes)
+	 * title
+	 * description
+	 */
+
+	try {
+
+		// Create a new Calendar service
+		CalendarService myService = new CalendarService("GCal Event Notifier");
+		myService.setUserCredentials(args[0], args[1]);
+
+		String calendarName = args[2];
+		Long tzOffset = new Double(Double.parseDouble(args[3])).longValue() * 60 * 60 * 1000;
+		Long startOffset = new Integer(Integer.parseInt(args[4])).longValue() * 60 * 1000;
+		Long endOffset = new Integer(Integer.parseInt(args[5])).longValue() * 60 * 1000;
+		String title = args[6];
+		String description = args[7];
+
+		// Get a list of all entries
+		URL metafeedUrl = new URL(
+				"http://www.google.com/calendar/feeds/default/allcalendars/full");
+		System.out.println("Getting Calendar entries...\n");
+		CalendarFeed resultFeed = myService.getFeed(metafeedUrl,
+				CalendarFeed.class);
+		List&lt;CalendarEntry&gt; entries = resultFeed.getEntries();
+		for (int i = 0; i &lt; entries.size(); i++) {
+			CalendarEntry entry = entries.get(i);
+			String currCalendarName = entry.getTitle().getPlainText();
+			System.out.println("\t" + currCalendarName);
+
+			if (currCalendarName.equals(calendarName)) {
+				sendDowntimeAlert(myService, entry,
+						title, description, startOffset, endOffset, tzOffset);
+			}
+		}
+		System.out.println("\nTotal Entries: " + entries.size());
+
+	} catch (AuthenticationException e) {
+		e.printStackTrace();
+	} catch (MalformedURLException e) {
+		e.printStackTrace();
+	} catch (ServiceException e) {
+		e.printStackTrace();
+	} catch (IOException e) {
+		e.printStackTrace();
+	}
+}
+
+private static void sendDowntimeAlert(CalendarService myService,
+		CalendarEntry entry, String title, String description, Long startOffset, Long endOffset, Long tzOffset) throws IOException,
+		ServiceException {
+
+	String postUrlString = entry.getLink("alternate", "application/atom+xml").getHref();
+
+	URL postUrl = new URL(postUrlString);//was: "http://www.google.com/calendar/feeds/jo@gmail.com/private/full"
+
+	CalendarEventEntry myEntry = new CalendarEventEntry();
+
+	myEntry.setTitle(new PlainTextConstruct(title));
+	myEntry.setContent(new PlainTextConstruct(description));
+
+	Date now = new Date();
+
+	Date startDate = new Date(now.getTime()+startOffset);
+	Date endDate = new Date(now.getTime()+endOffset);
+
+	DateTime startTime = new DateTime(startDate.getTime()+tzOffset);
+
+	DateTime endTime = new DateTime(endDate.getTime()+tzOffset);
+
+	When eventTimes = new When();
+	eventTimes.setStartTime(startTime);
+	eventTimes.setEndTime(endTime);
+	myEntry.addTime(eventTimes);
+
+	// Send the request and receive the response:
+	CalendarEventEntry insertedEntry = myService.insert(postUrl, myEntry);
+	System.err.println("Got response for: "+insertedEntry.getTitle().getPlainText());
+	for(When when : insertedEntry.getTimes()) {
+		System.err.println("When: "+when.getStartTime()+" to "+when.getEndTime());
+	}
+
+	//5 minute reminder
+	Reminder reminder = new Reminder();
+	reminder.setMinutes(5);
+	reminder.setMethod(Method.SMS);
+	insertedEntry.getReminder().add(reminder);
+	insertedEntry.update();
+} }&lt;/code&gt;
+</code></pre>
+
+<p>Don’t forget, you’ll need to <a href="http://code.google.com/apis/gdata/client-java.html">download the Google Data APIs</a> and put their JARs in your classpath before this will work!</p>
+
+<p>Personally I use this with Nagios. I always use the same args for the calendar offsets, so I’ve encapsulated most of my settings (except title and body) in a script.
+<code>
+#!/bin/sh</code></p>
+
+<p>export SCRIPTDIR=/opt/calAlert
+export USERNAME=username@gmail.com
+export PW=mySecurePassword
+export CAL=Notifications
+export TZOFFSET=10
+export STARTOFFSET=7
+export ENDOFFSET=12
+export TITLE=$1
+export BODY=$2</p>
+
+<h1 id="export-currdirpwd">export CURRDIR=<code>pwd</code></h1>
+<p>export CLASSPATH=”${SCRIPTDIR}/calAlert.jar”
+#assumes GData libs are in “libs” subdirectory of SCRIPTDIR</p>
+
+<p>for jarfile in $(ls “${SCRIPTDIR}/lib”)
+do
+    CLASSPATH=”${CLASSPATH}:${SCRIPTDIR}/lib/${jarfile}”
+    echo lib/${jarfile}
+done</p>
+
+<p>echo “CLASSPATH=${CLASSPATH}”</p>
+
+<p>export CLASSPATH</p>
+
+<p>java GCalNotifier ${USERNAME} ${PW} ${CAL} ${TZOFFSET} ${STARTOFFSET} ${ENDOFFSET} “${TITLE}” “${BODY}”
+&lt;/code&gt;</p>
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="/general/acn-video-phone-part-xcviii-the-acn-enning" class="btn" title="ACN Video Phone part XCVIII: The ACN-enning!">Previous article</a>
+      
+      
+        <a href="/general/fringe-show-set-list" class="btn" title="Fringe Show: Set List">Next article</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>&copy; 2013 Dan walmsley. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">So Simple Theme</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/https://twitter.com/danwalmsley" title="Dan walmsley on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+	<a href="http://facebook.com/https://www.facebook.com/dan.walmsley.exists" title="Dan walmsley on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>
+	<a href="https://plus.google.com/108218105264306951840" title="Dan walmsley on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
+	<a href="http://linkedin.com/in/http://www.linkedin.com/pub/daniel-walmsley/1/4a8/857" title="Dan walmsley on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+	
+	<a href="http://instagram.com/http://instagram.com/goldsounds" title="Dan walmsley on Instagram" target="_blank"><i class="icon-instagram icon-2x"></i></a>
+	
+	<a href="http://github.com/https://github.com/gravityrail" title="Dan walmsley on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
+	
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/main.min.js"></script>
+
+
+
+</body>
+</html>
