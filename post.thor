@@ -69,5 +69,27 @@ enable_comments: true
     eos
   end
 
+  desc "new_code", "Creates a new software project"
+  argument :title
+  def new_code
+    date = Time.now.strftime("%Y-%m-%d")
+    create_file "_posts/#{(date + '-' + title).parameterize}.md", <<-eos
+---
+layout: post
+title: #{title}
+description:
+modified: #{date}
+category: code
+tags: [code]
+image:
+  credit:
+  creditlink:
+  feature:
+enable_comments: true
+---
+
+    eos
+  end
+
 
 end
