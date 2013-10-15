@@ -39,6 +39,8 @@ links:
     url: /songs
   - title: Art
     url: /art
+  - title: Code
+    url: /code
   # - title: Google
   #   url: http://google.com
   #   external: true

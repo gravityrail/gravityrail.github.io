@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /code/index.html
+title: Code
+description: "An archive of open source software sorted by date."
+---
+<strong>Sometimes I write software for fun. It's also my day job.</strong>
+
+<ul class="post-list">
+{% for post in site.categories.code %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
