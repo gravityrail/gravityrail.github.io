@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+gem 'rake'
+gem 'unidecode'
+gem 'thor'
+gem 'active_support'
+gem 'i18n'
+gem 'sequel'
+gem 'mysql2'
+gem 'jekyll'
+gem 'htmlentities'
+gem 'hpricot'
+gem 'nokogiri'
+gem 'jekyll-import', :git => "https://github.com/jekyll/jekyll-import.git"
